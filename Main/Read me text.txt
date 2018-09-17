@@ -1,0 +1,6 @@
+.FYP_Prototype
+ -coster move
+ -level transition
+.Shooting_BP
+ -Traking player
+ -Enemy wanders
