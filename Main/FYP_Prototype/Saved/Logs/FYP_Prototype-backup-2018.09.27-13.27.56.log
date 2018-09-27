@@ -1,0 +1,544 @@
+﻿Log file open, 09/27/18 11:03:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FYP_Prototype
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.280749
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.184s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.27-03.03.22:531][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.27-03.03.22:531][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.27-03.03.22:574][  0]LogHAL: Display: Platform has ~ 16 GB [17068404736 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.27-03.03.22:574][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.27-03.03.22:574][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.27-03.03.22:575][  0]LogInit: Computer: LAPTOP-7KGPSIV0
+[2018.09.27-03.03.22:575][  0]LogInit: User: SIDM
+[2018.09.27-03.03.22:575][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.27-03.03.22:575][  0]LogInit: High frequency timer resolution =2.742188 MHz
+[2018.09.27-03.03.22:576][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.09.27-03.03.22:576][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.27-03.03.22:576][  0]LogMemory: Process Physical Memory: 102.32 MB used, 102.32 MB peak
+[2018.09.27-03.03.22:576][  0]LogMemory: Process Virtual Memory: 94.30 MB used, 94.30 MB peak
+[2018.09.27-03.03.22:576][  0]LogMemory: Physical Memory: 5875.75 MB used,  10401.95 MB free, 16277.70 MB total
+[2018.09.27-03.03.22:576][  0]LogMemory: Virtual Memory: 4655.07 MB used,  10401.95 MB free, 134217728.00 MB total
+[2018.09.27-03.03.22:631][  0]LogInit: Using OS detected language (en-US).
+[2018.09.27-03.03.22:631][  0]LogInit: Using OS detected locale (en-SG).
+[2018.09.27-03.03.22:632][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.27-03.03.23:245][  0]LogStreaming: Display: Took  0.614s to InitEngineTextLocalization.
+[2018.09.27-03.03.23:282][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.27-03.03.23:282][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.27-03.03.23:508][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.27-03.03.23:508][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.27-03.03.23:647][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.09.27-03.03.23:647][  0]LogD3D11RHI:       6052/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.09.27-03.03.23:677][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.09.27-03.03.23:677][  0]LogD3D11RHI:       128/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.09.27-03.03.23:682][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.27-03.03.23:682][  0]LogD3D11RHI:       0/0/8138 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.27-03.03.23:682][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.27-03.03.23:738][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.27-03.03.23:738][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.27-03.03.23:739][  0]LogWindows: EnumDisplayDevices:
+[2018.09.27-03.03.23:739][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.09.27-03.03.23:740][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.09.27-03.03.23:741][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.09.27-03.03.23:741][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.09.27-03.03.23:741][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2018.09.27-03.03.23:742][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.09.27-03.03.23:742][  0]LogD3D11RHI:   Driver Version: 398.82 (internal:24.21.13.9882, unified:398.82)
+[2018.09.27-03.03.23:742][  0]LogD3D11RHI:      Driver Date: 7-30-2018
+[2018.09.27-03.03.23:742][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.09.27-03.03.23:808][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.27-03.03.23:825][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.27-03.03.23:826][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/Intermediate/Shaders/WorkingDirectory/10500/).
+[2018.09.27-03.03.23:826][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/SIDM/AppData/Local/Temp/UnrealShaderWorkingDir/54D68ACA4B580A9A4A4724A5D95ED528/'.
+[2018.09.27-03.03.24:313][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.27-03.03.24:333][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.27-03.03.24:365][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.27-03.03.24:403][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.27-03.03.24:427][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.27-03.03.24:451][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.27-03.03.24:469][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.27-03.03.24:483][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.27-03.03.24:488][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.27-03.03.24:561][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-03.03.24:561][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-03.03.24:561][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-03.03.24:561][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-03.03.24:561][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-03.03.24:561][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-03.03.24:561][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-03.03.24:561][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-03.03.24:561][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-03.03.24:561][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-03.03.24:561][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-03.03.24:561][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-03.03.24:561][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-03.03.24:561][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-03.03.24:561][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-03.03.24:561][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-03.03.24:561][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-03.03.24:561][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.27-03.03.24:562][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.27-03.03.24:628][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.27-03.03.24:628][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.27-03.03.24:690][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.27-03.03.24:690][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.27-03.03.24:708][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.27-03.03.24:722][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.27-03.03.24:735][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.27-03.03.24:747][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.27-03.03.24:755][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.27-03.03.24:756][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.27-03.03.24:863][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.27-03.03.24:863][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.27-03.03.24:863][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.27-03.03.25:626][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.27-03.03.25:680][  0]LogDerivedDataCache: Loaded boot cache 0.05s 86MB C:/Users/SIDM/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.27-03.03.25:680][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/SIDM/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.27-03.03.25:681][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.27-03.03.25:681][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.27-03.03.25:681][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.27-03.03.25:681][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.27-03.03.25:693][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.27-03.03.25:705][  0]LogDerivedDataCache: Using Local data cache path C:/Users/SIDM/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.27-03.03.25:705][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.27-03.03.25:705][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.27-03.03.25:732][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.27-03.03.25:736][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.27-03.03.25:737][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.27-03.03.25:832][  0]LogAssetRegistry: FAssetRegistry took 0.0258 seconds to start up
+[2018.09.27-03.03.26:177][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.27-03.03.26:332][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.27-03.03.26:335][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.27-03.03.26:335][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.27-03.03.26:335][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.27-03.03.26:335][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.27-03.03.26:354][  0]LogNetVersion: FYP_Prototype 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1129731653)
+[2018.09.27-03.03.27:474][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.268939 seconds
+[2018.09.27-03.03.27:492][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.27-03.03.27:492][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.09.27-03.03.27:492][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.27-03.03.29:349][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.27-03.03.29:366][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.27-03.03.29:647][  0]SourceControl: Source control is disabled
+[2018.09.27-03.03.29:647][  0]SourceControl: Source control is disabled
+[2018.09.27-03.03.29:650][  0]SourceControl: Source control is disabled
+[2018.09.27-03.03.29:652][  0]SourceControl: Source control is disabled
+[2018.09.27-03.03.29:891][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.27-03.03.30:046][  0]LogOcInput: OculusInput pre-init called
+[2018.09.27-03.03.30:197][  0]LogEngine: Initializing Engine...
+[2018.09.27-03.03.30:198][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.27-03.03.30:201][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.27-03.03.30:201][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.27-03.03.30:201][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.27-03.03.30:201][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.27-03.03.30:709][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.27-03.03.30:731][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.27-03.03.30:746][  0]LogInit: XAudio2 using 'Realtek HD Audio 2nd output (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.27-03.03.30:777][  0]LogInit: FAudioDevice initialized.
+[2018.09.27-03.03.30:778][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.27-03.03.30:914][  0]LogDerivedDataCache: Saved boot cache 0.14s 86MB C:/Users/SIDM/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.27-03.03.30:956][  0]LogInit: Texture streaming: Enabled
+[2018.09.27-03.03.30:996][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.27-03.03.31:028][  0]LogInit: Transaction tracking system initialized
+[2018.09.27-03.03.31:082][  0]BlueprintLog: New page: Editor Load
+[2018.09.27-03.03.31:160][  0]LocalizationService: Localization service is disabled
+[2018.09.27-03.03.31:363][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2018.09.27-03.03.31:363][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2018.09.27-03.03.31:363][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2018.09.27-03.03.31:561][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.27-03.03.31:561][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.27-03.03.31:561][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.27-03.03.31:561][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.27-03.03.31:561][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.27-03.03.31:561][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.27-03.03.31:561][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.27-03.03.31:658][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/Content/' took 0.01s
+[2018.09.27-03.03.31:658][  0]SourceControl: Source control is disabled
+[2018.09.27-03.03.31:658][  0]Cmd: MAP LOAD FILE="../../../../../../Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.27-03.03.31:658][  0]LightingResults: New page: Lighting Build
+[2018.09.27-03.03.31:661][  0]MapCheck: New page: Map Check
+[2018.09.27-03.03.31:661][  0]LightingResults: New page: Lighting Build
+[2018.09.27-03.03.31:939][  0]LogAIModule: Creating AISystem for world StartupMap
+[2018.09.27-03.03.31:952][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.27-03.03.31:996][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.27-03.03.32:055][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.486ms to complete.
+[2018.09.27-03.03.32:055][  0]LogFileHelpers: Loading map 'StartupMap' took 0.396
+[2018.09.27-03.03.32:235][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.27-03.03.32:245][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.27-03.03.32:255][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.27-03.03.32:264][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.27-03.03.32:269][  0]LogCollectionManager: Loaded 0 collections in 0.001311 seconds
+[2018.09.27-03.03.32:310][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/Saved/Collections/' took 0.01s
+[2018.09.27-03.03.32:310][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/Content/Developers/SIDM/Collections/' took 0.01s
+[2018.09.27-03.03.32:310][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/Content/Collections/' took 0.01s
+[2018.09.27-03.03.32:310][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.27-03.03.32:320][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2572 classes and 603 folders.
+[2018.09.27-03.03.32:335][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.09.27-03.03.32:419][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.27-03.03.32:425][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.09.27-03.03.32:596][  0]LogSlate: Took 0.000493 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.27-03.03.32:604][  0]LogSlate: Took 0.000573 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.27-03.03.32:621][  0]LogSlate: Took 0.000633 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.27-03.03.32:818][  0]LogRenderer: Reallocating scene render targets to support 920x484 Format 26 NumSamples 1 (Frame:1).
+[2018.09.27-03.03.33:033][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.09.27-03.03.33:033][  0]LogLoad: (Engine Initialization) Total time: 12.98 seconds
+[2018.09.27-03.03.33:033][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.27-03.03.33:057][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.27-03.03.33:089][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.27-03.03.33:134][  0]LogSlate: Took 0.000326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.27-03.03.33:189][  2]LogAssetRegistry: Asset discovery search completed in 7.3797 seconds
+[2018.09.27-03.03.33:191][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.27-03.03.33:191][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2018.09.27-03.05.02:651][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.27-03.05.02:791][837]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.27-03.05.03:558][837]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.09.27-03.05.03:577][837]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2018.09.27-03.05.03:604][837]Cmd: MAP LOAD FILE="../../../../../../Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.27-03.05.03:604][837]LightingResults: New page: Lighting Build
+[2018.09.27-03.05.03:604][837]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2018.09.27-03.05.03:605][837]MapCheck: New page: Map Check
+[2018.09.27-03.05.03:605][837]LightingResults: New page: Lighting Build
+[2018.09.27-03.05.03:702][837]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.27-03.05.03:788][837]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.27-03.05.03:873][837]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 84.092ms to complete.
+[2018.09.27-03.05.03:873][837]LogFileHelpers: Loading map 'MotionControllerMap' took 0.271
+[2018.09.27-03.05.10:247][545]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.09.27-03.05.10:247][545]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.09.27-03.05.10:258][545]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-03.05.12:447][700]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.27-03.05.12:452][700]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap
+[2018.09.27-03.05.12:984][700]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.09.27-03.05.13:747][700]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.27-03.05.13:840][701]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.27-03.07.24:140][891]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'TargetPoint'"/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.TargetPoint_7"''
+[2018.09.27-03.07.24:147][891]LogLinker: Can't find file '/Game/VirtualRealityBP/Blueprints/FallingRocks'
+[2018.09.27-03.07.24:147][891]LogLinker: Can't find file '/Game/VirtualRealityBP/Blueprints/FallingRocks'
+[2018.09.27-03.07.24:149][891]LogProperty: Warning: ObjectProperty /Script/BlueprintGraph.K2Node_Literal:ObjectRef: unresolved reference to 'TargetPoint'"/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.TargetPoint_7"''
+[2018.09.27-03.08.34:892][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.27-03.08.35:642][712]LogLinker: Warning: Can't find file '/Game/BP/EarthQuake'
+[2018.09.27-03.08.35:642][712]LogLinker: Warning: Can't find file '/Game/BP/EarthQuake'
+[2018.09.27-03.08.35:642][712]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/BP/EarthQuake.EarthQuake'
+[2018.09.27-03.09.48:721][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.27-03.09.58:455][341]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.09.27-03.09.58:455][341]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.09.27-03.10.38:504][542]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.27-03.10.48:049][320]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.27-03.10.53:146][673]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.27-03.10.59:788][ 99]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.27-03.11.31:009][463]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "PointTransform" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get PointTransform
+[2018.09.27-03.11.31:011][463]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Point Transform  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.11.31:011][463]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Node  Unknown  is not referencing a valid level actor
+[2018.09.27-03.11.31:011][463]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Node  Unknown  is not referencing a valid level actor
+[2018.09.27-03.11.31:012][463]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] [0490.96] Compile of PersistentLevel.MotionControllerMap failed. 1 Fatal Issue(s) 3 Warning(s) [in 30 ms] (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap)
+[2018.09.27-03.11.31:744][463]LogSavePackage: Moving '../../../../../../Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/Saved/MotionControllerMapBE0926844F559968D07A6BA345ED983A.tmp' to '../../../../../../Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.09.27-03.11.31:833][463]LogFileHelpers: Saving map 'MotionControllerMap' took 0.983
+[2018.09.27-03.11.32:370][476]BlueprintLog: New page: Compile MotionControllerMap
+[2018.09.27-03.11.32:421][476]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "PointTransform" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get PointTransform
+[2018.09.27-03.11.32:423][476]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Point Transform  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.11.32:423][476]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Node  Unknown  is not referencing a valid level actor
+[2018.09.27-03.11.32:423][476]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Node  Unknown  is not referencing a valid level actor
+[2018.09.27-03.11.32:583][476]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] [0492.53] Compile of PersistentLevel.MotionControllerMap failed. 1 Fatal Issue(s) 3 Warning(s) [in 212 ms] (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap)
+[2018.09.27-03.11.32:585][476]BlueprintLog: New page: Compile MotionControllerMap
+[2018.09.27-03.11.32:630][476]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "PointTransform" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get PointTransform
+[2018.09.27-03.11.32:632][476]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Point Transform  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.11.32:632][476]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Node  Unknown  is not referencing a valid level actor
+[2018.09.27-03.11.32:633][476]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Node  Unknown  is not referencing a valid level actor
+[2018.09.27-03.11.32:792][476]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] [0492.74] Compile of PersistentLevel.MotionControllerMap failed. 1 Fatal Issue(s) 3 Warning(s) [in 207 ms] (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap)
+[2018.09.27-03.11.32:793][476]BlueprintLog: New page: Compile MotionControllerMap
+[2018.09.27-03.11.32:838][476]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "PointTransform" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get PointTransform
+[2018.09.27-03.11.32:840][476]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Point Transform  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.11.32:840][476]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Node  Unknown  is not referencing a valid level actor
+[2018.09.27-03.11.32:841][476]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Node  Unknown  is not referencing a valid level actor
+[2018.09.27-03.11.33:133][476]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] [0493.08] Compile of PersistentLevel.MotionControllerMap failed. 1 Fatal Issue(s) 3 Warning(s) [in 339 ms] (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap)
+[2018.09.27-03.11.33:674][503]BlueprintLog: New page: Compile MotionControllerMap
+[2018.09.27-03.11.33:723][503]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "PointTransform" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get PointTransform
+[2018.09.27-03.11.33:725][503]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Point Transform  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.11.33:725][503]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Node  Unknown  is not referencing a valid level actor
+[2018.09.27-03.11.33:725][503]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Node  Unknown  is not referencing a valid level actor
+[2018.09.27-03.11.33:983][503]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] [0493.93] Compile of PersistentLevel.MotionControllerMap failed. 1 Fatal Issue(s) 3 Warning(s) [in 308 ms] (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap)
+[2018.09.27-03.12.02:665][603]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "PointTransform" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get PointTransform
+[2018.09.27-03.12.02:667][603]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Point Transform  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.12.02:668][603]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Node  Unknown  is not referencing a valid level actor
+[2018.09.27-03.12.02:668][603]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Node  Unknown  is not referencing a valid level actor
+[2018.09.27-03.12.02:669][603]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] [0522.61] Compile of PersistentLevel.MotionControllerMap failed. 1 Fatal Issue(s) 3 Warning(s) [in 29 ms] (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap)
+[2018.09.27-03.12.03:386][603]LogSavePackage: Moving '../../../../../../Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/Saved/MotionControllerMapDCFAA88241962451B8C79CB7BC8CEBEC.tmp' to '../../../../../../Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.09.27-03.12.03:477][603]LogFileHelpers: Saving map 'MotionControllerMap' took 1.028
+[2018.09.27-03.12.07:807][993]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP/Pipe_BP.Pipe_BP
+[2018.09.27-03.13.50:611][129]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  StartCartRide  and was replaced as a Custom Event!
+[2018.09.27-03.14.43:850][319]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent_1   conflicted with  StartCartRide  and was replaced as a Custom Event!
+[2018.09.27-03.14.43:868][319]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent_2   conflicted with  Event Tick  and was replaced as a Custom Event!
+[2018.09.27-03.15.40:821][678]LogSlate: Took 0.008766 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.09.27-03.15.45:570][794]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.09.27-03.15.50:551][212]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.09.27-03.15.50:556][212]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.09.27-03.16.44:688][461]BlueprintLog: New page: Compile Pipe_BP
+[2018.09.27-03.16.46:451][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Pipe_BP" FILE="../../../../../../Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/Content/BP/Pipe_BP.uasset" SILENT=true
+[2018.09.27-03.16.46:538][558]LogSavePackage: Moving '../../../../../../Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/Saved/Pipe_BP06FBFBF94E76429F9EA22CBB320E37B4.tmp' to '../../../../../../Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/Content/BP/Pipe_BP.uasset'
+[2018.09.27-03.16.49:976][829]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "CartPathTimeline" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get CartPathTimeline
+[2018.09.27-03.16.49:976][829]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "CartPathTimeline" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get CartPathTimeline
+[2018.09.27-03.16.49:977][829]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "CartPathTimeline" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get CartPathTimeline
+[2018.09.27-03.16.49:977][829]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "CartPathTimeline" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get CartPathTimeline
+[2018.09.27-03.16.49:977][829]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "CartPathTimeline" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get CartPathTimeline
+[2018.09.27-03.16.49:977][829]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "CartPathTimeline" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get CartPathTimeline
+[2018.09.27-03.16.49:979][829]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.16.49:979][829]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.16.49:979][829]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.16.49:979][829]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.16.49:979][829]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.16.49:979][829]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.16.49:979][829]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Node  Unknown  is not referencing a valid level actor
+[2018.09.27-03.16.49:980][829]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Node  Unknown  is not referencing a valid level actor
+[2018.09.27-03.16.49:981][829]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] [0809.93] Compile of PersistentLevel.MotionControllerMap failed. 6 Fatal Issue(s) 8 Warning(s) [in 32 ms] (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap)
+[2018.09.27-03.16.50:828][829]LogSavePackage: Moving '../../../../../../Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/Saved/MotionControllerMap13F1D78344AE248B73415CBA0A78B6BC.tmp' to '../../../../../../Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.09.27-03.16.50:931][829]LogFileHelpers: Saving map 'MotionControllerMap' took 1.114
+[2018.09.27-03.16.51:584][864]BlueprintLog: New page: Compile MotionControllerMap
+[2018.09.27-03.16.51:634][864]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "CartPathTimeline" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get CartPathTimeline
+[2018.09.27-03.16.51:634][864]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "CartPathTimeline" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get CartPathTimeline
+[2018.09.27-03.16.51:634][864]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "CartPathTimeline" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get CartPathTimeline
+[2018.09.27-03.16.51:635][864]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "CartPathTimeline" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get CartPathTimeline
+[2018.09.27-03.16.51:635][864]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "CartPathTimeline" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get CartPathTimeline
+[2018.09.27-03.16.51:635][864]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "CartPathTimeline" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get CartPathTimeline
+[2018.09.27-03.16.51:636][864]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.16.51:636][864]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.16.51:637][864]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.16.51:637][864]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.16.51:637][864]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.16.51:637][864]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.16.51:637][864]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Node  Unknown  is not referencing a valid level actor
+[2018.09.27-03.16.51:637][864]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Node  Unknown  is not referencing a valid level actor
+[2018.09.27-03.16.51:887][864]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] [0811.83] Compile of PersistentLevel.MotionControllerMap failed. 6 Fatal Issue(s) 8 Warning(s) [in 303 ms] (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap)
+[2018.09.27-03.16.53:266][983]BlueprintLog: New page: Compile MotionControllerMap
+[2018.09.27-03.16.53:317][983]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "CartPathTimeline" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get CartPathTimeline
+[2018.09.27-03.16.53:317][983]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "CartPathTimeline" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get CartPathTimeline
+[2018.09.27-03.16.53:318][983]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "CartPathTimeline" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get CartPathTimeline
+[2018.09.27-03.16.53:318][983]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "CartPathTimeline" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get CartPathTimeline
+[2018.09.27-03.16.53:318][983]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "CartPathTimeline" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get CartPathTimeline
+[2018.09.27-03.16.53:318][983]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "CartPathTimeline" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get CartPathTimeline
+[2018.09.27-03.16.53:319][983]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.16.53:319][983]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.16.53:319][983]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.16.53:320][983]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.16.53:320][983]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.16.53:320][983]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.16.53:320][983]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Node  Unknown  is not referencing a valid level actor
+[2018.09.27-03.16.53:320][983]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Node  Unknown  is not referencing a valid level actor
+[2018.09.27-03.16.53:456][983]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] [0813.40] Compile of PersistentLevel.MotionControllerMap failed. 6 Fatal Issue(s) 8 Warning(s) [in 189 ms] (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap)
+[2018.09.27-03.16.53:457][983]BlueprintLog: New page: Compile MotionControllerMap
+[2018.09.27-03.16.53:501][983]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "CartPathTimeline" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get CartPathTimeline
+[2018.09.27-03.16.53:502][983]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "CartPathTimeline" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get CartPathTimeline
+[2018.09.27-03.16.53:502][983]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "CartPathTimeline" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get CartPathTimeline
+[2018.09.27-03.16.53:502][983]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "CartPathTimeline" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get CartPathTimeline
+[2018.09.27-03.16.53:502][983]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "CartPathTimeline" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get CartPathTimeline
+[2018.09.27-03.16.53:502][983]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Could not find a variable named "CartPathTimeline" in 'Pipe_BP_C'.
+Make sure 'Pipe_BP_C' has been compiled for  Get CartPathTimeline
+[2018.09.27-03.16.53:503][983]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.16.53:504][983]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.16.53:504][983]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.16.53:504][983]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.16.53:504][983]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.16.53:504][983]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.16.53:504][983]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Node  Unknown  is not referencing a valid level actor
+[2018.09.27-03.16.53:504][983]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Node  Unknown  is not referencing a valid level actor
+[2018.09.27-03.16.53:813][983]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] [0813.76] Compile of PersistentLevel.MotionControllerMap failed. 6 Fatal Issue(s) 8 Warning(s) [in 356 ms] (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap)
+[2018.09.27-03.17.53:003][628]BlueprintLog: New page: Compile MotionControllerMap
+[2018.09.27-03.17.53:055][628]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.17.53:056][628]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.17.53:056][628]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.17.53:056][628]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.17.53:056][628]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.17.53:056][628]LogBlueprint: Error: [Compiler PersistentLevel.MotionControllerMap] The property associated with  Cart Path Timeline  could not be found in '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C'
+[2018.09.27-03.17.53:056][628]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Node  Unknown  is not referencing a valid level actor
+[2018.09.27-03.17.53:056][628]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Node  Unknown  is not referencing a valid level actor
+[2018.09.27-03.17.53:377][628]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] [0873.32] Compile of PersistentLevel.MotionControllerMap failed. 6 Fatal Issue(s) 2 Warning(s) [in 374 ms] (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap)
+[2018.09.27-03.18.06:063][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Pipe_BP" FILE="../../../../../../Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/Content/BP/Pipe_BP.uasset" SILENT=true
+[2018.09.27-03.18.06:114][800]LogSavePackage: Moving '../../../../../../Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/Saved/Pipe_BPD47019BB45FAC750A0C1E38B0511441F.tmp' to '../../../../../../Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/Content/BP/Pipe_BP.uasset'
+[2018.09.27-03.18.07:523][935]BlueprintLog: New page: Compile Pipe_BP
+[2018.09.27-03.18.10:215][159]BlueprintLog: New page: Compile MotionControllerMap
+[2018.09.27-03.18.10:269][159]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Node  Unknown  is not referencing a valid level actor
+[2018.09.27-03.18.10:269][159]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Node  Unknown  is not referencing a valid level actor
+[2018.09.27-03.18.10:619][159]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] [0890.57] Compile of PersistentLevel.MotionControllerMap successful, but with 2 Warning(s) [in 404 ms] (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap)
+[2018.09.27-03.20.32:931][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.27-03.21.15:545][718]BlueprintLog: New page: Compile MotionControllerMap
+[2018.09.27-03.21.15:597][718]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] Node  Unknown  is not referencing a valid level actor
+[2018.09.27-03.21.15:743][718]LogBlueprint: Warning: [Compiler PersistentLevel.MotionControllerMap] [1075.69] Compile of PersistentLevel.MotionControllerMap successful, but with 1 Warning(s) [in 198 ms] (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap)
+[2018.09.27-03.21.43:191][ 81]BlueprintLog: New page: Compile MotionControllerMap
+[2018.09.27-03.21.45:365][197]LogSavePackage: Moving '../../../../../../Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/Saved/MotionControllerMap7CA6874E44C787CC76D442AA60B22C53.tmp' to '../../../../../../Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.09.27-03.21.45:394][197]LogFileHelpers: Saving map 'MotionControllerMap' took 0.620
+[2018.09.27-03.21.48:905][461]LogSavePackage: Moving '../../../../../../Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/Saved/MotionControllerMapCF545E8948F87643848DD1BE457B6AB5.tmp' to '../../../../../../Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.09.27-03.21.49:505][461]LogSavePackage: Moving '../../../../../../Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/Saved/MotionControllerMap_BuiltDataB8F8734045E3CB6F95EC34BF84044318.tmp' to '../../../../../../Users/SIDM/Documents/GitHub/FYP/Main/FYP_Prototype/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
