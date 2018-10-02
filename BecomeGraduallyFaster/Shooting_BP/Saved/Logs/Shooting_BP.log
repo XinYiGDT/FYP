@@ -1,0 +1,1615 @@
+﻿Log file open, 10/01/18 11:28:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Shooting_BP
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 83 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.948486
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.140s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-2630 v4 @ 2.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Epic Games/UE_4.20/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.01-03.28.52:854][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.01-03.28.52:854][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.01-03.28.52:872][  0]LogHAL: Display: Platform has ~ 128 GB [137350422528 / 137438953472 / 128], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.01-03.28.52:872][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.01-03.28.52:872][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.01-03.28.52:872][  0]LogInit: Computer: M625GB01
+[2018.10.01-03.28.52:872][  0]LogInit: User: SIDM
+[2018.10.01-03.28.52:872][  0]LogInit: CPU Page size=4096, Cores=20
+[2018.10.01-03.28.52:872][  0]LogInit: High frequency timer resolution =2.143476 MHz
+[2018.10.01-03.28.52:873][  0]LogMemory: Memory total: Physical=127.9GB (128GB approx)
+[2018.10.01-03.28.52:873][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.01-03.28.52:873][  0]LogMemory: Process Physical Memory: 110.71 MB used, 110.71 MB peak
+[2018.10.01-03.28.52:873][  0]LogMemory: Process Virtual Memory: 100.55 MB used, 100.55 MB peak
+[2018.10.01-03.28.52:873][  0]LogMemory: Physical Memory: 7757.53 MB used,  123230.04 MB free, 130987.57 MB total
+[2018.10.01-03.28.52:873][  0]LogMemory: Virtual Memory: 4751.58 MB used,  123230.04 MB free, 134217728.00 MB total
+[2018.10.01-03.28.52:892][  0]LogInit: Using OS detected language (en-US).
+[2018.10.01-03.28.52:892][  0]LogInit: Using OS detected locale (en-SG).
+[2018.10.01-03.28.52:893][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.01-03.28.53:374][  0]LogStreaming: Display: Took  0.482s to InitEngineTextLocalization.
+[2018.10.01-03.28.53:375][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.01-03.28.53:423][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.01-03.28.53:423][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.01-03.28.53:663][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.01-03.28.53:724][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.10.01-03.28.53:724][  0]LogD3D11RHI:       8079/0/65493 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.01-03.28.53:726][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.01-03.28.53:726][  0]LogD3D11RHI:       0/0/65493 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.01-03.28.53:726][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.01-03.28.53:735][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.01-03.28.53:735][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.01-03.28.53:735][  0]LogWindows: EnumDisplayDevices:
+[2018.10.01-03.28.53:735][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.10.01-03.28.53:735][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.01-03.28.53:735][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.01-03.28.53:736][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.01-03.28.53:736][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.10.01-03.28.53:736][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.10.01-03.28.53:736][  0]LogD3D11RHI:   Driver Version: 390.77 (internal:23.21.13.9077, unified:390.77)
+[2018.10.01-03.28.53:736][  0]LogD3D11RHI:      Driver Date: 1-23-2018
+[2018.10.01-03.28.53:736][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.10.01-03.28.53:766][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.01-03.28.53:784][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.01-03.28.53:826][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Intermediate/Shaders/WorkingDirectory/1116/).
+[2018.10.01-03.28.53:826][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/impixel/AppData/Local/Temp/UnrealShaderWorkingDir/7DCED51F425AFDF0A3E5F293AE102435/'.
+[2018.10.01-03.28.54:173][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.01-03.28.54:189][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.01-03.28.54:204][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.01-03.28.54:219][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.01-03.28.54:234][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.01-03.28.54:248][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.01-03.28.54:263][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.01-03.28.54:277][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.01-03.28.54:284][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.01-03.28.54:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.01-03.28.54:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.01-03.28.54:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.01-03.28.54:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.01-03.28.54:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.01-03.28.54:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.01-03.28.54:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.01-03.28.54:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.01-03.28.54:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.01-03.28.54:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.01-03.28.54:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.01-03.28.54:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.01-03.28.54:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.01-03.28.54:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.01-03.28.54:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.01-03.28.54:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.01-03.28.54:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.01-03.28.54:374][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.01-03.28.54:375][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.01-03.28.54:441][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.01-03.28.54:441][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.01-03.28.54:471][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.01-03.28.54:471][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.01-03.28.54:486][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.01-03.28.54:501][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.01-03.28.54:517][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.01-03.28.54:533][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.01-03.28.54:544][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.01-03.28.54:544][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.01-03.28.54:599][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.01-03.28.54:599][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.01-03.28.54:599][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.01-03.28.55:451][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.01-03.28.55:549][  0]LogDerivedDataCache: Loaded boot cache 0.10s 72MB C:/Users/impixel/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.01-03.28.55:549][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/impixel/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.01-03.28.55:549][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../163935T/FYP/FYP/Main/Shooting_BP/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.01-03.28.55:549][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.01-03.28.55:549][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../163935T/FYP/FYP/Main/Shooting_BP/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.01-03.28.55:549][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.01-03.28.55:565][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.01-03.28.55:578][  0]LogDerivedDataCache: Using Local data cache path C:/Users/impixel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.01-03.28.55:578][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.01-03.28.55:578][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.01-03.28.55:666][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.01-03.28.55:668][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.01-03.28.55:669][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.01-03.28.55:760][  0]LogAssetRegistry: FAssetRegistry took 0.0272 seconds to start up
+[2018.10.01-03.28.56:190][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.01-03.28.56:390][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.01-03.28.56:394][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.01-03.28.56:394][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.01-03.28.56:394][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.01-03.28.56:394][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.01-03.28.56:424][  0]LogNetVersion: Shooting_BP 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3776464867)
+[2018.10.01-03.28.57:141][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.093712 seconds
+[2018.10.01-03.28.57:147][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.01-03.28.57:147][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.10.01-03.28.57:147][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.01-03.28.58:334][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.01-03.28.58:348][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.01-03.28.58:514][  0]SourceControl: Source control is disabled
+[2018.10.01-03.28.58:514][  0]SourceControl: Source control is disabled
+[2018.10.01-03.28.58:516][  0]SourceControl: Source control is disabled
+[2018.10.01-03.28.58:517][  0]SourceControl: Source control is disabled
+[2018.10.01-03.28.58:687][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.01-03.28.58:768][  0]LogOcInput: OculusInput pre-init called
+[2018.10.01-03.28.58:856][  0]LogEngine: Initializing Engine...
+[2018.10.01-03.28.58:857][  0]LogHMD: Oculus plugin initialized. Version: 4.20.3-4369336+++UE4+Release-4.20, OVRPlugin: 1.25.0
+[2018.10.01-03.28.58:858][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.01-03.28.58:858][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.01-03.28.58:858][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.01-03.28.58:858][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.01-03.28.59:348][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.01-03.28.59:360][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.01-03.28.59:390][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.01-03.28.59:416][  0]LogInit: FAudioDevice initialized.
+[2018.10.01-03.28.59:416][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.01-03.28.59:496][  0]LogDerivedDataCache: Saved boot cache 0.08s 86MB C:/Users/impixel/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.01-03.28.59:509][  0]LogInit: Texture streaming: Enabled
+[2018.10.01-03.28.59:530][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.01-03.28.59:543][  0]LogInit: Transaction tracking system initialized
+[2018.10.01-03.28.59:563][  0]BlueprintLog: New page: Editor Load
+[2018.10.01-03.28.59:633][  0]LocalizationService: Localization service is disabled
+[2018.10.01-03.29.00:003][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.01-03.29.00:003][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.01-03.29.00:003][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.01-03.29.00:003][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.01-03.29.00:003][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.01-03.29.00:004][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.01-03.29.00:004][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.01-03.29.00:121][  0]LogFileCache: Scanning file cache for directory 'D:/163935T/FYP/FYP/Main/Shooting_BP/Content/' took 0.02s
+[2018.10.01-03.29.00:122][  0]SourceControl: Source control is disabled
+[2018.10.01-03.29.00:240][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2018.10.01-03.29.00:249][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.01-03.29.06:401][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2018.10.01-03.29.06:405][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2018.10.01-03.29.06:416][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2018.10.01-03.29.06:449][  0]Cmd: MAP LOAD FILE="../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.01-03.29.06:449][  0]LightingResults: New page: Lighting Build
+[2018.10.01-03.29.06:452][  0]MapCheck: New page: Map Check
+[2018.10.01-03.29.06:452][  0]LightingResults: New page: Lighting Build
+[2018.10.01-03.29.07:466][  0]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2018.10.01-03.29.07:466][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.10.01-03.29.07:466][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.10.01-03.29.07:466][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.10.01-03.29.07:466][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2018.10.01-03.29.07:466][  0]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.10.01-03.29.07:467][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X512)
+[2018.10.01-03.29.07:467][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.10.01-03.29.07:779][  0]LogMaterial: Display: Missing cached shader map for material M_Metal_Gold, compiling. 
+[2018.10.01-03.29.07:984][  0]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.10.01-03.29.07:984][  0]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.10.01-03.29.07:984][  0]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.10.01-03.29.07:984][  0]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.10.01-03.29.07:984][  0]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.10.01-03.29.07:984][  0]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-03.29.07:984][  0]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-03.29.07:984][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.01-03.29.08:170][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.01-03.29.08:259][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.01-03.29.08:335][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 75.9ms to complete.
+[2018.10.01-03.29.08:335][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.886
+[2018.10.01-03.29.08:390][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.01-03.29.08:400][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.01-03.29.08:408][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.01-03.29.08:417][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.01-03.29.08:423][  0]LogCollectionManager: Loaded 0 collections in 0.000899 seconds
+[2018.10.01-03.29.08:469][  0]LogFileCache: Scanning file cache for directory 'D:/163935T/FYP/FYP/Main/Shooting_BP/Saved/Collections/' took 0.01s
+[2018.10.01-03.29.08:469][  0]LogFileCache: Scanning file cache for directory 'D:/163935T/FYP/FYP/Main/Shooting_BP/Content/Developers/SIDM/Collections/' took 0.01s
+[2018.10.01-03.29.08:469][  0]LogFileCache: Scanning file cache for directory 'D:/163935T/FYP/FYP/Main/Shooting_BP/Content/Collections/' took 0.01s
+[2018.10.01-03.29.08:469][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.01-03.29.08:482][  0]LogContentBrowser: Native class hierarchy populated in 0.0123 seconds. Added 2572 classes and 603 folders.
+[2018.10.01-03.29.08:487][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.01-03.29.08:537][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.01-03.29.08:543][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.10.01-03.29.08:631][  0]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.01-03.29.08:637][  0]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.01-03.29.08:698][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2018.10.01-03.29.08:848][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.01-03.29.08:848][  0]LogLoad: (Engine Initialization) Total time: 18.98 seconds
+[2018.10.01-03.29.08:848][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.01-03.29.08:866][  0]LogOcInput: OculusInput is initialized
+[2018.10.01-03.29.08:892][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.10.01-03.29.08:912][  0]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.01-03.29.08:968][  2]LogAssetRegistry: Asset discovery search completed in 13.2297 seconds
+[2018.10.01-03.29.08:970][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.01-03.29.08:970][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000064 seconds (updated 0 objects)
+[2018.10.01-03.32.21:726][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.01-03.33.41:987][ 84]LogSlate: Took 0.018598 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.01-03.33.42:840][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.01-03.33.59:600][183]LogSlate: Window 'Select Path' being destroyed
+[2018.10.01-03.33.59:711][183]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.01-03.33.59:719][183]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/FlickeringLight_Blueprint.FlickeringLight_Blueprint
+[2018.10.01-03.34.00:354][183]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.10.01-03.34.01:540][183]LogRenderer: Reallocating scene render targets to support 1208x712 Format 10 NumSamples 1 (Frame:1).
+[2018.10.01-03.34.07:763][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.01-03.34.07:790][811]LogSlate: Took 0.024382 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.01-03.39.39:980][541]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Saved/ThirdPersonExampleMap_Auto13D2B0945477F92C98AF8CCA33F5F8528.tmp' to '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.10.01-03.39.39:985][541]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.539
+[2018.10.01-03.39.39:985][541]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.539
+[2018.10.01-03.39.39:987][541]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/FlickeringLight_Blueprint] ([1] browsable assets)...
+[2018.10.01-03.39.39:987][541]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/FlickeringLight_Blueprint]
+[2018.10.01-03.39.39:995][541]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Saved/FlickeringLight_Blueprint_Auto1AB3AD2D4405D26AE65F271801E9C9AFD.tmp' to '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/FlickeringLight_Blueprint_Auto1.uasset'
+[2018.10.01-03.39.39:996][541]LogFileHelpers: Auto-saving content packages took 0.010
+[2018.10.01-03.41.01:515][945]LogSlate: Window 'FlickeringLight_Blueprint*' being destroyed
+[2018.10.01-03.41.04:375][273]LogEditorViewport: Clicking on Actor (LMB): FlickeringLight_Blueprint_C (FlickeringLight_Blueprint)
+[2018.10.01-03.41.05:238][374]Cmd: DELETE
+[2018.10.01-03.41.05:238][374]Cmd: ACTOR DELETE
+[2018.10.01-03.41.05:259][374]LogEditorActor: Deleted Actor: FlickeringLight_Blueprint_C
+[2018.10.01-03.41.05:308][374]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2018.10.01-03.41.07:009][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.01-03.41.10:844][672]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.01-03.49.40:130][734]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Saved/ThirdPersonExampleMap_Auto2E641C26649E649A0944487A94364DD6D.tmp' to '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto2.umap'
+[2018.10.01-03.49.40:133][734]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.246
+[2018.10.01-03.49.40:133][734]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.246
+[2018.10.01-03.59.25:657][504]LogAssetEditorManager: Opening Asset editor for Material /Game/ThirdPerson/Meshes/FlickeringLight.FlickeringLight
+[2018.10.01-03.59.25:678][504]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-03.59.26:154][504]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-03.59.26:183][504]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-03.59.26:183][504]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-03.59.26:183][504]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-03.59.26:183][504]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-03.59.26:183][504]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-03.59.26:183][504]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-03.59.26:183][504]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-03.59.26:183][504]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-03.59.26:183][504]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-03.59.26:183][504]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-03.59.26:183][504]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-03.59.26:183][504]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-03.59.26:183][504]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-03.59.26:183][504]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-03.59.26:183][504]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-03.59.26:183][504]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-03.59.26:183][504]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-03.59.26:183][504]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-03.59.26:183][504]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-03.59.26:183][504]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-03.59.26:183][504]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-03.59.27:627][622]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-03.59.27:628][622]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-03.59.27:628][622]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-03.59.27:628][622]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.00.26:253][267]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.00.26:306][268]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.00.26:306][268]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.00.26:306][268]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.00.26:306][268]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.00.26:306][268]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.00.26:306][268]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.00.26:306][268]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.00.26:306][268]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.00.26:306][268]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.00.26:306][268]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.00.26:306][268]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.00.26:306][268]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.00.26:306][268]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.00.26:306][268]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.00.26:306][268]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.00.26:306][268]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.00.26:306][268]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.00.26:306][268]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.00.26:306][268]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.00.26:306][268]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.00.26:306][268]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.00.27:742][421]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-04.00.27:742][421]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-04.00.27:742][421]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.00.27:742][421]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.00.41:660][ 70]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.00.41:741][ 71]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.00.41:741][ 71]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.00.41:741][ 71]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.00.41:741][ 71]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.00.41:741][ 71]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.00.41:741][ 71]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.00.41:741][ 71]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.00.41:741][ 71]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.00.41:741][ 71]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.00.41:741][ 71]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.00.41:741][ 71]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.00.41:741][ 71]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.00.41:741][ 71]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.00.41:741][ 71]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.00.41:741][ 71]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.00.41:741][ 71]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.00.41:741][ 71]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.00.41:741][ 71]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.00.41:741][ 71]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.00.41:741][ 71]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.00.41:741][ 71]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.00.42:277][118]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-04.00.42:277][118]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-04.00.42:278][118]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.00.42:278][118]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.00.46:265][586]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.00.46:336][587]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.00.46:336][587]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.00.46:336][587]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.00.46:336][587]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.00.46:336][587]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.00.46:336][587]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.00.46:336][587]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.00.46:336][587]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.00.46:336][587]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.00.46:336][587]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.00.46:336][587]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.00.46:337][587]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.00.46:337][587]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.00.46:337][587]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.00.46:337][587]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.00.46:337][587]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.00.46:337][587]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.00.46:337][587]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.00.46:337][587]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.00.46:337][587]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.00.46:337][587]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.00.59:204][100]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-04.00.59:204][100]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-04.00.59:204][100]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.00.59:204][100]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.01.54:114][591]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.01.54:189][592]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.01.54:189][592]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.01.54:189][592]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.01.54:189][592]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.01.54:189][592]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.01.54:189][592]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.01.54:189][592]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.01.54:189][592]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.01.54:189][592]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.01.54:189][592]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.01.54:189][592]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.01.54:189][592]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.01.54:189][592]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.01.54:189][592]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.01.54:189][592]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.01.54:189][592]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.01.54:189][592]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.01.54:189][592]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.01.54:189][592]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.01.54:189][592]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.01.54:189][592]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.01.55:614][745]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-04.01.55:614][745]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-04.01.55:614][745]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.01.55:614][745]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.01.56:550][855]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.01.56:623][856]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.01.56:623][856]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.01.56:623][856]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.01.56:623][856]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.01.56:623][856]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.01.56:623][856]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.01.56:623][856]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.01.56:623][856]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.01.56:623][856]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.01.56:623][856]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.01.56:623][856]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.01.56:623][856]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.01.56:623][856]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.01.56:623][856]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.01.56:623][856]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.01.56:623][856]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.01.56:623][856]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.01.56:623][856]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.01.56:623][856]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.01.56:623][856]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.01.56:623][856]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.01.57:171][910]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-04.01.57:171][910]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-04.01.57:171][910]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.01.57:171][910]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.02.23:610][276]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.057
+[2018.10.01-04.02.23:614][276]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Meshes/FlickeringLight] ([1] browsable assets)...
+[2018.10.01-04.02.23:629][276]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ThirdPerson/Meshes/FlickeringLight.FlickeringLight]
+[2018.10.01-04.02.23:629][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Meshes/FlickeringLight]
+[2018.10.01-04.02.23:646][276]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Saved/FlickeringLight_Auto3DF99015149C50D59E47395901854692D.tmp' to '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Saved/Autosaves/Game/ThirdPerson/Meshes/FlickeringLight_Auto3.uasset'
+[2018.10.01-04.02.23:648][276]LogFileHelpers: Auto-saving content packages took 0.037
+[2018.10.01-04.03.20:195][445]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.01-04.03.42:236][647]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.03.42:299][648]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.03.42:299][648]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.03.42:299][648]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.03.42:299][648]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.03.42:299][648]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.03.42:299][648]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.03.42:299][648]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.03.42:299][648]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.03.42:299][648]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.03.42:299][648]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.03.42:299][648]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.03.42:299][648]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.03.42:299][648]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.03.42:300][648]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.03.42:300][648]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.03.42:300][648]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.03.42:300][648]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.03.42:300][648]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.03.42:300][648]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.03.42:300][648]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.03.42:300][648]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.03.43:714][786]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-04.03.43:714][786]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-04.03.43:714][786]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.03.43:714][786]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.04.20:142][781]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.04.20:158][781]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.04.20:158][781]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.04.20:158][781]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.04.20:158][781]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.04.20:158][781]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.04.20:158][781]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.04.20:158][781]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.04.20:158][781]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.04.20:158][781]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.04.20:158][781]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.04.20:158][781]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.04.20:158][781]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.04.20:158][781]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.04.20:158][781]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.04.20:158][781]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.04.20:158][781]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.04.20:158][781]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.04.20:158][781]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.04.20:158][781]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.04.20:158][781]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.04.20:158][781]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.04.20:161][781]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.04.20:376][802]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.04.20:377][802]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.04.20:377][802]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.04.20:377][802]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.04.20:377][802]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.04.20:377][802]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.04.20:377][802]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.04.20:377][802]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.04.20:377][802]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.04.20:377][802]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.04.20:377][802]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.04.20:377][802]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.04.20:377][802]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.04.20:377][802]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.04.20:377][802]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.04.21:218][891]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.04.21:237][892]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.04.21:253][893]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.04.21:253][893]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.04.21:269][894]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.04.21:285][895]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.04.21:579][912]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.04.21:628][913]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.04.21:629][913]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.04.21:629][913]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.04.21:629][913]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.04.21:629][913]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.04.21:629][913]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.04.21:629][913]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.04.21:629][913]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.04.21:629][913]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.04.21:629][913]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.04.21:629][913]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.04.21:629][913]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.04.21:629][913]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.04.21:629][913]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.04.21:629][913]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.04.21:629][913]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.04.21:734][917]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.04.21:734][917]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.04.21:734][917]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.04.21:734][917]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.04.21:734][917]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.04.22:287][961]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-04.04.22:287][961]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-04.04.22:287][961]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.04.22:287][961]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.04.34:720][981]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.04.34:794][982]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.04.34:794][982]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.04.34:794][982]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.04.34:794][982]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.04.34:794][982]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.04.34:794][982]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.04.34:794][982]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.04.34:794][982]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.04.34:794][982]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.04.34:794][982]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.04.34:794][982]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.04.34:794][982]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.04.34:794][982]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.04.34:794][982]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.04.34:794][982]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.04.34:794][982]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.04.34:794][982]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.04.34:794][982]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.04.34:794][982]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.04.34:794][982]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.04.34:794][982]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.04.35:353][ 28]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-04.04.35:353][ 28]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-04.04.35:353][ 28]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.04.35:353][ 28]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.04.35:720][ 65]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.04.35:753][ 66]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.04.35:753][ 66]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.04.35:753][ 66]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.04.35:753][ 66]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.04.35:753][ 66]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.04.35:753][ 66]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.04.35:753][ 66]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.04.35:753][ 66]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.04.35:753][ 66]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.04.35:753][ 66]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.04.35:753][ 66]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.04.35:753][ 66]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.04.35:753][ 66]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.04.35:753][ 66]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.04.35:753][ 66]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.04.35:753][ 66]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.04.35:753][ 66]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.04.35:753][ 66]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.04.35:753][ 66]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.04.35:753][ 66]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.04.35:753][ 66]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.04.37:509][236]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.04.37:542][237]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.04.37:542][237]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.04.37:542][237]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.04.37:542][237]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.04.37:542][237]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.04.37:543][237]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.04.37:543][237]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.04.37:543][237]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.04.37:543][237]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.04.37:543][237]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.04.37:543][237]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.04.37:543][237]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.04.37:543][237]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.04.37:543][237]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.04.37:543][237]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.04.37:543][237]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.04.37:543][237]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.04.37:543][237]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.04.37:543][237]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.04.37:543][237]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.04.37:543][237]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.04.38:050][277]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.04.38:071][277]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.04.38:071][277]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.04.38:071][277]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.04.38:071][277]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.04.38:071][277]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.04.38:071][277]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.04.38:071][277]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.04.38:071][277]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.04.38:071][277]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.04.38:071][277]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.04.38:071][277]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.04.38:071][277]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.04.38:071][277]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.04.38:071][277]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.04.38:089][278]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.04.38:089][278]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.04.38:089][278]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.04.38:089][278]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.04.38:089][278]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.04.38:089][278]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.04.38:089][278]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.04.38:714][328]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-04.04.38:714][328]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-04.04.38:714][328]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.04.38:714][328]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.04.41:711][629]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.04.41:747][630]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.04.41:747][630]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.04.41:747][630]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.04.41:747][630]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.04.41:747][630]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.04.41:747][630]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.04.41:747][630]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.04.41:747][630]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.04.41:747][630]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.04.41:747][630]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.04.41:747][630]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.04.41:747][630]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.04.41:747][630]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.04.41:748][630]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.04.41:748][630]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.04.41:748][630]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.04.41:748][630]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.04.41:748][630]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.04.41:748][630]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.04.41:748][630]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.04.41:748][630]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.04.42:356][679]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-04.04.42:356][679]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-04.04.42:356][679]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.04.42:356][679]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.04.44:230][890]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.04.44:260][891]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.04.44:260][891]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.04.44:260][891]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.04.44:260][891]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.04.44:260][891]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.04.44:260][891]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.04.44:260][891]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.04.44:260][891]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.04.44:261][891]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.04.44:261][891]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.04.44:261][891]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.04.44:261][891]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.04.44:261][891]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.04.44:261][891]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.04.44:261][891]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.04.44:261][891]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.04.44:261][891]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.04.44:261][891]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.04.44:261][891]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.04.44:261][891]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.04.44:261][891]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.04.44:830][941]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-04.04.44:830][941]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-04.04.44:830][941]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.04.44:830][941]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.04.45:851][ 57]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.04.45:872][ 57]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.04.45:901][ 58]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.04.45:901][ 58]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.04.45:901][ 58]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.04.45:901][ 58]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.04.45:901][ 58]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.04.45:901][ 58]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.04.45:901][ 58]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.04.45:901][ 58]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.04.45:901][ 58]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.04.45:901][ 58]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.04.45:901][ 58]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.04.45:901][ 58]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.04.45:901][ 58]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.04.45:901][ 58]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.04.45:901][ 58]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.04.45:901][ 58]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.04.45:901][ 58]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.04.45:901][ 58]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.04.45:901][ 58]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.04.45:901][ 58]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.04.45:902][ 58]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.04.46:500][109]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-04.04.46:500][109]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-04.04.46:500][109]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.04.46:500][109]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.04.47:681][238]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.04.47:714][239]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.04.47:714][239]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.04.47:714][239]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.04.47:714][239]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.04.47:714][239]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.04.47:714][239]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.04.47:714][239]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.04.47:714][239]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.04.47:714][239]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.04.47:714][239]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.04.47:714][239]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.04.47:714][239]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.04.47:714][239]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.04.47:714][239]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.04.47:714][239]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.04.47:714][239]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.04.47:714][239]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.04.47:714][239]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.04.47:714][239]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.04.47:714][239]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.04.47:714][239]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.04.48:343][294]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-04.04.48:343][294]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-04.04.48:343][294]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.04.48:343][294]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.04.57:313][309]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.04.57:383][310]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.04.57:383][310]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.04.57:383][310]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.04.57:383][310]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.04.57:383][310]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.04.57:383][310]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.04.57:383][310]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.04.57:383][310]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.04.57:383][310]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.04.57:383][310]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.04.57:383][310]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.04.57:383][310]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.04.57:383][310]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.04.57:383][310]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.04.57:383][310]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.04.57:383][310]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.04.57:383][310]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.04.57:383][310]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.04.57:383][310]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.04.57:383][310]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.04.57:383][310]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.04.57:929][358]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-04.04.57:929][358]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-04.04.57:929][358]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.04.57:930][358]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.05.03:559][  8]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.05.03:578][  8]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.05.03:578][  8]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.05.03:578][  8]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.05.03:578][  8]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.05.03:578][  8]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.05.03:578][  8]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.05.03:578][  8]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.05.03:578][  8]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.05.03:578][  8]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.05.03:578][  8]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.05.03:578][  8]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.05.03:578][  8]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.05.03:578][  8]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.05.03:578][  8]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.05.03:578][  8]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.05.03:578][  8]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.05.03:578][  8]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.05.03:578][  8]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.05.03:578][  8]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.05.03:578][  8]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.05.03:578][  8]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.05.04:141][ 56]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-04.05.04:141][ 56]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-04.05.04:141][ 56]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.05.04:141][ 56]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.05.05:964][269]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.05.05:993][270]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.05.05:993][270]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.05.05:993][270]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.05.05:993][270]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.05.05:993][270]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.05.05:993][270]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.05.05:993][270]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.05.05:994][270]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.05.05:994][270]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.05.05:994][270]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.05.05:994][270]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.05.05:994][270]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.05.05:994][270]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.05.05:994][270]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.05.05:994][270]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.05.05:994][270]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.05.05:994][270]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.05.05:994][270]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.05.05:994][270]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.05.05:994][270]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.05.05:994][270]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.05.06:544][318]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-04.05.06:544][318]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-04.05.06:544][318]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.05.06:544][318]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.05.12:272][980]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.05.12:337][981]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.05.12:337][981]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.05.12:337][981]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.05.12:338][981]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.05.12:338][981]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.05.12:338][981]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.05.12:338][981]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.05.12:338][981]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.05.12:338][981]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.05.12:338][981]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.05.12:338][981]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.05.12:338][981]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.05.12:338][981]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.05.12:338][981]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.05.12:338][981]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.05.12:338][981]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.05.12:338][981]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.05.12:338][981]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.05.12:338][981]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.05.12:338][981]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.05.12:338][981]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.05.12:875][ 30]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-04.05.12:875][ 30]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-04.05.12:875][ 30]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.05.12:875][ 30]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.05.15:275][307]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.05.15:305][308]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.05.15:305][308]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.05.15:305][308]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.05.15:305][308]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.05.15:305][308]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.05.15:305][308]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.05.15:305][308]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.05.15:305][308]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.05.15:305][308]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.05.15:305][308]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.05.15:305][308]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.05.15:305][308]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.05.15:305][308]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.05.15:305][308]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.05.15:305][308]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.05.15:305][308]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.05.15:305][308]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.05.15:305][308]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.05.15:305][308]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.05.15:305][308]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.05.15:305][308]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.05.19:824][821]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.05.19:890][822]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.05.19:890][822]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.05.19:890][822]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.05.19:890][822]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.05.19:890][822]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.05.19:890][822]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.05.19:890][822]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.05.19:890][822]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.05.19:890][822]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.05.19:890][822]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.05.19:890][822]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.05.19:890][822]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.05.19:890][822]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.05.19:890][822]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.05.19:890][822]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.05.19:890][822]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.05.19:890][822]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.05.19:891][822]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.05.19:891][822]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.05.19:891][822]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.05.19:891][822]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.05.20:397][867]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-04.05.20:397][867]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-04.05.20:397][867]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.05.20:397][867]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.05.24:871][376]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.05.24:902][377]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.05.24:902][377]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.05.24:902][377]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.05.24:902][377]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.05.24:902][377]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.05.24:902][377]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.05.24:902][377]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.05.24:902][377]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.05.24:902][377]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.05.24:902][377]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.05.24:902][377]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.05.24:903][377]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.05.24:903][377]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.05.24:903][377]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.05.24:903][377]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.05.24:903][377]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.05.24:903][377]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.05.24:903][377]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.05.24:903][377]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.05.24:903][377]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.05.24:903][377]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.05.25:483][422]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-04.05.25:483][422]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-04.05.25:483][422]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.05.25:483][422]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.05.46:644][802]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.05.46:671][802]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.05.46:671][802]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.05.46:671][802]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.05.46:671][802]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.05.46:671][802]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.05.46:671][802]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.05.46:671][802]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.05.46:671][802]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.05.46:671][802]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.05.46:671][802]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.05.46:671][802]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.05.46:671][802]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.05.46:671][802]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.05.46:671][802]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.05.46:671][802]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.05.46:671][802]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.05.46:671][802]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.05.46:671][802]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.05.46:671][802]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.05.46:671][802]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.05.46:671][802]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.05.46:676][803]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.05.46:840][816]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.05.46:840][816]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.05.46:840][816]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.05.46:840][816]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.05.46:840][816]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.05.46:840][816]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.05.46:840][816]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.05.46:840][816]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.05.46:840][816]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.05.46:840][816]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.05.46:840][816]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.05.46:840][816]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.05.46:840][816]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.05.46:840][816]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.05.46:841][816]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.05.47:752][902]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.05.47:769][903]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.05.47:769][903]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.05.47:788][904]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.05.47:788][904]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.05.47:803][905]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.05.48:415][943]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-04.05.48:415][943]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-04.05.48:415][943]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.05.48:415][943]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.05.48:438][944]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.05.48:478][944]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.05.48:478][944]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.05.48:478][944]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.05.48:478][944]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.05.48:478][944]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.05.48:478][944]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.05.48:478][944]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.05.48:478][944]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.05.48:478][944]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.05.48:478][944]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.05.48:478][944]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.05.48:478][944]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.05.48:478][944]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.05.48:478][944]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.05.48:478][944]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.05.48:478][944]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.05.48:478][944]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.05.48:478][944]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.05.48:478][944]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.05.48:478][944]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.05.48:478][944]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.05.48:485][945]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.05.48:563][949]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.05.48:563][949]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.05.48:563][949]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.05.48:563][949]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.05.48:563][949]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.05.48:563][949]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.05.48:563][949]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.05.48:563][949]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.05.48:563][949]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.05.48:563][949]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.05.48:563][949]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.05.48:563][949]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.05.48:563][949]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.05.48:564][949]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.05.48:564][949]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.05.48:675][956]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.05.48:704][958]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.05.48:721][959]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.05.48:740][960]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.05.48:740][960]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.05.48:763][961]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.05.49:356][999]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-04.05.49:357][999]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-04.05.49:357][999]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.05.49:357][999]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.06.04:758][633]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.06.04:841][634]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.06.04:841][634]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.06.04:841][634]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.06.04:841][634]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.06.04:841][634]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.06.04:841][634]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.06.04:841][634]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.06.04:841][634]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.06.04:841][634]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.06.04:841][634]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.06.04:841][634]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.06.04:841][634]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.06.04:841][634]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.06.04:841][634]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.06.04:841][634]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.06.04:841][634]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.06.04:841][634]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.06.04:841][634]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.06.04:841][634]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.06.04:841][634]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.06.04:841][634]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.06.05:368][674]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-04.06.05:368][674]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-04.06.05:368][674]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.06.05:368][674]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.06.09:551][122]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.06.09:578][123]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.06.09:578][123]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.06.09:578][123]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.06.09:578][123]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.06.09:578][123]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.06.09:578][123]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.06.09:578][123]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.06.09:578][123]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.06.09:578][123]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.06.09:578][123]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.06.09:578][123]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.06.09:579][123]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.06.09:579][123]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.06.09:579][123]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.06.09:579][123]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.06.09:579][123]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.06.09:579][123]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.06.09:579][123]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.06.09:579][123]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.06.09:579][123]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.06.09:579][123]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.06.10:134][170]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-04.06.10:134][170]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-04.06.10:135][170]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.06.10:135][170]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.06.15:548][786]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.06.15:570][786]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.06.15:598][787]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.06.15:598][787]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.06.15:598][787]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.06.15:598][787]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.06.15:598][787]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.06.15:598][787]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.06.15:598][787]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.06.15:598][787]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.06.15:598][787]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.06.15:598][787]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.06.15:598][787]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.06.15:598][787]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.06.15:598][787]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.06.15:598][787]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.06.15:598][787]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.06.15:598][787]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.06.15:598][787]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.06.15:598][787]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.06.15:599][787]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.06.15:599][787]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.06.15:599][787]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.06.16:176][836]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-04.06.16:176][836]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-04.06.16:176][836]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.06.16:176][836]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.06.16:939][921]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.06.16:968][922]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.06.16:968][922]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.06.16:968][922]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.06.16:968][922]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.06.16:968][922]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.06.16:968][922]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.06.16:968][922]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.06.16:968][922]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.06.16:968][922]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.06.16:968][922]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.06.16:969][922]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.06.16:969][922]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.06.16:969][922]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.06.16:969][922]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.06.16:969][922]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.06.16:969][922]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.06.16:969][922]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.06.16:969][922]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.06.16:969][922]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.06.16:969][922]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.06.16:969][922]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.06.17:535][966]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.10.01-04.06.17:535][966]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.10.01-04.06.17:535][966]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.06.17:535][966]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.06.32:145][651]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.06.32:179][652]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.06.32:179][652]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.06.32:179][652]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.06.32:179][652]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.06.32:179][652]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.06.32:179][652]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.06.32:179][652]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.06.32:179][652]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.06.32:179][652]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.06.32:179][652]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.06.32:179][652]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.06.32:179][652]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.06.32:179][652]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.06.32:179][652]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.06.32:179][652]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.06.32:179][652]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.06.32:179][652]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.06.32:179][652]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.06.32:179][652]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.06.32:179][652]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.06.32:179][652]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.06.32:752][698]MaterialEditorStats: Base pass shader: 104 instructions
+[2018.10.01-04.06.32:752][698]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2018.10.01-04.06.32:752][698]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.06.32:752][698]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.06.48:302][452]LogMaterialEditor: Saving and Compiling material FlickeringLight
+[2018.10.01-04.06.48:945][452]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.06.49:003][452]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.06.49:003][452]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.06.49:004][452]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.06.49:004][452]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.06.49:004][452]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.06.49:004][452]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.06.49:004][452]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.06.49:004][452]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.06.49:004][452]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.06.49:004][452]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.06.49:004][452]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.06.49:004][452]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.06.49:004][452]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.06.49:004][452]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.06.49:004][452]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.06.49:004][452]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.06.49:004][452]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.06.49:004][452]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.06.49:004][452]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.06.49:004][452]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.06.49:004][452]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.06.49:023][452]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.06.49:046][452]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.06.49:128][452]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.01-04.06.49:128][452]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.06.49:128][452]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.06.49:136][452]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy FlickeringLight, compiling. 
+[2018.10.01-04.06.50:056][452]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.06.50:058][452]TextureStreamingBuild: Display: Compiling optional shaders took 0.929 seconds.
+[2018.10.01-04.06.52:833][452]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Meshes/FlickeringLight" FILE="../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Content/ThirdPerson/Meshes/FlickeringLight.uasset" SILENT=true
+[2018.10.01-04.06.52:849][452]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Saved/FlickeringLight721D15124246113BE42E04BE97FD6EFF.tmp' to '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Content/ThirdPerson/Meshes/FlickeringLight.uasset'
+[2018.10.01-04.07.32:298][430]LogMaterial: Warning: Material /Game/ThirdPerson/Meshes/FlickeringLight.FlickeringLight needed to have new flag set bUsedWithStaticLighting !
+[2018.10.01-04.07.32:300][430]LogMaterial: Warning: Material /Engine/Transient.FlickeringLight needed to have new flag set bUsedWithStaticLighting !
+[2018.10.01-04.07.32:303][430]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.07.32:346][430]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.07.32:367][430]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.01-04.07.32:367][430]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.10.01-04.07.32:367][430]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.10.01-04.07.32:367][430]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.10.01-04.07.32:367][430]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.10.01-04.07.32:367][430]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.10.01-04.07.32:367][430]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.10.01-04.07.32:367][430]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.10.01-04.07.32:367][430]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.01-04.07.32:367][430]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.07.32:367][430]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.07.32:367][430]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.07.32:367][430]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.07.32:368][430]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.07.32:368][430]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.07.32:368][430]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.07.32:368][430]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.07.32:368][430]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.07.32:368][430]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.07.32:368][430]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.07.32:368][430]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.07.32:368][430]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.07.32:368][430]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.07.32:368][430]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.07.32:368][430]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.07.32:368][430]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.07.32:368][430]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.07.32:368][430]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.07.32:368][430]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.07.32:368][430]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.07.32:585][456]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.10.01-04.07.32:585][456]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.07.32:585][456]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.07.32:585][456]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.07.36:637][933]MaterialEditorStats: Base pass shader: 104 instructions
+[2018.10.01-04.07.36:637][933]MaterialEditorStats: Base pass shader with Surface Lightmap: 121 instructions
+[2018.10.01-04.07.36:637][933]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2018.10.01-04.07.36:637][933]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.07.36:637][933]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.07.48:537][359]Cmd: TRANSACTION UNDO
+[2018.10.01-04.07.48:537][359]LogEditorTransaction: Undo Create Actors
+[2018.10.01-04.07.48:542][359]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-04.07.48:574][359]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-04.07.49:287][427]MaterialEditorStats: Base pass shader: 104 instructions
+[2018.10.01-04.07.49:288][427]MaterialEditorStats: Base pass shader with Surface Lightmap: 121 instructions
+[2018.10.01-04.07.49:288][427]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2018.10.01-04.07.49:288][427]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-04.07.49:288][427]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-04.07.54:912][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.01-04.08.19:480][984]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.01-04.08.21:264][197]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.01-04.08.28:936][116]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.01-04.08.46:460][197]LogActorFactory: Actor Factory created Shape_Sphere
+[2018.10.01-04.08.46:948][255]LogActorFactory: Actor Factory created Shape_Sphere
+[2018.10.01-04.08.49:419][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.01-04.12.24:584][ 43]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Saved/ThirdPersonExampleMap_Auto49AC316B94B518A194EF7E7B14CF9EB89.tmp' to '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2018.10.01-04.12.24:588][ 43]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.516
+[2018.10.01-04.12.24:589][ 43]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.516
+[2018.10.01-04.12.24:590][ 43]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Meshes/FlickeringLight] ([1] browsable assets)...
+[2018.10.01-04.12.24:590][ 43]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Meshes/FlickeringLight]
+[2018.10.01-04.12.24:599][ 43]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Saved/FlickeringLight_Auto407737047449604B90B8268860E1EFA0C.tmp' to '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Saved/Autosaves/Game/ThirdPerson/Meshes/FlickeringLight_Auto4.uasset'
+[2018.10.01-04.12.24:600][ 43]LogFileHelpers: Auto-saving content packages took 0.011
+[2018.10.01-04.23.08:214][965]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.01-06.09.56:533][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.01-06.09.58:558][289]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.01-06.09.58:580][289]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.01-06.09.58:580][289]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.01-06.09.58:580][289]LogHMD: Initializing OVRPlugin session
+[2018.10.01-06.10.00:262][289]PIE: New page: PIE session: ThirdPersonExampleMap (1 Oct 2018 10:10:00 pm)
+[2018.10.01-06.10.00:262][289]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.10.01-06.10.00:287][289]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024048s)
+[2018.10.01-06.10.00:288][289]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.10.01-06.10.00:288][289]LogPlayLevel: PIE: World Init took: (0.001282s)
+[2018.10.01-06.10.00:288][289]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025636s)
+[2018.10.01-06.10.00:362][289]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.01-06.10.01:221][289]LogInit: FAudioDevice initialized.
+[2018.10.01-06.10.01:251][289]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.01-06.10.01:260][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.01-06.10.01:329][289]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.01-06.10.01:334][289]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.10.01-14.10.01
+[2018.10.01-06.10.01:348][289]LogWorld: Bringing up level for play took: 0.016495
+[2018.10.01-06.10.01:365][289]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 10 classes and 0 folders.
+[2018.10.01-06.10.01:373][289]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 2.632
+[2018.10.01-06.10.01:373][289]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.01-06.10.01:412][289]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.10.01-06.10.44:476][295]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.01-06.10.44:505][295]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.01-06.10.44:536][295]LogSlate: Window 'Shooting_BP Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.01-06.10.44:575][295]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.01-06.10.44:575][295]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.10.01-06.10.44:677][296]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.10.01-06.12.29:702][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.01-06.12.39:332][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.01-06.45.49:153][319]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-06.45.49:187][320]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.01-06.45.49:187][320]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.10.01-06.45.49:187][320]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.10.01-06.45.49:187][320]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.10.01-06.45.49:187][320]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.10.01-06.45.49:187][320]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.10.01-06.45.49:187][320]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.10.01-06.45.49:187][320]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.10.01-06.45.49:187][320]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.01-06.45.49:187][320]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-06.45.49:187][320]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-06.45.49:187][320]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-06.45.49:187][320]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-06.45.49:187][320]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-06.45.49:187][320]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-06.45.49:187][320]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-06.45.49:187][320]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-06.45.49:187][320]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-06.45.49:187][320]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-06.45.49:187][320]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-06.45.49:187][320]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-06.45.49:187][320]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-06.45.49:187][320]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-06.45.49:187][320]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-06.45.49:188][320]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-06.45.49:188][320]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-06.45.49:188][320]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-06.45.49:188][320]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-06.45.49:188][320]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-06.45.49:188][320]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-06.45.50:776][470]MaterialEditorStats: Base pass shader: 100 instructions
+[2018.10.01-06.45.50:776][470]MaterialEditorStats: Base pass shader with Surface Lightmap: 117 instructions
+[2018.10.01-06.45.50:776][470]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
+[2018.10.01-06.45.50:776][470]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-06.45.50:776][470]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-06.46.06:916][327]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-06.46.06:950][328]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.01-06.46.06:950][328]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.10.01-06.46.06:950][328]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.10.01-06.46.06:950][328]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-06.46.06:951][328]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-06.46.07:657][386]MaterialEditorStats: Base pass shader: 104 instructions
+[2018.10.01-06.46.07:658][386]MaterialEditorStats: Base pass shader with Surface Lightmap: 121 instructions
+[2018.10.01-06.46.07:658][386]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 177 instructions
+[2018.10.01-06.46.07:658][386]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2018.10.01-06.46.07:658][386]MaterialEditorStats: Texture samplers: 3/16
+[2018.10.01-06.46.52:664][620]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.01-06.46.54:871][850]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Saved/ThirdPersonExampleMapF7A4112D4A22F616D375AAB6C2366D9E.tmp' to '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.10.01-06.46.55:017][850]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Saved/ThirdPersonExampleMap_BuiltData814040474B85B92614D8269A51B32C80.tmp' to '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.10.01-06.46.57:015][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.01-06.46.57:088][ 93]LogRenderer: Reallocating scene render targets to support 1532x756 Format 10 NumSamples 1 (Frame:191955).
+[2018.10.01-06.47.11:061][762]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.01-06.47.14:404][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.01-06.47.26:180][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.01-06.47.36:609][794]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.10.01-06.47.37:245][868]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.10.01-06.47.44:243][703]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.10.01-06.47.44:692][755]Cmd: DELETE
+[2018.10.01-06.47.44:692][755]Cmd: ACTOR DELETE
+[2018.10.01-06.47.44:695][755]LogEditorActor: Deleted Actor: PointLight
+[2018.10.01-06.47.44:743][755]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2018.10.01-06.56.54:427][710]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.01-06.56.54:697][710]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Saved/ThirdPersonExampleMap_Auto592703AC245974E64D099EF9BEBB4FCD5.tmp' to '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2018.10.01-06.56.54:700][710]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.245
+[2018.10.01-06.56.54:700][710]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.245
+[2018.10.01-10.01.31:065][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.01-10.01.31:644][424]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Saved/ThirdPersonExampleMapBED5A24B4ECE1EE2DEF2159BD46CE405.tmp' to '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.10.01-10.01.31:733][424]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Saved/ThirdPersonExampleMap_BuiltDataEF5B4D8C476BF44314DD41B2FC051938.tmp' to '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.10.01-10.01.47:344][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.01-10.01.50:118][303]LogSlate: Window 'Message' being destroyed
+[2018.10.01-10.01.50:718][303]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-10.01.50:798][303]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.01-10.01.50:798][303]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.10.01-10.01.50:798][303]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.10.01-10.01.50:798][303]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.10.01-10.01.50:798][303]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.10.01-10.01.50:798][303]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.10.01-10.01.50:798][303]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.10.01-10.01.50:798][303]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.10.01-10.01.50:798][303]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.01-10.01.50:798][303]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-10.01.50:799][303]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.01-10.01.50:799][303]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.01-10.01.50:799][303]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.01-10.01.50:799][303]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.01-10.01.50:799][303]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.01-10.01.50:799][303]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.01-10.01.50:799][303]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.01-10.01.50:799][303]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.01-10.01.50:799][303]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.01-10.01.50:799][303]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-10.01.50:799][303]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.01-10.01.50:799][303]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.01-10.01.50:799][303]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.01-10.01.50:799][303]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.01-10.01.50:799][303]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.01-10.01.50:799][303]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.01-10.01.50:799][303]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.01-10.01.50:799][303]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.01-10.01.50:799][303]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.01-10.01.50:799][303]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-10.01.50:801][303]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.01-10.01.50:813][303]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-10.01.50:850][303]LogMaterial: Display: Missing cached shader map for material FlickeringLight, compiling. 
+[2018.10.01-10.01.50:933][303]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy FlickeringLight, compiling. 
+[2018.10.01-10.01.52:333][303]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.10.01-10.01.52:333][303]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.10.01-10.01.52:333][303]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.01-10.01.52:333][303]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.01-10.01.52:333][303]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.01-10.01.52:336][303]TextureStreamingBuild: Display: Compiling optional shaders took 1.410 seconds.
+[2018.10.01-10.01.52:481][303]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.01-10.01.57:432][303]LogSlate: Window 'Save Content' being destroyed
+[2018.10.01-10.01.57:451][303]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.01-10.01.57:513][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Meshes/FlickeringLight" FILE="../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Content/ThirdPerson/Meshes/FlickeringLight.uasset" SILENT=true
+[2018.10.01-10.01.57:532][303]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Saved/FlickeringLight52374BDC46BD240C70BC9EA005F895AD.tmp' to '../../../../../../163935T/FYP/FYP/Main/Shooting_BP/Content/ThirdPerson/Meshes/FlickeringLight.uasset'
+[2018.10.01-10.01.57:635][303]LogSlate: Window 'FlickeringLight' being destroyed
+[2018.10.01-10.01.57:757][303]LogSlate: Window 'Shooting_BP - Unreal Editor' being destroyed
+[2018.10.01-10.01.57:764][303]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2018.10.01-10.01.57:982][304]Cmd: QUIT_EDITOR
+[2018.10.01-10.01.58:875][304]LogExit: Preparing to exit.
+[2018.10.01-10.01.59:292][304]LogExit: Editor shut down
+[2018.10.01-10.01.59:293][304]LogExit: Transaction tracking system shut down
+[2018.10.01-10.02.00:145][304]LogExit: Object subsystem successfully closed.
+[2018.10.01-10.02.00:258][304]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.10.01-10.02.00:259][304]LogD3D11RHI: Shutdown
+[2018.10.01-10.02.00:259][304]LogD3D11RHI: CleanupD3DDevice
+[2018.10.01-10.02.00:262][304]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.01-10.02.00:280][304]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2018.10.01-10.02.00:280][304]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2018.10.01-10.02.00:280][304]LogModuleManager: Shutting down and abandoning module BlueprintGraph (612)
+[2018.10.01-10.02.00:280][304]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.10.01-10.02.00:280][304]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.10.01-10.02.00:280][304]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.10.01-10.02.00:281][304]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.10.01-10.02.00:281][304]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.10.01-10.02.00:281][304]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.10.01-10.02.00:281][304]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.10.01-10.02.00:281][304]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.10.01-10.02.00:281][304]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.10.01-10.02.00:281][304]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.10.01-10.02.00:281][304]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.10.01-10.02.00:281][304]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.10.01-10.02.00:281][304]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.10.01-10.02.00:281][304]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.10.01-10.02.00:281][304]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.10.01-10.02.00:281][304]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.10.01-10.02.00:281][304]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.10.01-10.02.00:281][304]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.10.01-10.02.00:281][304]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.10.01-10.02.00:281][304]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.10.01-10.02.00:282][304]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.10.01-10.02.00:282][304]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.10.01-10.02.00:282][304]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.10.01-10.02.00:282][304]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.10.01-10.02.00:282][304]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.10.01-10.02.00:282][304]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.10.01-10.02.00:282][304]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.10.01-10.02.00:282][304]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.10.01-10.02.00:282][304]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.10.01-10.02.00:282][304]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.10.01-10.02.00:282][304]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.10.01-10.02.00:282][304]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.10.01-10.02.00:282][304]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.10.01-10.02.00:282][304]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.10.01-10.02.00:282][304]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.10.01-10.02.00:282][304]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.10.01-10.02.00:282][304]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.10.01-10.02.00:282][304]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.10.01-10.02.00:282][304]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.10.01-10.02.00:282][304]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.10.01-10.02.00:282][304]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.10.01-10.02.00:282][304]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.10.01-10.02.00:282][304]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.10.01-10.02.00:282][304]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.10.01-10.02.00:282][304]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.10.01-10.02.00:283][304]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.10.01-10.02.00:283][304]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.10.01-10.02.00:283][304]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.10.01-10.02.00:283][304]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.10.01-10.02.00:283][304]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.10.01-10.02.00:283][304]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.10.01-10.02.00:283][304]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
