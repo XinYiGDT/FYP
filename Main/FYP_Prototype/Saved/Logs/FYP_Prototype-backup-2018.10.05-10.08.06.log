@@ -1,0 +1,708 @@
+﻿Log file open, 10/03/18 10:18:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FYP_Prototype
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 83 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.960395
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.102s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-2630 v4 @ 2.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Epic Games/UE_4.20/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.03-02.18.22:857][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.03-02.18.22:857][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.03-02.18.22:866][  0]LogHAL: Display: Platform has ~ 128 GB [137350422528 / 137438953472 / 128], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.03-02.18.22:866][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.03-02.18.22:866][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.03-02.18.22:866][  0]LogInit: Computer: M625GB01
+[2018.10.03-02.18.22:866][  0]LogInit: User: SIDM
+[2018.10.03-02.18.22:866][  0]LogInit: CPU Page size=4096, Cores=20
+[2018.10.03-02.18.22:866][  0]LogInit: High frequency timer resolution =2.143476 MHz
+[2018.10.03-02.18.22:867][  0]LogMemory: Memory total: Physical=127.9GB (128GB approx)
+[2018.10.03-02.18.22:867][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.03-02.18.22:867][  0]LogMemory: Process Physical Memory: 110.00 MB used, 110.00 MB peak
+[2018.10.03-02.18.22:867][  0]LogMemory: Process Virtual Memory: 100.54 MB used, 100.54 MB peak
+[2018.10.03-02.18.22:867][  0]LogMemory: Physical Memory: 7588.55 MB used,  123399.02 MB free, 130987.57 MB total
+[2018.10.03-02.18.22:867][  0]LogMemory: Virtual Memory: 4751.58 MB used,  123399.02 MB free, 134217728.00 MB total
+[2018.10.03-02.18.22:888][  0]LogInit: Using OS detected language (en-US).
+[2018.10.03-02.18.22:888][  0]LogInit: Using OS detected locale (en-SG).
+[2018.10.03-02.18.22:889][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.03-02.18.23:338][  0]LogStreaming: Display: Took  0.450s to InitEngineTextLocalization.
+[2018.10.03-02.18.23:338][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.03-02.18.23:386][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.03-02.18.23:386][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.03-02.18.23:613][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.03-02.18.23:664][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.10.03-02.18.23:664][  0]LogD3D11RHI:       8079/0/65493 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.03-02.18.23:666][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.03-02.18.23:666][  0]LogD3D11RHI:       0/0/65493 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.03-02.18.23:666][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.03-02.18.23:674][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.03-02.18.23:674][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.03-02.18.23:674][  0]LogWindows: EnumDisplayDevices:
+[2018.10.03-02.18.23:675][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.03-02.18.23:675][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.10.03-02.18.23:675][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.03-02.18.23:675][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.10.03-02.18.23:675][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.10.03-02.18.23:675][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.10.03-02.18.23:675][  0]LogD3D11RHI:   Driver Version: 390.77 (internal:23.21.13.9077, unified:390.77)
+[2018.10.03-02.18.23:675][  0]LogD3D11RHI:      Driver Date: 1-23-2018
+[2018.10.03-02.18.23:676][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.10.03-02.18.23:705][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.03-02.18.23:721][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.03-02.18.23:763][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Intermediate/Shaders/WorkingDirectory/11408/).
+[2018.10.03-02.18.23:763][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/impixel/AppData/Local/Temp/UnrealShaderWorkingDir/7315CB2A41462A0E5791718FA5222D1F/'.
+[2018.10.03-02.18.24:105][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.03-02.18.24:121][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.03-02.18.24:137][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.03-02.18.24:152][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.03-02.18.24:168][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.03-02.18.24:184][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.03-02.18.24:199][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.03-02.18.24:214][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.03-02.18.24:222][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.03-02.18.24:320][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-02.18.24:320][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-02.18.24:320][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-02.18.24:320][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-02.18.24:320][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-02.18.24:320][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-02.18.24:320][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-02.18.24:320][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-02.18.24:320][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-02.18.24:320][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-02.18.24:320][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-02.18.24:320][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-02.18.24:320][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-02.18.24:320][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-02.18.24:320][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-02.18.24:320][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-02.18.24:320][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-02.18.24:321][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.03-02.18.24:322][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.03-02.18.24:389][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.03-02.18.24:389][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.03-02.18.24:418][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.03-02.18.24:419][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.03-02.18.24:434][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.03-02.18.24:449][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.03-02.18.24:464][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.03-02.18.24:480][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.03-02.18.24:490][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.03-02.18.24:490][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.03-02.18.24:546][  0]LogXGEController: Cleaning working directory: C:/Users/impixel/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.03-02.18.24:547][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.03-02.18.24:547][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.03-02.18.24:547][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.03-02.18.25:382][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.03-02.18.25:479][  0]LogDerivedDataCache: Loaded boot cache 0.10s 72MB C:/Users/impixel/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.03-02.18.25:479][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/impixel/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.03-02.18.25:479][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.03-02.18.25:479][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.03-02.18.25:479][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.03-02.18.25:479][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.03-02.18.25:495][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.03-02.18.25:508][  0]LogDerivedDataCache: Using Local data cache path C:/Users/impixel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.03-02.18.25:508][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.03-02.18.25:508][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.03-02.18.25:532][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.03-02.18.25:534][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.03-02.18.25:535][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.03-02.18.25:626][  0]LogAssetRegistry: FAssetRegistry took 0.0276 seconds to start up
+[2018.10.03-02.18.26:010][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.03-02.18.26:161][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.03-02.18.26:165][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.03-02.18.26:165][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.03-02.18.26:165][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.03-02.18.26:165][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.03-02.18.26:190][  0]LogNetVersion: FYP_Prototype 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1129731653)
+[2018.10.03-02.18.26:744][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.077546 seconds
+[2018.10.03-02.18.26:750][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.03-02.18.26:750][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.10.03-02.18.26:750][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.03-02.18.27:744][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.03-02.18.27:757][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.03-02.18.27:909][  0]SourceControl: Source control is disabled
+[2018.10.03-02.18.27:909][  0]SourceControl: Source control is disabled
+[2018.10.03-02.18.27:911][  0]SourceControl: Source control is disabled
+[2018.10.03-02.18.27:912][  0]SourceControl: Source control is disabled
+[2018.10.03-02.18.28:077][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.03-02.18.28:146][  0]LogOcInput: OculusInput pre-init called
+[2018.10.03-02.18.28:208][  0]LogEngine: Initializing Engine...
+[2018.10.03-02.18.28:208][  0]LogHMD: Oculus plugin initialized. Version: 4.20.3-4369336+++UE4+Release-4.20, OVRPlugin: 1.25.0
+[2018.10.03-02.18.28:210][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.03-02.18.28:210][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.03-02.18.28:210][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.03-02.18.28:210][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.03-02.18.28:476][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.03-02.18.28:486][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.03-02.18.28:502][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.03-02.18.28:544][  0]LogInit: FAudioDevice initialized.
+[2018.10.03-02.18.28:545][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.03-02.18.28:611][  0]LogDerivedDataCache: Saved boot cache 0.07s 72MB C:/Users/impixel/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.03-02.18.28:620][  0]LogInit: Texture streaming: Enabled
+[2018.10.03-02.18.28:636][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.03-02.18.28:648][  0]LogInit: Transaction tracking system initialized
+[2018.10.03-02.18.28:665][  0]BlueprintLog: New page: Editor Load
+[2018.10.03-02.18.28:736][  0]LocalizationService: Localization service is disabled
+[2018.10.03-02.18.28:985][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.03-02.18.28:985][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.03-02.18.28:985][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.03-02.18.28:985][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.03-02.18.28:985][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.03-02.18.28:985][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.03-02.18.28:985][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.03-02.18.29:098][  0]LogFileCache: Scanning file cache for directory 'D:/163935T/FYP/FYP/Main/FYP_Prototype/Content/' took 0.02s
+[2018.10.03-02.18.29:098][  0]SourceControl: Source control is disabled
+[2018.10.03-02.18.29:098][  0]Cmd: MAP LOAD FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.03-02.18.29:099][  0]LightingResults: New page: Lighting Build
+[2018.10.03-02.18.29:100][  0]MapCheck: New page: Map Check
+[2018.10.03-02.18.29:100][  0]LightingResults: New page: Lighting Build
+[2018.10.03-02.18.29:275][  0]LogAIModule: Creating AISystem for world StartupMap
+[2018.10.03-02.18.29:283][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.03-02.18.29:353][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.03-02.18.29:415][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.707ms to complete.
+[2018.10.03-02.18.29:415][  0]LogFileHelpers: Loading map 'StartupMap' took 0.317
+[2018.10.03-02.18.29:532][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.03-02.18.29:542][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.03-02.18.29:551][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.03-02.18.29:560][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.03-02.18.29:566][  0]LogCollectionManager: Loaded 0 collections in 0.001081 seconds
+[2018.10.03-02.18.29:610][  0]LogFileCache: Scanning file cache for directory 'D:/163935T/FYP/FYP/Main/FYP_Prototype/Saved/Collections/' took 0.01s
+[2018.10.03-02.18.29:610][  0]LogFileCache: Scanning file cache for directory 'D:/163935T/FYP/FYP/Main/FYP_Prototype/Content/Developers/SIDM/Collections/' took 0.01s
+[2018.10.03-02.18.29:610][  0]LogFileCache: Scanning file cache for directory 'D:/163935T/FYP/FYP/Main/FYP_Prototype/Content/Collections/' took 0.01s
+[2018.10.03-02.18.29:610][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.03-02.18.29:622][  0]LogContentBrowser: Native class hierarchy populated in 0.0119 seconds. Added 2572 classes and 603 folders.
+[2018.10.03-02.18.29:627][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.03-02.18.29:675][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.03-02.18.29:682][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.10.03-02.18.29:760][  0]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.03-02.18.29:763][  0]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.03-02.18.29:770][  0]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.03-02.18.29:858][  0]LogRenderer: Reallocating scene render targets to support 1048x600 Format 10 NumSamples 1 (Frame:1).
+[2018.10.03-02.18.29:998][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.03-02.18.29:999][  0]LogLoad: (Engine Initialization) Total time: 9.98 seconds
+[2018.10.03-02.18.29:999][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.03-02.18.30:015][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2018.10.03-02.18.30:021][  0]LogOcInput: OculusInput is initialized
+[2018.10.03-02.18.30:045][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.10.03-02.18.30:084][  1]LogAssetRegistry: Asset discovery search completed in 4.4814 seconds
+[2018.10.03-02.18.30:086][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.10.03-02.18.30:086][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000054 seconds (updated 0 objects)
+[2018.10.03-02.18.34:063][474]LogSlate: Took 0.000389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.03-02.18.57:555][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-02.18.57:775][314]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.03-02.18.57:784][314]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Models/Animations/Bat/BatCrawlingDeath.BatCrawlingDeath
+[2018.10.03-02.18.57:826][314]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.10.03-02.18.58:081][314]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.03-02.18.58:083][314]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.10.03-02.18.58:132][314]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.10.03-02.18.58:567][314]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.10.03-02.18.58:571][314]LogRenderer: Reallocating scene render targets to support 1144x600 Format 10 NumSamples 1 (Frame:1).
+[2018.10.03-02.18.58:571][314]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.03-02.19.08:898][401]LogSlate: Window 'BatCrawlingDeath' being destroyed
+[2018.10.03-02.19.08:902][401]LogSlate: Window 'BatCrawlingDeath' being destroyed
+[2018.10.03-02.20.12:483][995]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Models/Animations/Mudskipper/MudskipperIdle.MudskipperIdle
+[2018.10.03-02.20.12:521][995]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.03-02.20.12:966][995]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.03-02.20.26:983][547]LogSlate: Window 'MudskipperIdle' being destroyed
+[2018.10.03-02.20.26:987][547]LogSlate: Window 'MudskipperIdle' being destroyed
+[2018.10.03-02.20.46:224][831]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Models/Animations/Mudskipper/MudskipperAttack.MudskipperAttack
+[2018.10.03-02.20.46:233][831]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.03-02.20.46:658][831]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.03-02.21.02:782][651]LogSlate: Window 'MudskipperAttack' being destroyed
+[2018.10.03-02.21.12:157][749]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Models/Animations/Slug/SlugAttack.SlugAttack
+[2018.10.03-02.21.12:193][749]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.03-02.21.12:604][749]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.03-02.22.16:120][322]LogSlate: Window 'SlugAttack' being destroyed
+[2018.10.03-02.26.35:600][556]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.03-02.27.02:888][810]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/NewWorld.NewWorld
+[2018.10.03-02.27.07:681][810]LogSlate: Window 'Save Content' being destroyed
+[2018.10.03-02.27.07:687][810]Cmd: MAP LOAD FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/VirtualRealityBP/Maps/NewWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.03-02.27.07:689][810]LightingResults: New page: Lighting Build
+[2018.10.03-02.27.07:690][810]LoadErrors: New page: Loading map: NewWorld.umap
+[2018.10.03-02.27.07:692][810]MapCheck: New page: Map Check
+[2018.10.03-02.27.07:692][810]LightingResults: New page: Lighting Build
+[2018.10.03-02.27.07:831][810]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.03-02.27.07:831][810]LogAIModule: Creating AISystem for world NewWorld
+[2018.10.03-02.27.07:917][810]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.03-02.27.07:991][810]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73.957ms to complete.
+[2018.10.03-02.27.07:993][810]LogFileHelpers: Loading map 'NewWorld' took 0.309
+[2018.10.03-02.27.18:701][821]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.03-02.27.18:718][821]LightingResults: New page: Lighting Build
+[2018.10.03-02.27.18:722][821]MapCheck: New page: Map Check
+[2018.10.03-02.27.18:722][821]LightingResults: New page: Lighting Build
+[2018.10.03-02.27.18:797][821]LogAIModule: Creating AISystem for world Untitled
+[2018.10.03-02.27.18:863][821]LoadErrors: New page: New Map
+[2018.10.03-02.27.18:865][821]LogLinker: Can't find file '/Game/VirtualRealityBP/Maps/NewWorld'
+[2018.10.03-02.27.18:866][821]LogLinker: Can't find file '/Game/VirtualRealityBP/Maps/NewWorld'
+[2018.10.03-02.27.21:676][997]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.10.03-02.27.21:694][997]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2018.10.03-02.27.21:756][997]Cmd: MAP LOAD FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.03-02.27.21:756][997]LightingResults: New page: Lighting Build
+[2018.10.03-02.27.21:757][997]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2018.10.03-02.27.21:757][997]MapCheck: New page: Map Check
+[2018.10.03-02.27.21:757][997]LightingResults: New page: Lighting Build
+[2018.10.03-02.27.21:905][997]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.03-02.27.21:987][997]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.03-02.27.22:075][997]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 88.225ms to complete.
+[2018.10.03-02.27.22:075][997]LogFileHelpers: Loading map 'MotionControllerMap' took 0.321
+[2018.10.03-02.27.25:593][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-02.27.40:131][122]LogSlate: Took 0.000406 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.03-02.27.40:810][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-02.27.53:707][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-02.27.57:579][187]Cmd: DELETE
+[2018.10.03-02.27.57:579][187]Cmd: ACTOR DELETE
+[2018.10.03-02.27.57:587][187]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2018.10.03-02.27.57:641][187]LogEditorActor: Deleted 1 Actors (0.061 secs)
+[2018.10.03-02.29.35:760][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-02.30.41:440][772]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0004 seconds. Added 7 classes and 3 folders.
+[2018.10.03-02.30.50:121][772]LogSlate: Window 'New Physics Asset' being destroyed
+[2018.10.03-02.30.50:206][772]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/Models/Bat_Physics1.Bat_Physics1
+[2018.10.03-02.30.50:220][772]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.10.03-02.30.50:539][772]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.03-02.30.50:651][772]LogRenderer: Reallocating scene render targets to support 1144x888 Format 10 NumSamples 1 (Frame:1).
+[2018.10.03-02.30.54:263][ 87]LogSlate: Window 'Bat_Physics1*' being destroyed
+[2018.10.03-02.30.59:681][348]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.03-02.30.59:985][348]LogSkeletalMesh: Building Skeletal Mesh Bat...
+[2018.10.03-02.31.00:001][348]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Models/Bat.Bat
+[2018.10.03-02.31.01:898][559]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Bat)
+[2018.10.03-02.31.15:202][143]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-02.31.24:953][300]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Bat)
+[2018.10.03-02.31.38:200][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-02.31.42:825][429]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Bat)
+[2018.10.03-02.31.58:616][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-02.33.54:457][855]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Models/Bat_animation.Bat_animation
+[2018.10.03-02.33.54:510][855]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.03-02.33.55:031][855]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.10.03-02.33.56:346][855]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.03-02.37.21:587][852]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/MotionControllerMap_Auto1E7ED5FD541E12CAD3EAA22965D2B4915.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap'
+[2018.10.03-02.37.21:591][852]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.560
+[2018.10.03-02.37.21:591][852]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.560
+[2018.10.03-02.37.21:593][852]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Bat] ([1] browsable assets)...
+[2018.10.03-02.37.21:607][852]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Models/Bat.Bat]
+[2018.10.03-02.37.21:607][852]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Bat]
+[2018.10.03-02.37.21:607][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Bat" FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Autosaves/Game/Models/Bat_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.03-02.37.21:638][852]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Bat_Auto1C8F3E2B948A0E6DE55B12E9F52249B51.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Autosaves/Game/Models/Bat_Auto1.uasset'
+[2018.10.03-02.37.21:640][852]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Bat_animation] ([1] browsable assets)...
+[2018.10.03-02.37.21:652][852]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Models/Bat_animation.Bat_animation]
+[2018.10.03-02.37.21:653][852]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Bat_animation]
+[2018.10.03-02.37.21:653][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Bat_animation" FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Autosaves/Game/Models/Bat_animation_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.03-02.37.21:668][852]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Bat_animation_Auto1D15F99A74D450E0373A544A04E0AF691.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Autosaves/Game/Models/Bat_animation_Auto1.uasset'
+[2018.10.03-02.37.21:669][852]LogFileHelpers: Auto-saving content packages took 0.077
+[2018.10.03-02.49.23:326][912]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.067
+[2018.10.03-02.49.23:328][912]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Bat_animation] ([1] browsable assets)...
+[2018.10.03-02.49.23:342][912]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Models/Bat_animation.Bat_animation]
+[2018.10.03-02.49.23:342][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Bat_animation]
+[2018.10.03-02.49.23:342][912]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Bat_animation" FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Autosaves/Game/Models/Bat_animation_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.10.03-02.49.23:362][912]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Bat_animation_Auto2FC0A31394EAE60817923959E793A5348.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Autosaves/Game/Models/Bat_animation_Auto2.uasset'
+[2018.10.03-02.49.23:363][912]LogFileHelpers: Auto-saving content packages took 0.036
+[2018.10.03-02.50.21:901][ 87]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.03-02.52.57:271][945]LogSlate: Window 'Bat_animation*' being destroyed
+[2018.10.03-02.53.42:131][666]LogSlate: Window 'Pick Skeleton' being destroyed
+[2018.10.03-02.54.21:641][446]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/Models/BatBlend.BatBlend
+[2018.10.03-02.54.21:650][446]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_23:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.03-02.54.22:064][446]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.03-02.57.11:212][453]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Models/Bat.Bat
+[2018.10.03-02.57.11:220][453]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.03-02.57.38:966][787]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Models/Animations/Bat/BatCrawling.BatCrawling
+[2018.10.03-02.57.43:372][ 91]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/Models/BatBlend.BatBlend
+[2018.10.03-02.59.30:078][ 72]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.056
+[2018.10.03-02.59.30:080][ 72]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Bat_animation] ([1] browsable assets)...
+[2018.10.03-02.59.30:094][ 72]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Models/Bat_animation.Bat_animation]
+[2018.10.03-02.59.30:094][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Bat_animation]
+[2018.10.03-02.59.30:094][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Bat_animation" FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Autosaves/Game/Models/Bat_animation_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.10.03-02.59.30:112][ 72]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Bat_animation_Auto30E82CAD3439C8AA6ADA3108BAE2F34AD.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Autosaves/Game/Models/Bat_animation_Auto3.uasset'
+[2018.10.03-02.59.30:114][ 72]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/BatBlend] ([1] browsable assets)...
+[2018.10.03-02.59.30:127][ 72]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/Models/BatBlend.BatBlend]
+[2018.10.03-02.59.30:127][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/BatBlend]
+[2018.10.03-02.59.30:127][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/BatBlend" FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Autosaves/Game/Models/BatBlend_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.10.03-02.59.30:139][ 72]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/BatBlend_Auto32FDC7B0A4326C8D9B1FFE2A51AE7A304.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Autosaves/Game/Models/BatBlend_Auto3.uasset'
+[2018.10.03-02.59.30:139][ 72]LogFileHelpers: Auto-saving content packages took 0.060
+[2018.10.03-03.02.45:538][209]LogSlate: Window 'Bat*' being destroyed
+[2018.10.03-03.02.45:543][209]LogSlate: Window 'Bat*' being destroyed
+[2018.10.03-03.02.59:280][388]LogSlate: Window 'Delete Assets' being destroyed
+[2018.10.03-08.06.51:479][215]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Models/Bat_animation.Bat_animation
+[2018.10.03-08.06.51:492][215]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.03-08.06.52:217][215]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.03-08.09.10:486][ 82]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.061
+[2018.10.03-08.09.10:488][ 82]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Bat_animation] ([1] browsable assets)...
+[2018.10.03-08.09.10:502][ 82]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Models/Bat_animation.Bat_animation]
+[2018.10.03-08.09.10:502][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Bat_animation]
+[2018.10.03-08.09.10:502][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Bat_animation" FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Autosaves/Game/Models/Bat_animation_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.10.03-08.09.10:526][ 82]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Bat_animation_Auto468BE0DEE44FFCD198F3E92AE02898A6F.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Autosaves/Game/Models/Bat_animation_Auto4.uasset'
+[2018.10.03-08.09.10:527][ 82]LogFileHelpers: Auto-saving content packages took 0.040
+[2018.10.03-08.19.55:394][442]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.059
+[2018.10.03-08.19.55:396][442]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Bat_animation] ([1] browsable assets)...
+[2018.10.03-08.19.55:409][442]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Models/Bat_animation.Bat_animation]
+[2018.10.03-08.19.55:409][442]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Bat_animation]
+[2018.10.03-08.19.55:409][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Bat_animation" FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Autosaves/Game/Models/Bat_animation_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2018.10.03-08.19.55:439][442]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Bat_animation_Auto534D3A9C54708AD1E0FED8CA90EEE5632.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Autosaves/Game/Models/Bat_animation_Auto5.uasset'
+[2018.10.03-08.19.55:440][442]LogFileHelpers: Auto-saving content packages took 0.045
+[2018.10.03-08.29.55:751][155]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.079
+[2018.10.03-08.29.55:754][155]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Bat_animation] ([1] browsable assets)...
+[2018.10.03-08.29.55:768][155]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Models/Bat_animation.Bat_animation]
+[2018.10.03-08.29.55:768][155]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Bat_animation]
+[2018.10.03-08.29.55:768][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Bat_animation" FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Autosaves/Game/Models/Bat_animation_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2018.10.03-08.29.55:819][155]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Bat_animation_Auto6C66F8917462636ED0AB0118F043D4B77.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Autosaves/Game/Models/Bat_animation_Auto6.uasset'
+[2018.10.03-08.29.55:820][155]LogFileHelpers: Auto-saving content packages took 0.067
+[2018.10.03-09.00.56:900][362]LogSlate: Window 'Delete Variable' being destroyed
+[2018.10.03-09.04.46:290][275]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.03-09.05.01:125][319]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.077
+[2018.10.03-09.05.01:127][319]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Models/Bat_animation] ([1] browsable assets)...
+[2018.10.03-09.05.01:142][319]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Models/Bat_animation.Bat_animation]
+[2018.10.03-09.05.01:142][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/Models/Bat_animation]
+[2018.10.03-09.05.01:142][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Bat_animation" FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Autosaves/Game/Models/Bat_animation_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2018.10.03-09.05.01:202][319]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Bat_animation_Auto77E1A9D8B4EA377010F9744B28F9D000C.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Autosaves/Game/Models/Bat_animation_Auto7.uasset'
+[2018.10.03-09.05.01:204][319]LogFileHelpers: Auto-saving content packages took 0.077
+[2018.10.03-09.16.47:493][903]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UAnimInstance::GetInstanceAssetPlayerTimeFromEndFraction' [The specified module could not be found.]
+[2018.10.03-09.16.47:608][912]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UAnimInstance::GetInstanceAssetPlayerTimeFromEndFraction' [Element not found.]
+[2018.10.03-09.19.24:830][522]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Bat_animation" FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Bat_animation.uasset" SILENT=true
+[2018.10.03-09.19.24:910][522]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Bat_animationE049660941C85AD06DC2518D4213F24F.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Bat_animation.uasset'
+[2018.10.03-09.19.25:429][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Bat_animation" FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Bat_animation.uasset" SILENT=true
+[2018.10.03-09.19.25:503][562]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Bat_animation32A6F33146E65E7211AE5B956B538CFE.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Bat_animation.uasset'
+[2018.10.03-09.19.26:215][620]BlueprintLog: New page: Compile Bat_animation
+[2018.10.03-09.19.27:441][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Bat_animation" FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Bat_animation.uasset" SILENT=true
+[2018.10.03-09.19.27:531][690]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Bat_animation8150C351473A0579B1D95BBAE0016598.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Bat_animation.uasset'
+[2018.10.03-09.20.17:813][ 28]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.10.03-09.20.37:738][ 28]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2018.10.03-09.20.48:851][321]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Models/Slug_Animation.Slug_Animation
+[2018.10.03-09.20.48:863][321]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.03-09.20.49:586][321]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.03-09.21.51:132][  6]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Models/Animations/Slug/SlugDeath.SlugDeath
+[2018.10.03-09.21.51:138][  6]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.03-09.21.51:606][  6]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.03-09.26.45:572][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Slug_Animation" FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Slug_Animation.uasset" SILENT=true
+[2018.10.03-09.26.45:621][156]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Slug_Animation32C97D774B23EC9A8CE083A59899A27D.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Slug_Animation.uasset'
+[2018.10.03-09.26.45:855][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Slug_Animation" FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Slug_Animation.uasset" SILENT=true
+[2018.10.03-09.26.45:900][173]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Slug_AnimationDE0B395642AF265FE1D2A48556F9F852.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Slug_Animation.uasset'
+[2018.10.03-09.27.11:589][114]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.10.03-09.27.24:673][114]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2018.10.03-09.27.39:010][713]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Models/Snake_animation.Snake_animation
+[2018.10.03-09.27.39:024][713]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.03-09.27.39:748][713]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.03-09.31.25:677][796]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Models/Animations/Snake/SnakeCoil.SnakeCoil
+[2018.10.03-09.31.25:685][796]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.03-09.31.26:198][796]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.03-09.31.38:434][717]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Models/Animations/Snake/SnakeDeath.SnakeDeath
+[2018.10.03-09.31.48:131][438]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Models/Animations/Snake/SnakeTakingDmg.SnakeTakingDmg
+[2018.10.03-09.31.48:138][438]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_45:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.03-09.31.48:642][438]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.03-09.35.51:314][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Snake_animation" FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Snake_animation.uasset" SILENT=true
+[2018.10.03-09.35.51:359][591]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Snake_animation61487BC648F0A6B11D4D4DB7D4E97C39.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Snake_animation.uasset'
+[2018.10.03-09.40.54:302][663]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.10.03-09.41.24:875][663]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2018.10.03-09.41.37:195][ 95]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Models/Mudskipper_animation.Mudskipper_animation
+[2018.10.03-09.41.37:208][ 95]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_50:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.03-09.41.37:886][ 95]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.03-09.47.08:615][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Mudskipper_animation" FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Mudskipper_animation.uasset" SILENT=true
+[2018.10.03-09.47.08:658][760]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Mudskipper_animation9E9B2D5F4EE008B1A9C9EB9ABE6DC525.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Mudskipper_animation.uasset'
+[2018.10.03-09.47.08:773][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Mudskipper_animation" FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Mudskipper_animation.uasset" SILENT=true
+[2018.10.03-09.47.08:812][765]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Mudskipper_animation8EC0A0854330FE2EDAA5CD835D146DFE.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Mudskipper_animation.uasset'
+[2018.10.03-09.47.09:359][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Mudskipper_animation" FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Mudskipper_animation.uasset" SILENT=true
+[2018.10.03-09.47.09:394][802]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Mudskipper_animationE7BB7EF7432B179C7F3D68A0768C6183.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Mudskipper_animation.uasset'
+[2018.10.03-09.47.09:496][807]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/Mudskipper_animation" FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Mudskipper_animation.uasset" SILENT=true
+[2018.10.03-09.47.09:532][807]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Mudskipper_animation9941B8624F0E563CAAE73D9F2E2A4F9F.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Mudskipper_animation.uasset'
+[2018.10.03-09.47.21:632][ 30]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.10.03-09.47.26:980][ 30]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2018.10.03-09.47.44:695][117]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Models/FlexxingMudskipper_Animation.FlexxingMudskipper_Animation
+[2018.10.03-09.47.44:706][117]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_54:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.03-09.47.45:363][117]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.03-09.48.33:439][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.03-09.49.14:910][588]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Models/Animations/Mudskipper/MudskipperStartFlexing.MudskipperStartFlexing
+[2018.10.03-09.49.14:916][588]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_56:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.03-09.49.15:404][588]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.03-09.49.29:939][ 22]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Models/Animations/Mudskipper/MudskipperDoneFlexing.MudskipperDoneFlexing
+[2018.10.03-09.50.35:310][960]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Models/Animations/Mudskipper/MudskipperPunchenemy.MudskipperPunchenemy
+[2018.10.03-09.50.35:317][960]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_60:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.03-09.50.35:848][960]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.03-09.54.27:734][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/FlexxingMudskipper_Animation" FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/FlexxingMudskipper_Animation.uasset" SILENT=true
+[2018.10.03-09.54.27:781][369]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/FlexxingMudskipper_Animation1824510B400B322C63DFA1A3F4236844.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/FlexxingMudskipper_Animation.uasset'
+[2018.10.03-09.54.28:013][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/FlexxingMudskipper_Animation" FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/FlexxingMudskipper_Animation.uasset" SILENT=true
+[2018.10.03-09.54.28:056][385]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/FlexxingMudskipper_AnimationE091109242A49742559CAB8F3623CDF6.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/FlexxingMudskipper_Animation.uasset'
+[2018.10.03-09.54.28:550][423]BlueprintLog: New page: Compile FlexxingMudskipper_Animation
+[2018.10.03-09.54.31:271][608]BlueprintLog: New page: Compile Mudskipper_animation
+[2018.10.03-09.54.32:682][704]BlueprintLog: New page: Compile Snake_animation
+[2018.10.03-09.54.34:120][801]BlueprintLog: New page: Compile Slug_Animation
+[2018.10.03-09.55.24:745][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:745][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.SKEL_Bat_animation_C' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:745][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation_C' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:745][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:745][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation:AnimGraph.AnimGraphNode_StateMachine_0.Bat_States.AnimStateEntryNode_0' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:745][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation:AnimGraph.AnimGraphNode_StateMachine_0.Bat_States.AnimStateNode_0.Spawn.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:745][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation:AnimGraph.AnimGraphNode_StateMachine_0.Bat_States.AnimStateNode_1.BatFlying.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:745][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation:AnimGraph.AnimGraphNode_StateMachine_0.Bat_States.AnimStateTransitionNode_0.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:745][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation:AnimGraph.AnimGraphNode_StateMachine_0.Bat_States.AnimStateNode_3.BatFlyAttack.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:745][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation:AnimGraph.AnimGraphNode_StateMachine_0.Bat_States.AnimStateNode_8.BatFlyingDeath.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:745][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation:AnimGraph.AnimGraphNode_StateMachine_0.Bat_States.AnimStateTransitionNode_1.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:746][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation:AnimGraph.AnimGraphNode_StateMachine_0.Bat_States.AnimStateNode_4.BatCrawling.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:746][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation:AnimGraph.AnimGraphNode_StateMachine_0.Bat_States.AnimStateTransitionNode_2.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:746][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation:AnimGraph.AnimGraphNode_StateMachine_0.Bat_States.AnimStateNode_5.BatCrawlAtttack.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:746][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation:AnimGraph.AnimGraphNode_StateMachine_0.Bat_States.AnimStateTransitionNode_3.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:746][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation:AnimGraph.AnimGraphNode_StateMachine_0.Bat_States.AnimStateTransitionNode_13.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:746][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation:AnimGraph.AnimGraphNode_StateMachine_0.Bat_States.AnimStateNode_9.BatCrawlingdeath.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:746][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation:AnimGraph.AnimGraphNode_StateMachine_0.Bat_States.AnimStateTransitionNode_6.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:746][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation:AnimGraph.AnimGraphNode_StateMachine_0.Bat_States.AnimStateTransitionNode_7.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:746][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation:AnimGraph.AnimGraphNode_StateMachine_0.Bat_States.AnimStateTransitionNode_9.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:746][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation:AnimGraph.AnimGraphNode_StateMachine_0.Bat_States.AnimStateTransitionNode_10.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:746][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation:AnimGraph.AnimGraphNode_StateMachine_0.Bat_States.AnimStateTransitionNode_11.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:746][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.SKEL_Bat_animation_C:isDead' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:746][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.SKEL_Bat_animation_C:IsAttacking' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:746][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation:AnimGraph.AnimGraphNode_StateMachine_0.Bat_States.AnimStateTransitionNode_14.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:746][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation:AnimGraph.AnimGraphNode_StateMachine_0.Bat_States.AnimStateTransitionNode_15.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:746][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.SKEL_Bat_animation_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:746][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.SKEL_Bat_animation_C:IsFlying' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:746][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation_C:IsAttacking' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:746][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation_C:isDead' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:746][144]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Bat_animation.Bat_animation_C:IsFlying' ref from Metadata '/Game/Models/Bat_animation.PackageMetaData'
+[2018.10.03-09.55.24:869][144]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Bat_animationC644CA4147C45525FF06C6ACC45CF133.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Animation_Blueprint/Bat_animation.uasset'
+[2018.10.03-09.55.41:110][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.FlexxingMudskipper_Animation:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Models/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.41:110][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.SKEL_FlexxingMudskipper_Animation_C' ref from Metadata '/Game/Models/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.41:110][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.FlexxingMudskipper_Animation_C' ref from Metadata '/Game/Models/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.41:110][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.FlexxingMudskipper_Animation:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Models/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.41:110][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.FlexxingMudskipper_Animation:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/Models/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.41:110][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.FlexxingMudskipper_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Flexing Mudskipper Animation States.AnimStateEntryNode_0' ref from Metadata '/Game/Models/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.41:110][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.FlexxingMudskipper_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Flexing Mudskipper Animation States.AnimStateNode_0.Spawn.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.41:110][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.FlexxingMudskipper_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Flexing Mudskipper Animation States.AnimStateNode_1.Idle.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.41:110][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.FlexxingMudskipper_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Flexing Mudskipper Animation States.AnimStateTransitionNode_33.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.41:110][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.FlexxingMudskipper_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Flexing Mudskipper Animation States.AnimStateNode_2.Done.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.41:110][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.FlexxingMudskipper_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Flexing Mudskipper Animation States.AnimStateTransitionNode_34.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.41:110][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.FlexxingMudskipper_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Flexing Mudskipper Animation States.AnimStateNode_3.AttackEnemy.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.41:110][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.FlexxingMudskipper_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Flexing Mudskipper Animation States.AnimStateTransitionNode_35.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.41:110][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.FlexxingMudskipper_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Flexing Mudskipper Animation States.AnimStateTransitionNode_36.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.41:110][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.FlexxingMudskipper_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Flexing Mudskipper Animation States.AnimStateNode_4.AttackPlayer.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.41:110][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.FlexxingMudskipper_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Flexing Mudskipper Animation States.AnimStateTransitionNode_37.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.41:111][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.FlexxingMudskipper_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Flexing Mudskipper Animation States.AnimStateTransitionNode_39.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.41:111][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.SKEL_FlexxingMudskipper_Animation_C:playerAttack' ref from Metadata '/Game/Models/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.41:111][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.SKEL_FlexxingMudskipper_Animation_C:enemyAttack' ref from Metadata '/Game/Models/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.41:111][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.SKEL_FlexxingMudskipper_Animation_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Models/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.41:111][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.SKEL_FlexxingMudskipper_Animation_C:isDone' ref from Metadata '/Game/Models/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.41:111][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.FlexxingMudskipper_Animation_C:enemyAttack' ref from Metadata '/Game/Models/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.41:111][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.FlexxingMudskipper_Animation_C:playerAttack' ref from Metadata '/Game/Models/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.41:111][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.FlexxingMudskipper_Animation_C:isDone' ref from Metadata '/Game/Models/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.41:124][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Mudskipper_animation.Mudskipper_animation:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Models/Mudskipper_animation.PackageMetaData'
+[2018.10.03-09.55.41:124][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Mudskipper_animation.SKEL_Mudskipper_animation_C' ref from Metadata '/Game/Models/Mudskipper_animation.PackageMetaData'
+[2018.10.03-09.55.41:124][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Mudskipper_animation.Mudskipper_animation_C' ref from Metadata '/Game/Models/Mudskipper_animation.PackageMetaData'
+[2018.10.03-09.55.41:124][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Mudskipper_animation.Mudskipper_animation:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Models/Mudskipper_animation.PackageMetaData'
+[2018.10.03-09.55.41:124][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Mudskipper_animation.Mudskipper_animation:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/Models/Mudskipper_animation.PackageMetaData'
+[2018.10.03-09.55.41:124][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Mudskipper_animation.Mudskipper_animation:AnimGraph.AnimGraphNode_StateMachine_0.MudSkipper Animation States.AnimStateEntryNode_0' ref from Metadata '/Game/Models/Mudskipper_animation.PackageMetaData'
+[2018.10.03-09.55.41:125][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Mudskipper_animation.Mudskipper_animation:AnimGraph.AnimGraphNode_StateMachine_0.MudSkipper Animation States.AnimStateNode_0.Idle.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/Mudskipper_animation.PackageMetaData'
+[2018.10.03-09.55.41:125][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Mudskipper_animation.SKEL_Mudskipper_animation_C:IsDead' ref from Metadata '/Game/Models/Mudskipper_animation.PackageMetaData'
+[2018.10.03-09.55.41:125][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Mudskipper_animation.Mudskipper_animation:AnimGraph.AnimGraphNode_StateMachine_0.MudSkipper Animation States.AnimStateTransitionNode_29.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Mudskipper_animation.PackageMetaData'
+[2018.10.03-09.55.41:125][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Mudskipper_animation.SKEL_Mudskipper_animation_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Models/Mudskipper_animation.PackageMetaData'
+[2018.10.03-09.55.41:125][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Mudskipper_animation.Mudskipper_animation:AnimGraph.AnimGraphNode_StateMachine_0.MudSkipper Animation States.AnimStateNode_1.Attack.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/Mudskipper_animation.PackageMetaData'
+[2018.10.03-09.55.41:125][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Mudskipper_animation.Mudskipper_animation:AnimGraph.AnimGraphNode_StateMachine_0.MudSkipper Animation States.AnimStateTransitionNode_31.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Mudskipper_animation.PackageMetaData'
+[2018.10.03-09.55.41:125][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Mudskipper_animation.Mudskipper_animation:AnimGraph.AnimGraphNode_StateMachine_0.MudSkipper Animation States.AnimStateTransitionNode_30.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Mudskipper_animation.PackageMetaData'
+[2018.10.03-09.55.41:125][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Mudskipper_animation.Mudskipper_animation:AnimGraph.AnimGraphNode_StateMachine_0.MudSkipper Animation States.AnimStateNode_2.Dead.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/Mudskipper_animation.PackageMetaData'
+[2018.10.03-09.55.41:125][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Mudskipper_animation.Mudskipper_animation:AnimGraph.AnimGraphNode_StateMachine_0.MudSkipper Animation States.AnimStateTransitionNode_32.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Mudskipper_animation.PackageMetaData'
+[2018.10.03-09.55.41:125][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Mudskipper_animation.SKEL_Mudskipper_animation_C:IsAttacking' ref from Metadata '/Game/Models/Mudskipper_animation.PackageMetaData'
+[2018.10.03-09.55.41:125][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Mudskipper_animation.Mudskipper_animation_C:IsDead' ref from Metadata '/Game/Models/Mudskipper_animation.PackageMetaData'
+[2018.10.03-09.55.41:125][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Mudskipper_animation.Mudskipper_animation_C:IsAttacking' ref from Metadata '/Game/Models/Mudskipper_animation.PackageMetaData'
+[2018.10.03-09.55.41:138][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Slug_Animation.Slug_Animation:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Models/Slug_Animation.PackageMetaData'
+[2018.10.03-09.55.41:138][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Slug_Animation.SKEL_Slug_Animation_C' ref from Metadata '/Game/Models/Slug_Animation.PackageMetaData'
+[2018.10.03-09.55.41:138][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Slug_Animation.Slug_Animation_C' ref from Metadata '/Game/Models/Slug_Animation.PackageMetaData'
+[2018.10.03-09.55.41:138][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Slug_Animation.Slug_Animation:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Models/Slug_Animation.PackageMetaData'
+[2018.10.03-09.55.41:138][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Slug_Animation.Slug_Animation:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/Models/Slug_Animation.PackageMetaData'
+[2018.10.03-09.55.41:138][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Slug_Animation.Slug_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Slug Animation State.AnimStateEntryNode_0' ref from Metadata '/Game/Models/Slug_Animation.PackageMetaData'
+[2018.10.03-09.55.41:138][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Slug_Animation.Slug_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Slug Animation State.AnimStateNode_0.Spawn.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/Slug_Animation.PackageMetaData'
+[2018.10.03-09.55.41:138][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Slug_Animation.Slug_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Slug Animation State.AnimStateNode_1.Idle.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/Slug_Animation.PackageMetaData'
+[2018.10.03-09.55.41:138][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Slug_Animation.Slug_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Slug Animation State.AnimStateTransitionNode_16.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Slug_Animation.PackageMetaData'
+[2018.10.03-09.55.41:138][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Slug_Animation.Slug_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Slug Animation State.AnimStateNode_2.Attack.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/Slug_Animation.PackageMetaData'
+[2018.10.03-09.55.41:138][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Slug_Animation.Slug_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Slug Animation State.AnimStateTransitionNode_17.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Slug_Animation.PackageMetaData'
+[2018.10.03-09.55.41:138][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Slug_Animation.Slug_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Slug Animation State.AnimStateTransitionNode_18.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Slug_Animation.PackageMetaData'
+[2018.10.03-09.55.41:138][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Slug_Animation.Slug_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Slug Animation State.AnimStateNode_3.Death.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/Slug_Animation.PackageMetaData'
+[2018.10.03-09.55.41:138][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Slug_Animation.Slug_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Slug Animation State.AnimStateTransitionNode_19.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Slug_Animation.PackageMetaData'
+[2018.10.03-09.55.41:138][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Slug_Animation.Slug_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Slug Animation State.AnimStateTransitionNode_20.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Slug_Animation.PackageMetaData'
+[2018.10.03-09.55.41:138][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Slug_Animation.Slug_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Slug Animation State.AnimStateTransitionNode_21.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Slug_Animation.PackageMetaData'
+[2018.10.03-09.55.41:138][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Slug_Animation.SKEL_Slug_Animation_C:IsDead' ref from Metadata '/Game/Models/Slug_Animation.PackageMetaData'
+[2018.10.03-09.55.41:138][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Slug_Animation.SKEL_Slug_Animation_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Models/Slug_Animation.PackageMetaData'
+[2018.10.03-09.55.41:138][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Slug_Animation.SKEL_Slug_Animation_C:IsAttacking' ref from Metadata '/Game/Models/Slug_Animation.PackageMetaData'
+[2018.10.03-09.55.41:138][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Slug_Animation.Slug_Animation_C:IsDead' ref from Metadata '/Game/Models/Slug_Animation.PackageMetaData'
+[2018.10.03-09.55.41:138][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Slug_Animation.Slug_Animation_C:IsAttacking' ref from Metadata '/Game/Models/Slug_Animation.PackageMetaData'
+[2018.10.03-09.55.41:151][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Snake_animation.Snake_animation:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Models/Snake_animation.PackageMetaData'
+[2018.10.03-09.55.41:151][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Snake_animation.SKEL_Snake_animation_C' ref from Metadata '/Game/Models/Snake_animation.PackageMetaData'
+[2018.10.03-09.55.41:151][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Snake_animation.Snake_animation_C' ref from Metadata '/Game/Models/Snake_animation.PackageMetaData'
+[2018.10.03-09.55.41:151][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Snake_animation.Snake_animation:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Models/Snake_animation.PackageMetaData'
+[2018.10.03-09.55.41:151][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Snake_animation.Snake_animation:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/Models/Snake_animation.PackageMetaData'
+[2018.10.03-09.55.41:151][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Snake_animation.Snake_animation:AnimGraph.AnimGraphNode_StateMachine_0.Snake Animation State.AnimStateEntryNode_0' ref from Metadata '/Game/Models/Snake_animation.PackageMetaData'
+[2018.10.03-09.55.41:151][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Snake_animation.Snake_animation:AnimGraph.AnimGraphNode_StateMachine_0.Snake Animation State.AnimStateNode_0.Spawn.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/Snake_animation.PackageMetaData'
+[2018.10.03-09.55.41:151][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Snake_animation.SKEL_Snake_animation_C:Damaged' ref from Metadata '/Game/Models/Snake_animation.PackageMetaData'
+[2018.10.03-09.55.41:151][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Snake_animation.Snake_animation:AnimGraph.AnimGraphNode_StateMachine_0.Snake Animation State.AnimStateTransitionNode_23.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Snake_animation.PackageMetaData'
+[2018.10.03-09.55.41:151][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Snake_animation.Snake_animation:AnimGraph.AnimGraphNode_StateMachine_0.Snake Animation State.AnimStateNode_3.Idle.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/Snake_animation.PackageMetaData'
+[2018.10.03-09.55.41:151][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Snake_animation.Snake_animation:AnimGraph.AnimGraphNode_StateMachine_0.Snake Animation State.AnimStateNode_1.TakeDamage.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/Snake_animation.PackageMetaData'
+[2018.10.03-09.55.41:151][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Snake_animation.Snake_animation:AnimGraph.AnimGraphNode_StateMachine_0.Snake Animation State.AnimStateNode_2.Dead.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/Snake_animation.PackageMetaData'
+[2018.10.03-09.55.41:151][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Snake_animation.Snake_animation:AnimGraph.AnimGraphNode_StateMachine_0.Snake Animation State.AnimStateTransitionNode_24.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Snake_animation.PackageMetaData'
+[2018.10.03-09.55.41:151][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Snake_animation.Snake_animation:AnimGraph.AnimGraphNode_StateMachine_0.Snake Animation State.AnimStateTransitionNode_25.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Snake_animation.PackageMetaData'
+[2018.10.03-09.55.41:151][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Snake_animation.Snake_animation:AnimGraph.AnimGraphNode_StateMachine_0.Snake Animation State.AnimStateTransitionNode_26.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Snake_animation.PackageMetaData'
+[2018.10.03-09.55.41:151][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Snake_animation.Snake_animation:AnimGraph.AnimGraphNode_StateMachine_0.Snake Animation State.AnimStateTransitionNode_27.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Snake_animation.PackageMetaData'
+[2018.10.03-09.55.41:151][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Snake_animation.Snake_animation:AnimGraph.AnimGraphNode_StateMachine_0.Snake Animation State.AnimStateTransitionNode_28.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Snake_animation.PackageMetaData'
+[2018.10.03-09.55.41:151][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Snake_animation.SKEL_Snake_animation_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Models/Snake_animation.PackageMetaData'
+[2018.10.03-09.55.41:151][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Snake_animation.SKEL_Snake_animation_C:IsDead' ref from Metadata '/Game/Models/Snake_animation.PackageMetaData'
+[2018.10.03-09.55.41:151][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Snake_animation.Snake_animation_C:Damaged' ref from Metadata '/Game/Models/Snake_animation.PackageMetaData'
+[2018.10.03-09.55.41:151][946]LogMetaData: Removing '/Game/Models/Animation_Blueprint/Snake_animation.Snake_animation_C:IsDead' ref from Metadata '/Game/Models/Snake_animation.PackageMetaData'
+[2018.10.03-09.55.41:246][946]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/FlexxingMudskipper_Animation7AFA974C44ABCD2381C313A6A5ADA2C6.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Animation_Blueprint/FlexxingMudskipper_Animation.uasset'
+[2018.10.03-09.55.41:304][946]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Mudskipper_animation444F87B140BC4809E13CD2A4BDC33BC2.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Animation_Blueprint/Mudskipper_animation.uasset'
+[2018.10.03-09.55.41:368][946]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Slug_Animation486A032842FA1FD55D5C1A920404D412.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Animation_Blueprint/Slug_Animation.uasset'
+[2018.10.03-09.55.41:436][946]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Snake_animation84B65B5E4AD3764385BF3E8EDF0A9F61.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Animation_Blueprint/Snake_animation.uasset'
+[2018.10.03-09.55.54:835][395]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexingMudskipper_Animation.FlexingMudskipper_Animation_C' ref from Metadata '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.54:835][395]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexingMudskipper_Animation.SKEL_FlexingMudskipper_Animation_C' ref from Metadata '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.54:835][395]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexingMudskipper_Animation.FlexingMudskipper_Animation:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.54:835][395]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexingMudskipper_Animation.FlexingMudskipper_Animation:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.54:835][395]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexingMudskipper_Animation.FlexingMudskipper_Animation:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.54:835][395]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexingMudskipper_Animation.FlexingMudskipper_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Flexing Mudskipper Animation States.AnimStateEntryNode_0' ref from Metadata '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.54:835][395]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexingMudskipper_Animation.FlexingMudskipper_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Flexing Mudskipper Animation States.AnimStateNode_0.Spawn.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.54:835][395]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexingMudskipper_Animation.FlexingMudskipper_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Flexing Mudskipper Animation States.AnimStateNode_1.Idle.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.54:835][395]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexingMudskipper_Animation.FlexingMudskipper_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Flexing Mudskipper Animation States.AnimStateTransitionNode_33.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.54:836][395]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexingMudskipper_Animation.FlexingMudskipper_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Flexing Mudskipper Animation States.AnimStateNode_2.Done.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.54:836][395]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexingMudskipper_Animation.FlexingMudskipper_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Flexing Mudskipper Animation States.AnimStateTransitionNode_34.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.54:836][395]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexingMudskipper_Animation.FlexingMudskipper_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Flexing Mudskipper Animation States.AnimStateNode_3.AttackEnemy.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.54:836][395]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexingMudskipper_Animation.FlexingMudskipper_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Flexing Mudskipper Animation States.AnimStateTransitionNode_35.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.54:836][395]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexingMudskipper_Animation.FlexingMudskipper_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Flexing Mudskipper Animation States.AnimStateTransitionNode_36.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.54:836][395]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexingMudskipper_Animation.FlexingMudskipper_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Flexing Mudskipper Animation States.AnimStateNode_4.AttackPlayer.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.54:836][395]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexingMudskipper_Animation.FlexingMudskipper_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Flexing Mudskipper Animation States.AnimStateTransitionNode_37.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.54:836][395]LogMetaData: Removing '/Game/Models/Animation_Blueprint/FlexingMudskipper_Animation.FlexingMudskipper_Animation:AnimGraph.AnimGraphNode_StateMachine_0.Flexing Mudskipper Animation States.AnimStateTransitionNode_39.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Models/Animation_Blueprint/FlexxingMudskipper_Animation.PackageMetaData'
+[2018.10.03-09.55.54:940][395]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/FlexingMudskipper_Animation448EFD064D40CF62A885748A3193E468.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/Models/Animation_Blueprint/FlexingMudskipper_Animation.uasset'
+[2018.10.03-09.55.58:422][670]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/MotionControllerMap5B30869C4864F4D5B581FDB99CB02B7F.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.10.03-09.55.58:525][670]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/MotionControllerMap_BuiltData31F1D1B741B76D3C2AF5D083042975B4.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
