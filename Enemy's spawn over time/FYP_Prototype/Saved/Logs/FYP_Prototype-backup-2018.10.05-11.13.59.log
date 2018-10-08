@@ -1,0 +1,1255 @@
+﻿Log file open, 10/05/18 10:18:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FYP_Prototype
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.417888
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.118s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-1650 v3 @ 3.50GHz, GPU: NVIDIA Quadro K2200
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.05-02.18.43:261][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.05-02.18.43:261][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.05-02.18.43:280][  0]LogHAL: Display: Platform has ~ 32 GB [34280431616 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.05-02.18.43:280][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.05-02.18.43:280][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.05-02.18.43:280][  0]LogInit: Computer: M623MGA02
+[2018.10.05-02.18.43:280][  0]LogInit: User: gotos
+[2018.10.05-02.18.43:281][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.10.05-02.18.43:281][  0]LogInit: High frequency timer resolution =3.410071 MHz
+[2018.10.05-02.18.43:281][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.10.05-02.18.43:281][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.05-02.18.43:281][  0]LogMemory: Process Physical Memory: 102.07 MB used, 102.07 MB peak
+[2018.10.05-02.18.43:281][  0]LogMemory: Process Virtual Memory: 86.25 MB used, 86.25 MB peak
+[2018.10.05-02.18.43:281][  0]LogMemory: Physical Memory: 22228.32 MB used,  10464.05 MB free, 32692.37 MB total
+[2018.10.05-02.18.43:281][  0]LogMemory: Virtual Memory: 4653.16 MB used,  10464.05 MB free, 134217728.00 MB total
+[2018.10.05-02.18.43:329][  0]LogInit: Using OS detected language (en-US).
+[2018.10.05-02.18.43:329][  0]LogInit: Using OS detected locale (en-SG).
+[2018.10.05-02.18.43:330][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.05-02.18.43:706][  0]LogStreaming: Display: Took  0.378s to InitEngineTextLocalization.
+[2018.10.05-02.18.43:706][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.05-02.18.43:737][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.05-02.18.43:737][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.05-02.18.43:952][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.05-02.18.43:952][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.05-02.18.44:001][  0]LogD3D11RHI:    0. 'NVIDIA Quadro K2200' (Feature Level 11_0)
+[2018.10.05-02.18.44:001][  0]LogD3D11RHI:       4053/0/16346 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.05-02.18.44:003][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.05-02.18.44:004][  0]LogD3D11RHI:       0/0/16346 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.05-02.18.44:004][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.05-02.18.44:140][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.05-02.18.44:140][  0]LogD3D11RHI:     GPU DeviceId: 0x13ba (for the marketing name, search the web for "GPU Device Id")
+[2018.10.05-02.18.44:140][  0]LogWindows: EnumDisplayDevices:
+[2018.10.05-02.18.44:141][  0]LogWindows:    0. 'NVIDIA Quadro K2200' (P:1 D:1)
+[2018.10.05-02.18.44:141][  0]LogWindows:    1. 'NVIDIA Quadro K2200' (P:0 D:0)
+[2018.10.05-02.18.44:141][  0]LogWindows:    2. 'NVIDIA Quadro K2200' (P:0 D:0)
+[2018.10.05-02.18.44:141][  0]LogWindows:    3. 'NVIDIA Quadro K2200' (P:0 D:0)
+[2018.10.05-02.18.44:141][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.10.05-02.18.44:141][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro K2200
+[2018.10.05-02.18.44:141][  0]LogD3D11RHI:   Driver Version: 391.25 (internal:23.21.13.9125, unified:391.25)
+[2018.10.05-02.18.44:141][  0]LogD3D11RHI:      Driver Date: 3-16-2018
+[2018.10.05-02.18.44:141][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2018.10.05-02.18.44:194][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.05-02.18.44:211][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.05-02.18.44:254][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Intermediate/Shaders/WorkingDirectory/2001508/).
+[2018.10.05-02.18.44:254][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/GOTOS/AppData/Local/Temp/UnrealShaderWorkingDir/04BC5F8846F4936BE7CC6C8FE819064D/'.
+[2018.10.05-02.18.44:701][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.05-02.18.44:714][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.05-02.18.44:730][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.05-02.18.44:743][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.05-02.18.44:757][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.05-02.18.44:775][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.05-02.18.44:789][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.05-02.18.44:803][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.05-02.18.44:810][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.05-02.18.44:886][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-02.18.44:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-02.18.44:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-02.18.44:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-02.18.44:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-02.18.44:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-02.18.44:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-02.18.44:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-02.18.44:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-02.18.44:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-02.18.44:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-02.18.44:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-02.18.44:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-02.18.44:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-02.18.44:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-02.18.44:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-02.18.44:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-02.18.44:887][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.05-02.18.44:888][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.05-02.18.44:950][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.05-02.18.44:950][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.05-02.18.44:972][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.05-02.18.44:972][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.05-02.18.44:984][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.05-02.18.44:997][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.05-02.18.45:009][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.05-02.18.45:026][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.05-02.18.45:035][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.05-02.18.45:035][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.05-02.18.45:096][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.05-02.18.45:096][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.05-02.18.45:096][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.05-02.18.45:857][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.05-02.18.45:915][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/GOTOS/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.05-02.18.45:916][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/GOTOS/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.05-02.18.45:916][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/GOTOS/Desktop/FYP_Prototype/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.05-02.18.45:916][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.05-02.18.45:916][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/GOTOS/Desktop/FYP_Prototype/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.05-02.18.45:916][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.05-02.18.45:928][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.05-02.18.45:941][  0]LogDerivedDataCache: Using Local data cache path C:/Users/GOTOS/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.05-02.18.45:941][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.05-02.18.45:941][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.05-02.18.45:989][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.05-02.18.45:990][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.05-02.18.45:991][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.05-02.18.46:067][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2018.10.05-02.18.46:404][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.05-02.18.46:569][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.05-02.18.46:573][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.05-02.18.46:573][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.05-02.18.46:573][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.05-02.18.46:573][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.05-02.18.46:592][  0]LogNetVersion: FYP_Prototype 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1129731653)
+[2018.10.05-02.18.47:113][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.100064 seconds
+[2018.10.05-02.18.47:120][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.05-02.18.47:120][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.10.05-02.18.47:120][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.05-02.18.48:028][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.05-02.18.48:042][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.05-02.18.48:188][  0]SourceControl: Source control is disabled
+[2018.10.05-02.18.48:188][  0]SourceControl: Source control is disabled
+[2018.10.05-02.18.48:190][  0]SourceControl: Source control is disabled
+[2018.10.05-02.18.48:191][  0]SourceControl: Source control is disabled
+[2018.10.05-02.18.48:373][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.05-02.18.48:423][  0]LogOcInput: OculusInput pre-init called
+[2018.10.05-02.18.48:487][  0]LogEngine: Initializing Engine...
+[2018.10.05-02.18.48:487][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.05-02.18.48:489][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.05-02.18.48:489][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.05-02.18.48:489][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.05-02.18.48:489][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.05-02.18.48:747][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.05-02.18.48:765][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.05-02.18.48:771][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-02.18.48:918][  0]LogInit: FAudioDevice initialized.
+[2018.10.05-02.18.48:918][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.05-02.18.48:995][  0]LogDerivedDataCache: Saved boot cache 0.08s 86MB C:/Users/GOTOS/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.05-02.18.49:006][  0]LogInit: Texture streaming: Enabled
+[2018.10.05-02.18.49:026][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.05-02.18.49:185][  0]LogInit: Transaction tracking system initialized
+[2018.10.05-02.18.49:205][  0]BlueprintLog: New page: Editor Load
+[2018.10.05-02.18.49:278][  0]LocalizationService: Localization service is disabled
+[2018.10.05-02.18.49:345][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/TopDownOverview'
+[2018.10.05-02.18.49:345][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/TopDownOverview'
+[2018.10.05-02.18.49:345][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownBP/TopDownOverview.TopDownOverview_C'
+[2018.10.05-02.18.49:540][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.05-02.18.49:540][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.05-02.18.49:540][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.05-02.18.49:540][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.05-02.18.49:540][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.05-02.18.49:540][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.05-02.18.49:540][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.05-02.18.49:666][  0]LogFileCache: Scanning file cache for directory 'C:/Users/GOTOS/Desktop/FYP_Prototype/Content/' took 0.02s
+[2018.10.05-02.18.49:666][  0]SourceControl: Source control is disabled
+[2018.10.05-02.18.49:761][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.05-02.18.49:762][  0]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.05-02.18.55:394][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2018.10.05-02.18.55:394][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.05-02.18.55:396][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.05-02.18.56:997][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2018.10.05-02.18.56:997][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.05-02.18.56:999][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.05-02.18.57:005][  0]Cmd: MAP LOAD FILE="../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.05-02.18.57:005][  0]LightingResults: New page: Lighting Build
+[2018.10.05-02.18.57:008][  0]MapCheck: New page: Map Check
+[2018.10.05-02.18.57:008][  0]LightingResults: New page: Lighting Build
+[2018.10.05-02.18.57:143][  0]LogAIModule: Creating AISystem for world StartupMap
+[2018.10.05-02.18.57:150][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.05-02.18.57:175][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.05-02.18.57:253][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 78.078ms to complete.
+[2018.10.05-02.18.57:253][  0]LogFileHelpers: Loading map 'StartupMap' took 0.249
+[2018.10.05-02.18.57:286][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-02.18.57:293][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-02.18.57:301][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-02.18.57:308][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-02.18.57:314][  0]LogCollectionManager: Loaded 0 collections in 0.001377 seconds
+[2018.10.05-02.18.57:343][  0]LogFileCache: Scanning file cache for directory 'C:/Users/GOTOS/Desktop/FYP_Prototype/Saved/Collections/' took 0.01s
+[2018.10.05-02.18.57:343][  0]LogFileCache: Scanning file cache for directory 'C:/Users/GOTOS/Desktop/FYP_Prototype/Content/Developers/gotos/Collections/' took 0.01s
+[2018.10.05-02.18.57:343][  0]LogFileCache: Scanning file cache for directory 'C:/Users/GOTOS/Desktop/FYP_Prototype/Content/Collections/' took 0.00s
+[2018.10.05-02.18.57:343][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.05-02.18.57:353][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2572 classes and 603 folders.
+[2018.10.05-02.18.57:359][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.10.05-02.18.57:410][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.05-02.18.57:416][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.10.05-02.18.57:480][  0]LogSlate: Took 0.000194 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.05-02.18.57:483][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.05-02.18.57:539][  0]LogRenderer: Reallocating scene render targets to support 1156x596 Format 26 NumSamples 1 (Frame:1).
+[2018.10.05-02.18.57:709][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.10.05-02.18.57:709][  0]LogLoad: (Engine Initialization) Total time: 16.38 seconds
+[2018.10.05-02.18.57:709][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.05-02.18.57:767][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.05-02.18.58:010][  2]LogAssetRegistry: Asset discovery search completed in 11.9658 seconds
+[2018.10.05-02.18.58:012][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.05-02.18.58:012][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2018.10.05-02.18.58:743][ 84]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.05-02.19.01:797][449]LogSlate: Took 0.000195 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.05-02.19.02:812][570]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/GOTOS/Desktop/FYP_Prototype/Content/' took 5.08s
+[2018.10.05-02.19.04:556][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.19.04:758][803]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Animations/Bat/BatCrawling.BatCrawling
+[2018.10.05-02.19.04:759][803]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Animations/Bat/BatCrawling.BatCrawling) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.05-02.19.04:768][803]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Models/Animations/Bat/BatCrawling.BatCrawling
+[2018.10.05-02.19.05:981][803]LogTexture: Display: Building textures: Emissive (AutoDXT, 2048X2048)
+[2018.10.05-02.19.05:981][803]LogTexture: Display: Building textures: BatTexture (AutoDXT, 2048X2048)
+[2018.10.05-02.19.05:981][803]LogTexture: Display: Building textures: BatRoughness (AutoDXT, 2048X2048)
+[2018.10.05-02.19.05:981][803]LogTexture: Display: Building textures: BatNormal (BC5, 2048X2048)
+[2018.10.05-02.19.06:286][803]LogSkeletalMesh: Building Skeletal Mesh Bat...
+[2018.10.05-02.19.06:301][803]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Models/Bat.Bat
+[2018.10.05-02.19.06:304][803]LogMaterial: Display: Missing cached shader map for material Bat, compiling. 
+[2018.10.05-02.19.06:373][803]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.05-02.19.06:373][803]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.05-02.19.06:373][803]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.05-02.19.06:373][803]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.05-02.19.06:373][803]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.05-02.19.06:373][803]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.05-02.19.06:373][803]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.10.05-02.19.06:646][803]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.19.06:651][803]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.10.05-02.19.07:163][803]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.10.05-02.19.07:182][803]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.05-02.19.11:255][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.19.12:036][201]LogSlate: Window 'BatCrawling' being destroyed
+[2018.10.05-02.19.14:629][502]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Animations/Bat/BatPickingUpBoat.BatPickingUpBoat
+[2018.10.05-02.19.14:629][502]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Animations/Bat/BatPickingUpBoat.BatPickingUpBoat) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.05-02.19.14:642][502]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Models/Animations/Bat/BatPickingUpBoat.BatPickingUpBoat
+[2018.10.05-02.19.24:128][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.19.27:598][ 48]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Animations/Bat/BatCrawlingAttack.BatCrawlingAttack
+[2018.10.05-02.19.27:598][ 48]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Animations/Bat/BatCrawlingAttack.BatCrawlingAttack) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.05-02.19.29:807][310]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Animations/Bat/BatCrawlingDeath.BatCrawlingDeath
+[2018.10.05-02.19.29:807][310]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Animations/Bat/BatCrawlingDeath.BatCrawlingDeath) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.05-02.19.31:840][551]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Animations/Bat/BatFirstEncounter.BatFirstEncounter
+[2018.10.05-02.19.31:840][551]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Animations/Bat/BatFirstEncounter.BatFirstEncounter) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.05-02.19.39:474][464]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Animations/Bat/BatFlying.BatFlying
+[2018.10.05-02.19.39:474][464]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Animations/Bat/BatFlying.BatFlying) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.05-02.19.49:979][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.19.51:830][942]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Animations/Bat/BatFlyingDeath.BatFlyingDeath
+[2018.10.05-02.19.51:830][942]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Animations/Bat/BatFlyingDeath.BatFlyingDeath) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.05-02.20.16:958][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.20.28:055][173]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Animations/Mudskipper/MudskipperAttack.MudskipperAttack
+[2018.10.05-02.20.28:055][173]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Animations/Mudskipper/MudskipperAttack.MudskipperAttack) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.05-02.20.28:065][173]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/Models/Animations/Mudskipper/MudskipperAttack.MudskipperAttack
+[2018.10.05-02.20.30:706][173]LogTexture: Display: Building textures: mudskipperRoughness (AutoDXT, 2048X2048)
+[2018.10.05-02.20.30:706][173]LogTexture: Display: Building textures: Emissive (AutoDXT, 2048X2048)
+[2018.10.05-02.20.30:706][173]LogTexture: Display: Building textures: MudksipperNormal (BC5, 2048X2048)
+[2018.10.05-02.20.30:706][173]LogTexture: Display: Building textures: Mudskipperheight (AutoDXT, 2048X2048)
+[2018.10.05-02.20.30:706][173]LogTexture: Display: Building textures: mudskipper_texture (AutoDXT, 2048X2048)
+[2018.10.05-02.20.30:706][173]LogMaterial: Display: Missing cached shader map for material Mudskipper, compiling. 
+[2018.10.05-02.20.30:732][173]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.05-02.20.30:732][173]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.05-02.20.30:732][173]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.05-02.20.30:732][173]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.05-02.20.30:732][173]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.05-02.20.30:732][173]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.05-02.20.30:733][173]LogSkeletalMesh: Building Skeletal Mesh Mudskipper_polySurface4...
+[2018.10.05-02.20.30:736][173]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Models/Mudskipper.Mudskipper_polySurface4
+[2018.10.05-02.20.30:746][173]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.20.31:085][173]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.10.05-02.20.33:830][488]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Animations/Mudskipper/MudskipperFlexRepeat.MudskipperFlexRepeat
+[2018.10.05-02.20.33:830][488]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Animations/Mudskipper/MudskipperFlexRepeat.MudskipperFlexRepeat) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.05-02.20.44:606][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.20.44:808][796]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Animations/Mudskipper/MudskipperStartFlexing.MudskipperStartFlexing
+[2018.10.05-02.20.44:808][796]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Animations/Mudskipper/MudskipperStartFlexing.MudskipperStartFlexing) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.05-02.20.53:038][780]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Animations/Mudskipper/MudskipperPunchenemy.MudskipperPunchenemy
+[2018.10.05-02.20.53:038][780]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Animations/Mudskipper/MudskipperPunchenemy.MudskipperPunchenemy) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.05-02.21.02:801][946]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.21.03:194][993]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Animations/Mudskipper/MudskipperPunchPlayer.MudskipperPunchPlayer
+[2018.10.05-02.21.03:194][993]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Animations/Mudskipper/MudskipperPunchPlayer.MudskipperPunchPlayer) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.05-02.21.12:387][ 88]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Animations/Mudskipper/MudskipperDeath.MudskipperDeath
+[2018.10.05-02.21.12:387][ 88]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Animations/Mudskipper/MudskipperDeath.MudskipperDeath) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.05-02.21.20:457][ 53]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Animations/Mudskipper/MudskipperDoneFlexing.MudskipperDoneFlexing
+[2018.10.05-02.21.20:457][ 53]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Animations/Mudskipper/MudskipperDoneFlexing.MudskipperDoneFlexing) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.05-02.22.12:021][194]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP/EarthQuake.EarthQuake
+[2018.10.05-02.22.12:570][194]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.10.05-02.22.34:420][720]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP/EarthQuake.EarthQuake
+[2018.10.05-02.22.45:150][974]LogSlate: Window 'My Blueprint' being destroyed
+[2018.10.05-02.22.45:153][974]LogSlate: Window 'My Blueprint' being destroyed
+[2018.10.05-02.23.18:138][815]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Models/Animation_Blueprint/FlexingMudskipper_Animation.FlexingMudskipper_Animation
+[2018.10.05-02.23.18:154][815]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.23.18:654][815]LogSlate: Took 0.001240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.05-02.23.34:181][653]LogSlate: Took 0.001177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.05-02.23.46:144][ 84]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/Models/Mudskipper_Physics.Mudskipper_Physics
+[2018.10.05-02.23.46:159][ 84]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2018.10.05-02.23.46:172][ 84]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.23.46:482][ 84]LogRenderer: Reallocating scene render targets to support 1156x888 Format 26 NumSamples 1 (Frame:1).
+[2018.10.05-02.23.49:973][444]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Models/Mudskipper.Mudskipper_polySurface4
+[2018.10.05-02.23.49:980][444]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.23.50:757][491]LogAssetEditorManager: Opening Asset editor for Skeleton /Game/Models/Mudskipper_polySurface4_Skeleton.Mudskipper_polySurface4_Skeleton
+[2018.10.05-02.23.50:762][491]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.25.54:175][124]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Animations/Slug/SlugIdle.SlugIdle
+[2018.10.05-02.25.54:175][124]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Animations/Slug/SlugIdle.SlugIdle) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.05-02.25.54:175][124]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Animations/Slug/SlugAttack.SlugAttack
+[2018.10.05-02.25.54:175][124]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Animations/Slug/SlugAttack.SlugAttack) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.05-02.25.54:176][124]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Models/Animations/Slug/SlugDeath.SlugDeath
+[2018.10.05-02.25.54:176][124]LogAnimationCompression: Recompressing (AnimSequence /Game/Models/Animations/Slug/SlugDeath.SlugDeath) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.10.05-02.25.54:189][124]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Models/Animation_Blueprint/Slug_Animation.Slug_Animation
+[2018.10.05-02.25.55:048][124]LogTexture: Display: Building textures: SlugNormal (BC5, 300X300)
+[2018.10.05-02.25.55:048][124]LogTexture: Display: Building textures: SlugRoughness (AutoDXT, 2048X2048)
+[2018.10.05-02.25.55:048][124]LogTexture: Display: Building textures: SlugTexture (AutoDXT, 2048X2048)
+[2018.10.05-02.25.55:048][124]LogTexture: Display: Building textures: Height (AutoDXT, 2048X2048)
+[2018.10.05-02.25.55:048][124]LogTexture: Display: Building textures: SlugMetallic (AutoDXT, 2048X2048)
+[2018.10.05-02.25.55:048][124]LogTexture: Display: Building textures: Emissive (AutoDXT, 2048X2048)
+[2018.10.05-02.25.56:210][124]LogMaterial: Display: Missing cached shader map for material Slug, compiling. 
+[2018.10.05-02.25.56:261][124]LogSkeletalMesh: Building Skeletal Mesh Slug_polySurface2...
+[2018.10.05-02.25.56:274][124]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.05-02.25.56:274][124]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.05-02.25.56:274][124]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.05-02.25.56:274][124]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.05-02.25.56:274][124]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.05-02.25.56:274][124]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.05-02.25.56:274][124]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Models/Slug.Slug_polySurface2
+[2018.10.05-02.25.56:285][124]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.26.45:792][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.30.05:129][537]BlueprintLog: New page: Compile Slug_Animation
+[2018.10.05-02.30.49:879][835]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2018.10.05-02.30.49:911][835]Cmd: MAP LOAD FILE="../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.05-02.30.49:911][835]LightingResults: New page: Lighting Build
+[2018.10.05-02.30.49:912][835]LoadErrors: New page: Loading map: StartupMap.umap
+[2018.10.05-02.30.49:913][835]MapCheck: New page: Map Check
+[2018.10.05-02.30.49:913][835]LightingResults: New page: Lighting Build
+[2018.10.05-02.30.49:967][835]LogAIModule: Creating AISystem for world StartupMap
+[2018.10.05-02.30.50:036][835]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.05-02.30.50:087][835]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.05-02.30.50:205][835]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 117.554ms to complete.
+[2018.10.05-02.30.50:206][835]LogFileHelpers: Loading map 'StartupMap' took 0.296
+[2018.10.05-02.30.53:018][ 77]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.10.05-02.30.53:051][ 77]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2018.10.05-02.30.53:093][ 77]Cmd: MAP LOAD FILE="../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.05-02.30.53:093][ 77]LightingResults: New page: Lighting Build
+[2018.10.05-02.30.53:094][ 77]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2018.10.05-02.30.53:094][ 77]MapCheck: New page: Map Check
+[2018.10.05-02.30.53:094][ 77]LightingResults: New page: Lighting Build
+[2018.10.05-02.30.53:224][ 77]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.05-02.30.53:276][ 77]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.05-02.30.53:397][ 77]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 120.98ms to complete.
+[2018.10.05-02.30.53:397][ 77]LogFileHelpers: Loading map 'MotionControllerMap' took 0.305
+[2018.10.05-02.31.00:300][887]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.05-02.31.02:930][201]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.10.05-02.31.02:930][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-02.31.02:944][201]PIE: New page: PIE session: MotionControllerMap (5 Oct 2018 6:31:02 pm)
+[2018.10.05-02.31.02:944][201]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.10.05-02.31.02:966][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021898s)
+[2018.10.05-02.31.02:966][201]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.10.05-02.31.02:967][201]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2018.10.05-02.31.02:967][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.022993s)
+[2018.10.05-02.31.02:999][201]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-02.31.03:020][201]LogInit: FAudioDevice initialized.
+[2018.10.05-02.31.03:023][201]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.05-02.31.03:026][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-02.31.03:076][201]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.10.05-02.31.03:076][201]LogLoad: Game class is 'GameModeBase'
+[2018.10.05-02.31.03:079][201]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.10.05-10.31.03
+[2018.10.05-02.31.03:080][201]LogWorld: Bringing up level for play took: 0.003882
+[2018.10.05-02.31.03:098][201]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.10.05-02.31.03:105][201]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.349
+[2018.10.05-02.31.03:105][201]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.10.05-02.31.03:126][201]LogRenderer: Reallocating scene render targets to support 1292x888 Format 26 NumSamples 1 (Frame:1).
+[2018.10.05-02.31.09:027][899]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.10.05-02.31.09:028][899]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-02.31.09:041][899]LogSlate: Window 'FYP_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.05-02.31.09:075][899]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-02.31.09:076][899]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.10.05-02.31.09:133][900]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.10.05-02.31.21:868][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.31.35:548][ 49]LogEditorViewport: Clicking on Actor (CTRL LMB): NavModifierVolume (NavModifierVolume8)
+[2018.10.05-02.31.45:531][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.32.02:585][202]Cmd: TRANSACTION UNDO
+[2018.10.05-02.32.02:585][202]LogEditorTransaction: Undo Scale Actors
+[2018.10.05-02.32.03:197][202]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.03:200][202]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.03:203][202]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.03:204][202]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.03:205][202]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.03:207][202]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.03:379][217]Cmd: TRANSACTION UNDO
+[2018.10.05-02.32.03:379][217]LogEditorTransaction: Undo Scale Actors
+[2018.10.05-02.32.03:396][217]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.NavModifierVolume8.BrushComponent0) Component already registered.
+[2018.10.05-02.32.04:024][217]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.04:025][217]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.04:027][217]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.04:028][217]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.04:028][217]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.04:030][217]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.13:508][330]Cmd: TRANSACTION UNDO
+[2018.10.05-02.32.13:508][330]LogEditorTransaction: Undo Scale Actors
+[2018.10.05-02.32.13:515][330]LogActorComponent: ~FComponentReregisterContext: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.NavModifierVolume8.BrushComponent0) Component already registered.
+[2018.10.05-02.32.14:194][330]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.14:196][330]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.14:198][330]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.14:199][330]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.14:200][330]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.14:202][330]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.14:208][330]Cmd: TRANSACTION UNDO
+[2018.10.05-02.32.14:208][330]LogEditorTransaction: Undo Clicking on Actors
+[2018.10.05-02.32.14:812][330]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.14:814][330]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.14:816][330]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.14:816][330]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.14:817][330]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.14:819][330]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.14:821][330]Cmd: TRANSACTION UNDO
+[2018.10.05-02.32.14:821][330]LogEditorTransaction: Undo Select Brush Surface
+[2018.10.05-02.32.15:420][330]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.15:422][330]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.15:424][330]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.15:424][330]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.15:425][330]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.15:426][330]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.16:132][410]Cmd: TRANSACTION REDO
+[2018.10.05-02.32.16:132][410]LogEditorTransaction: Redo Select Brush Surface
+[2018.10.05-02.32.16:836][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.16:839][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.16:841][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.16:842][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.16:843][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.16:844][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.16:849][410]Cmd: TRANSACTION REDO
+[2018.10.05-02.32.16:849][410]LogEditorTransaction: Redo Clicking on Actors
+[2018.10.05-02.32.17:507][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.17:511][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.17:511][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.17:512][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.17:513][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.17:513][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.17:516][410]Cmd: TRANSACTION REDO
+[2018.10.05-02.32.17:516][410]LogEditorTransaction: Redo Scale Actors
+[2018.10.05-02.32.18:178][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.18:180][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.18:181][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.18:182][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.18:182][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.18:183][410]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.18:187][410]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush8)
+[2018.10.05-02.32.19:821][587]LogEditorViewport: Clicking on Actor (CTRL LMB): NavModifierVolume (NavModifierVolume8)
+[2018.10.05-02.32.31:396][940]Cmd: TRANSACTION UNDO
+[2018.10.05-02.32.31:396][940]LogEditorTransaction: Undo Scale Actors
+[2018.10.05-02.32.32:027][940]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.32:029][940]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.32:031][940]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.32:031][940]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.32:032][940]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.32:033][940]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.32.46:818][638]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.10.05-02.32.52:740][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.32.52:883][337]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.05-02.32.52:896][337]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.10.05-02.32.52:896][337]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-02.32.52:896][337]PIE: New page: PIE session: MotionControllerMap (5 Oct 2018 6:32:52 pm)
+[2018.10.05-02.32.52:896][337]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.10.05-02.32.52:918][337]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021710s)
+[2018.10.05-02.32.52:919][337]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.10.05-02.32.52:919][337]LogPlayLevel: PIE: World Init took: (0.000944s)
+[2018.10.05-02.32.52:919][337]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.022819s)
+[2018.10.05-02.32.52:952][337]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-02.32.52:971][337]LogInit: FAudioDevice initialized.
+[2018.10.05-02.32.52:977][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-02.32.53:013][337]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.10.05-02.32.53:013][337]LogLoad: Game class is 'GameModeBase'
+[2018.10.05-02.32.53:017][337]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.10.05-10.32.53
+[2018.10.05-02.32.53:017][337]LogWorld: Bringing up level for play took: 0.003255
+[2018.10.05-02.32.53:035][337]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.416
+[2018.10.05-02.32.53:036][337]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.10.05-02.33.06:975][978]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.10.05-02.33.06:975][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-02.33.06:989][978]LogSlate: Window 'FYP_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.05-02.33.07:028][978]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-02.33.07:029][978]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.10.05-02.33.07:092][979]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.10.05-02.33.11:377][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.33.14:481][840]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP/Pipe_BP.Pipe_BP
+[2018.10.05-02.33.21:480][591]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.33.26:630][202]LogEditorTransaction: Undo Modify Component(s)
+[2018.10.05-02.33.27:267][202]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.33.27:270][202]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.33.27:271][202]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.33.27:272][202]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.33.27:273][202]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.33.27:274][202]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.33.27:390][210]LogEditorTransaction: Undo Clicking on Actors
+[2018.10.05-02.33.28:109][210]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.33.28:112][210]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.33.28:114][210]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.33.28:114][210]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.33.28:115][210]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.33.28:117][210]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.33.29:734][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.33.37:695][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.33.42:690][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.33.42:865][931]BlueprintLog: New page: Compile Pipe_BP
+[2018.10.05-02.33.44:535][ 95]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.10.05-02.33.44:552][ 95]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.10.05-02.33.44:552][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.05-02.33.44:552][ 95]PIE: New page: PIE session: MotionControllerMap (5 Oct 2018 6:33:44 pm)
+[2018.10.05-02.33.44:552][ 95]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.10.05-02.33.44:570][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018418s)
+[2018.10.05-02.33.44:571][ 95]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.10.05-02.33.44:571][ 95]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2018.10.05-02.33.44:571][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.019235s)
+[2018.10.05-02.33.44:617][ 95]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.05-02.33.44:635][ 95]LogInit: FAudioDevice initialized.
+[2018.10.05-02.33.44:641][ 95]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-02.33.44:671][ 95]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.10.05-02.33.44:671][ 95]LogLoad: Game class is 'GameModeBase'
+[2018.10.05-02.33.44:674][ 95]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.10.05-10.33.44
+[2018.10.05-02.33.44:674][ 95]LogWorld: Bringing up level for play took: 0.002746
+[2018.10.05-02.33.44:686][ 95]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.10.05-02.33.44:691][ 95]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.759
+[2018.10.05-02.33.44:698][ 95]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.10.05-02.33.51:246][837]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue
+	MotionControllerMap_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap_C_1
+	Function /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C:ExecuteUbergraph_MotionControllerMap:039C
+[2018.10.05-02.33.51:246][837]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue". Blueprint:  MotionControllerMap Function:  Execute Ubergraph Motion Controller Map Graph:  EventGraph Node:  Play World Camera Shake
+[2018.10.05-02.33.59:926][858]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.05-02.34.05:613][525]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.10.05-02.34.05:613][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.05-02.34.05:627][525]LogSlate: Window 'FYP_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.10.05-02.34.05:665][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.05-02.34.05:666][525]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.10.05-02.34.05:766][526]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.10.05-02.34.29:266][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.36.27:832][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Enemy_BT" FILE="../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Content/Enemy/Enemy_BT.uasset" SILENT=true
+[2018.10.05-02.36.27:836][187]LogSavePackage: Moving '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Saved/Enemy_BT9417787D425C8E356F239AA68D22D4E6.tmp' to '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Content/Enemy/Enemy_BT.uasset'
+[2018.10.05-02.36.51:478][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/Enemy_BB" FILE="../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Content/Enemy/Enemy_BB.uasset" SILENT=true
+[2018.10.05-02.36.51:482][950]LogSavePackage: Moving '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Saved/Enemy_BB33E4627943E8037AB5E415BA7AF97B5F.tmp' to '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Content/Enemy/Enemy_BB.uasset'
+[2018.10.05-02.38.00:424][856]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.05-02.41.33:453][169]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.05-02.41.33:937][169]LogSavePackage: Moving '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Saved/MotionControllerMap_Auto179FB144E4003E1CD69B376A0771CB8AB.tmp' to '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap'
+[2018.10.05-02.41.33:943][169]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.474
+[2018.10.05-02.41.33:943][169]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.474
+[2018.10.05-02.41.33:947][169]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/Pipe_BP] ([1] browsable assets)...
+[2018.10.05-02.41.33:959][169]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/Pipe_BP.Pipe_BP]
+[2018.10.05-02.41.33:959][169]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/Pipe_BP]
+[2018.10.05-02.41.33:959][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Pipe_BP" FILE="../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Saved/Autosaves/Game/BP/Pipe_BP_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.05-02.41.34:019][169]LogSavePackage: Moving '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Saved/Pipe_BP_Auto11D5EBC0A4B5566DE34DCDAB8F60A3B2F.tmp' to '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Saved/Autosaves/Game/BP/Pipe_BP_Auto1.uasset'
+[2018.10.05-02.41.34:022][169]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemy/AIController_BP] ([1] browsable assets)...
+[2018.10.05-02.41.34:022][169]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy/AIController_BP]
+[2018.10.05-02.41.34:022][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy/AIController_BP" FILE="../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Saved/Autosaves/Game/Enemy/AIController_BP_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.10.05-02.41.34:028][169]LogSavePackage: Moving '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Saved/AIController_BP_Auto1311A0FC54319F6F10D15099F18A9F99C.tmp' to '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Saved/Autosaves/Game/Enemy/AIController_BP_Auto1.uasset'
+[2018.10.05-02.41.34:029][169]LogFileHelpers: Auto-saving content packages took 0.083
+[2018.10.05-02.42.13:377][824]LogEditorViewport: Clicking on Actor (LMB): Pipe_BP_C (Pipe_BP)
+[2018.10.05-02.42.28:297][545]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.44.01:645][337]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.05-02.45.48:954][280]LogMetaData: Removing '/Game/EnemyAI/AIController_BP.AIController_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Enemy/AIController_BP.PackageMetaData'
+[2018.10.05-02.45.48:955][280]LogMetaData: Removing '/Game/EnemyAI/AIController_BP.SKEL_AIController_BP_C' ref from Metadata '/Game/Enemy/AIController_BP.PackageMetaData'
+[2018.10.05-02.45.48:955][280]LogMetaData: Removing '/Game/EnemyAI/AIController_BP.AIController_BP_C' ref from Metadata '/Game/Enemy/AIController_BP.PackageMetaData'
+[2018.10.05-02.45.48:955][280]LogMetaData: Removing '/Game/EnemyAI/AIController_BP.AIController_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Enemy/AIController_BP.PackageMetaData'
+[2018.10.05-02.45.48:955][280]LogMetaData: Removing '/Game/EnemyAI/AIController_BP.AIController_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Enemy/AIController_BP.PackageMetaData'
+[2018.10.05-02.45.49:006][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyAI/AIController_BP" FILE="../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Content/EnemyAI/AIController_BP.uasset" SILENT=true
+[2018.10.05-02.45.49:014][280]LogSavePackage: Moving '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Saved/AIController_BP83AF8DCE4FDED4D76969AABACEA11158.tmp' to '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Content/EnemyAI/AIController_BP.uasset'
+[2018.10.05-02.45.49:022][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyAI/Enemy_BB" FILE="../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Content/EnemyAI/Enemy_BB.uasset" SILENT=true
+[2018.10.05-02.45.49:025][280]LogSavePackage: Moving '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Saved/Enemy_BBA9ECD1524D536367BCFF5D9801BD4C99.tmp' to '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Content/EnemyAI/Enemy_BB.uasset'
+[2018.10.05-02.45.49:033][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyAI/Enemy_BT" FILE="../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Content/EnemyAI/Enemy_BT.uasset" SILENT=true
+[2018.10.05-02.45.49:036][280]LogSavePackage: Moving '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Saved/Enemy_BTD00722574422922D1377F18A345BF660.tmp' to '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Content/EnemyAI/Enemy_BT.uasset'
+[2018.10.05-02.46.54:596][565]LogTexture: Display: Building textures: Roughness (AutoDXT, 2048X2048)
+[2018.10.05-02.46.54:596][565]LogTexture: Display: Building textures: Emissive (AutoDXT, 2048X2048)
+[2018.10.05-02.46.54:596][565]LogTexture: Display: Building textures: SnakeNormal (BC5, 2048X2048)
+[2018.10.05-02.46.54:596][565]LogTexture: Display: Building textures: Texture (AutoDXT, 2048X2048)
+[2018.10.05-02.46.54:596][565]LogMaterial: Display: Missing cached shader map for material Snake, compiling. 
+[2018.10.05-02.46.55:820][565]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.05-02.46.55:820][565]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.05-02.46.55:820][565]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.05-02.46.55:820][565]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.05-02.46.55:820][565]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.05-02.46.55:820][565]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.05-02.46.55:820][565]LogTexture: Display: Building textures: Emissive (AutoDXT, 2048X2048)
+[2018.10.05-02.46.55:820][565]LogTexture: Display: Building textures: TopCacoonNormal (BC5, 2048X2048)
+[2018.10.05-02.46.55:820][565]LogTexture: Display: Building textures: CocoonTopTexture (AutoDXT, 2048X2048)
+[2018.10.05-02.46.55:820][565]LogTexture: Display: Building textures: Roughness (AutoDXT, 2048X2048)
+[2018.10.05-02.46.55:820][565]LogMaterial: Display: Missing cached shader map for material CacoonTop, compiling. 
+[2018.10.05-02.46.57:621][565]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.05-02.46.57:621][565]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.05-02.46.57:621][565]LogTexture: Display: Building textures: CocoonBottomRoughness (AutoDXT, 2048X2048)
+[2018.10.05-02.46.57:621][565]LogTexture: Display: Building textures: CocoonBottomTexture (AutoDXT, 2048X2048)
+[2018.10.05-02.46.57:621][565]LogTexture: Display: Building textures: BottomCacoonNormal (BC5, 2048X2048)
+[2018.10.05-02.46.57:621][565]LogTexture: Display: Building textures: Emissive (AutoDXT, 2048X2048)
+[2018.10.05-02.46.57:621][565]LogMaterial: Display: Missing cached shader map for material CacoonBottom, compiling. 
+[2018.10.05-02.46.59:810][707]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.10.05-02.47.00:647][750]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.10.05-02.47.00:964][766]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.10.05-02.47.01:163][777]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.10.05-02.47.02:160][829]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.10.05-02.47.02:726][859]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.10.05-02.47.03:225][885]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.05-02.47.03:417][895]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.05-02.47.04:079][930]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.05-02.47.04:413][951]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.05-02.47.49:349][406]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.10.05-02.47.57:878][367]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/EnemyAI/Enemy_BP.Enemy_BP
+[2018.10.05-02.48.06:539][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.48.23:568][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.48.27:729][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.48.32:797][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.49.08:315][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.49.50:805][668]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.50.10:432][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.50.36:624][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.50.54:918][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.51.15:063][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.51.32:376][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.52.12:636][105]LogEditorTransaction: Undo Set Scale
+[2018.10.05-02.52.13:413][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.13:416][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.13:418][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.13:419][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.13:420][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.13:421][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.13:432][105]LogEditorTransaction: Undo Set Scale
+[2018.10.05-02.52.14:064][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.14:066][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.14:068][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.14:069][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.14:069][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.14:071][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.14:077][105]LogEditorTransaction: Undo Set Scale
+[2018.10.05-02.52.14:862][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.14:865][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.14:866][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.14:867][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.14:868][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.14:869][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.14:875][105]LogEditorTransaction: Undo Set Scale
+[2018.10.05-02.52.15:498][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.15:501][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.15:503][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.15:504][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.15:504][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.15:506][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.15:513][105]LogEditorTransaction: Undo Set Scale
+[2018.10.05-02.52.16:143][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.16:146][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.16:147][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.16:148][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.16:149][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.16:150][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.16:156][105]LogEditorTransaction: Undo Modify Component(s)
+[2018.10.05-02.52.16:839][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.16:842][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.16:844][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.16:845][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.16:845][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.16:847][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.16:853][105]LogEditorTransaction: Undo Set Rotation
+[2018.10.05-02.52.17:668][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.17:671][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.17:673][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.17:674][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.17:674][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.17:676][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.17:684][105]LogEditorTransaction: Undo Set Rotation
+[2018.10.05-02.52.18:294][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.18:298][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.18:300][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.18:300][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.18:301][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.18:303][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.18:310][105]LogEditorTransaction: Undo Set Rotation
+[2018.10.05-02.52.18:990][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.18:996][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.18:999][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.19:000][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.19:001][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.19:004][105]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.52.19:031][105]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.05-02.52.37:088][109]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.52.43:210][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.52.58:324][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.53.04:376][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.53.25:430][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.54.17:187][706]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.54.21:987][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.54.34:514][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.54.41:421][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.54.41:541][545]BlueprintLog: New page: Compile Enemy_BP
+[2018.10.05-02.55.13:591][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.55.56:613][996]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.55.56:772][ 15]BlueprintLog: New page: Compile Enemy_BP
+[2018.10.05-02.56.11:895][256]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube)
+[2018.10.05-02.56.14:285][491]Cmd: EDIT CUT
+[2018.10.05-02.56.14:302][491]LogEditorActor: Deleted Actor: BP_PickupCube_C
+[2018.10.05-02.56.14:337][491]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2018.10.05-02.56.15:034][573]Cmd: TRANSACTION UNDO
+[2018.10.05-02.56.15:034][573]LogEditorTransaction: Undo Cut
+[2018.10.05-02.56.15:748][573]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.15:752][573]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.15:754][573]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.15:755][573]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.15:755][573]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.15:757][573]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.15:925][578]Cmd: TRANSACTION UNDO
+[2018.10.05-02.56.15:925][578]LogEditorTransaction: Undo Clicking on Actors
+[2018.10.05-02.56.16:591][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.16:597][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.16:599][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.16:599][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.16:600][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.16:602][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.16:608][578]Cmd: TRANSACTION UNDO
+[2018.10.05-02.56.16:608][578]LogEditorTransaction: Undo Move Actors
+[2018.10.05-02.56.17:391][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.17:396][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.17:398][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.17:399][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.17:399][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.17:401][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.17:407][578]Cmd: TRANSACTION UNDO
+[2018.10.05-02.56.17:407][578]LogEditorTransaction: Undo Create Actors
+[2018.10.05-02.56.18:053][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.18:058][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.18:060][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.18:061][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.18:061][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.18:063][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.18:069][578]Cmd: TRANSACTION UNDO
+[2018.10.05-02.56.18:069][578]LogEditorTransaction: Undo Set Scale
+[2018.10.05-02.56.18:744][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.18:749][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.18:751][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.18:752][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.18:752][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.18:754][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.18:762][578]Cmd: TRANSACTION UNDO
+[2018.10.05-02.56.18:762][578]LogEditorTransaction: Undo Set Scale
+[2018.10.05-02.56.19:454][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.19:459][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.19:461][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.19:461][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.19:462][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.19:464][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.19:472][578]Cmd: TRANSACTION UNDO
+[2018.10.05-02.56.19:472][578]LogEditorTransaction: Undo Set Scale
+[2018.10.05-02.56.20:161][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.20:166][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.20:169][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.20:170][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.20:170][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.20:173][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.20:182][578]Cmd: TRANSACTION UNDO
+[2018.10.05-02.56.20:182][578]LogEditorTransaction: Undo Set Rotation
+[2018.10.05-02.56.20:865][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.20:869][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.20:871][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.20:872][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.20:872][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.20:874][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.20:883][578]Cmd: TRANSACTION UNDO
+[2018.10.05-02.56.20:883][578]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2018.10.05-02.56.20:888][578]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_24:PersistentLevel.Enemy_BP_C_0.Arrow) Component already registered.
+[2018.10.05-02.56.20:888][578]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_24:PersistentLevel.Enemy_BP_C_0.CharMoveComp) Component already registered.
+[2018.10.05-02.56.21:553][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.21:559][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.21:561][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.21:561][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.21:562][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.21:564][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.21:572][578]Cmd: TRANSACTION UNDO
+[2018.10.05-02.56.21:573][578]LogEditorTransaction: Undo Set Scale
+[2018.10.05-02.56.22:250][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.22:255][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.22:257][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.22:258][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.22:259][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.22:260][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.22:269][578]Cmd: TRANSACTION UNDO
+[2018.10.05-02.56.22:269][578]LogEditorTransaction: Undo Set Scale
+[2018.10.05-02.56.23:003][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.23:008][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.23:010][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.23:011][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.23:012][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.23:016][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.23:030][578]Cmd: TRANSACTION UNDO
+[2018.10.05-02.56.23:030][578]LogEditorTransaction: Undo Set Scale
+[2018.10.05-02.56.23:801][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.23:812][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.23:815][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.23:815][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.23:816][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.23:819][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.23:831][578]Cmd: TRANSACTION UNDO
+[2018.10.05-02.56.23:831][578]LogEditorTransaction: Undo Set Scale
+[2018.10.05-02.56.24:493][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.24:500][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.24:501][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.24:502][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.24:503][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.24:505][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.24:514][578]Cmd: TRANSACTION UNDO
+[2018.10.05-02.56.24:514][578]LogEditorTransaction: Undo Set Scale
+[2018.10.05-02.56.25:264][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.25:270][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.25:272][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.25:273][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.25:273][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.25:275][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.25:286][578]Cmd: TRANSACTION UNDO
+[2018.10.05-02.56.25:286][578]LogEditorTransaction: Undo Set Scale
+[2018.10.05-02.56.26:122][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.26:128][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.26:130][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.26:131][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.26:132][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.26:133][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.26:144][578]Cmd: TRANSACTION UNDO
+[2018.10.05-02.56.26:144][578]LogEditorTransaction: Undo Set Scale
+[2018.10.05-02.56.26:826][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.26:833][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.26:836][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.26:837][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.26:838][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.26:840][578]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-02.56.26:922][578]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.05-02.56.26:959][578]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.05-02.56.27:051][578]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.05-02.56.30:861][811]LogSavePackage: Moving '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Saved/MotionControllerMap_Auto21BBD495A4561C6CBB8A20CBE3676FD95.tmp' to '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto2.umap'
+[2018.10.05-02.56.30:869][811]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.495
+[2018.10.05-02.56.30:869][811]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.495
+[2018.10.05-02.56.30:875][811]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/Pipe_BP] ([1] browsable assets)...
+[2018.10.05-02.56.30:886][811]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/Pipe_BP.Pipe_BP]
+[2018.10.05-02.56.30:886][811]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/Pipe_BP]
+[2018.10.05-02.56.30:886][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Pipe_BP" FILE="../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Saved/Autosaves/Game/BP/Pipe_BP_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.10.05-02.56.30:946][811]LogSavePackage: Moving '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Saved/Pipe_BP_Auto22EC094E1458447306EF8F280BE933A18.tmp' to '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Saved/Autosaves/Game/BP/Pipe_BP_Auto2.uasset'
+[2018.10.05-02.56.30:948][811]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/EnemyAI/Enemy_BP] ([1] browsable assets)...
+[2018.10.05-02.56.30:948][811]OBJ SavePackage: Finished generating thumbnails for package [/Game/EnemyAI/Enemy_BP]
+[2018.10.05-02.56.30:948][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyAI/Enemy_BP" FILE="../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Saved/Autosaves/Game/EnemyAI/Enemy_BP_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.10.05-02.56.30:957][811]LogSavePackage: Moving '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Saved/Enemy_BP_Auto288CB9657491F4E0DA47B438AEF8C7D32.tmp' to '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Saved/Autosaves/Game/EnemyAI/Enemy_BP_Auto2.uasset'
+[2018.10.05-02.56.30:959][811]LogFileHelpers: Auto-saving content packages took 0.084
+[2018.10.05-02.56.37:049][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.56.45:799][  7]Cmd: DELETE
+[2018.10.05-02.56.45:799][  7]Cmd: ACTOR DELETE
+[2018.10.05-02.56.45:808][  7]LogEditorActor: Deleted Actor: Enemy_BP_C
+[2018.10.05-02.56.45:843][  7]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2018.10.05-02.56.47:189][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.56.57:915][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.57.11:978][476]LogMetaData: Removing '/Game/EnemyAI/BP.BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/EnemyAI/Enemy_BP.PackageMetaData'
+[2018.10.05-02.57.11:978][476]LogMetaData: Removing '/Game/EnemyAI/BP.SKEL_BP_C' ref from Metadata '/Game/EnemyAI/Enemy_BP.PackageMetaData'
+[2018.10.05-02.57.11:978][476]LogMetaData: Removing '/Game/EnemyAI/BP.BP_C' ref from Metadata '/Game/EnemyAI/Enemy_BP.PackageMetaData'
+[2018.10.05-02.57.11:978][476]LogMetaData: Removing '/Game/EnemyAI/BP.BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/EnemyAI/Enemy_BP.PackageMetaData'
+[2018.10.05-02.57.11:978][476]LogMetaData: Removing '/Game/EnemyAI/BP.BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/EnemyAI/Enemy_BP.PackageMetaData'
+[2018.10.05-02.57.11:978][476]LogMetaData: Removing '/Game/EnemyAI/BP.BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/EnemyAI/Enemy_BP.PackageMetaData'
+[2018.10.05-02.57.11:999][476]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.05-02.57.12:019][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EnemyAI/BP" FILE="../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Content/EnemyAI/BP.uasset" SILENT=true
+[2018.10.05-02.57.12:028][476]LogSavePackage: Moving '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Saved/BP5EA204974D9FFF9AE39D64B28630BDFA.tmp' to '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Content/EnemyAI/BP.uasset'
+[2018.10.05-02.57.12:047][476]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.05-02.57.12:217][476]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.05-02.57.12:492][476]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.05-02.57.26:112][734]Cmd: DELETE
+[2018.10.05-02.57.26:112][734]Cmd: ACTOR DELETE
+[2018.10.05-02.57.26:118][734]LogEditorActor: Deleted Actor: Character
+[2018.10.05-02.57.26:154][734]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.10.05-02.57.28:510][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-02.57.36:546][604]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.05-02.59.13:834][245]LogSlate: Window 'Select Path' being destroyed
+[2018.10.05-02.59.13:928][245]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Enemy_BP.Enemy_BP
+[2018.10.05-02.59.41:294][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-03.00.01:309][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-03.00.18:008][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-03.00.18:171][863]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.10.05-03.00.18:171][863]LogClass: Warning: In asset 'None', there is an enum property of type 'EComponentMobility' with an invalid value of ''
+[2018.10.05-03.00.44:830][481]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.05-03.00.54:579][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-03.01.04:621][344]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-03.01.32:297][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-03.01.36:894][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-03.01.42:156][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-03.01.46:824][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-03.02.22:841][968]LogEditorTransaction: Undo Add Component
+[2018.10.05-03.02.23:540][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.23:547][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.23:549][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.23:549][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.23:550][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.23:552][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.23:565][968]LogEditorTransaction: Undo Remove Components
+[2018.10.05-03.02.24:286][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.24:293][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.24:295][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.24:295][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.24:296][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.24:298][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.24:307][968]LogEditorTransaction: Undo Set Scale
+[2018.10.05-03.02.25:005][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.25:013][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.25:015][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.25:016][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.25:016][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.25:018][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.25:028][968]LogEditorTransaction: Undo Set Scale
+[2018.10.05-03.02.25:814][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.25:824][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.25:826][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.25:827][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.25:827][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.25:830][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.25:841][968]LogEditorTransaction: Undo Set Scale
+[2018.10.05-03.02.26:519][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.26:527][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.26:529][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.26:530][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.26:531][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.26:534][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.26:552][968]LogEditorTransaction: Undo Set Scale
+[2018.10.05-03.02.27:404][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.27:412][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.27:414][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.27:415][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.27:416][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.27:417][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.27:429][968]LogEditorTransaction: Undo Set Scale
+[2018.10.05-03.02.28:146][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.28:159][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.28:161][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.28:162][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.28:163][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.28:165][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.28:177][968]LogEditorTransaction: Undo Set Scale
+[2018.10.05-03.02.28:817][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.28:825][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.28:827][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.28:828][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.28:829][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.28:830][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.28:841][968]LogEditorTransaction: Undo Set Scale
+[2018.10.05-03.02.29:485][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.29:495][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.29:498][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.29:499][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.29:501][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.29:503][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.29:514][968]LogEditorTransaction: Undo Set Scale
+[2018.10.05-03.02.30:241][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.30:249][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.30:252][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.30:253][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.30:254][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.30:256][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.30:268][968]LogEditorTransaction: Undo Set Scale
+[2018.10.05-03.02.30:988][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.30:998][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.31:001][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.31:001][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.31:002][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.31:005][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.31:019][968]LogEditorTransaction: Undo Remove Components
+[2018.10.05-03.02.31:714][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.31:723][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.31:725][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.31:726][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.31:726][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.31:728][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.31:739][968]LogEditorTransaction: Undo Add Component
+[2018.10.05-03.02.32:444][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.32:456][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.32:461][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.32:462][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.32:463][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.32:466][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.32:483][968]LogEditorTransaction: Undo Toggle Absolute Scale
+[2018.10.05-03.02.33:222][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.33:231][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.33:233][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.33:234][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.33:234][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.33:236][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.33:251][968]LogEditorTransaction: Undo Toggle Absolute Scale
+[2018.10.05-03.02.34:017][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.34:026][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.34:029][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.34:029][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.34:030][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.34:032][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.34:044][968]LogEditorTransaction: Undo Edit Mobility
+[2018.10.05-03.02.34:721][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.34:732][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.34:735][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.34:736][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.34:736][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.34:739][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.34:751][968]LogEditorTransaction: Undo Edit Mobility
+[2018.10.05-03.02.35:410][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.35:421][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.35:425][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.35:426][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.35:427][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.35:431][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.35:443][968]LogEditorTransaction: Undo Edit Mobility
+[2018.10.05-03.02.36:242][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.36:251][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.36:253][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.36:254][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.36:255][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.36:256][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.36:268][968]LogEditorTransaction: Undo Remove Components
+[2018.10.05-03.02.37:094][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.37:109][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.37:113][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.37:114][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.37:115][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.37:118][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.37:136][968]LogEditorTransaction: Undo Replace Actor(s) with blueprint
+[2018.10.05-03.02.37:963][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.37:980][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.37:982][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.37:983][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.37:983][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.37:985][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.37:998][968]LogEditorTransaction: Undo Add Component
+[2018.10.05-03.02.38:698][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.38:709][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.38:711][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.38:711][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.38:712][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.38:714][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.38:725][968]LogEditorTransaction: Undo Clicking on Component (tree view)
+[2018.10.05-03.02.39:528][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.39:538][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.39:540][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.39:541][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.39:542][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.39:543][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.39:555][968]LogEditorTransaction: Undo Move Actors
+[2018.10.05-03.02.40:314][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.40:325][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.40:327][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.40:328][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.40:328][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.40:330][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.40:342][968]LogEditorTransaction: Undo Create Actors
+[2018.10.05-03.02.41:033][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.41:044][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.41:046][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.41:047][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.41:048][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.41:049][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.41:070][968]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.05-03.02.41:382][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy_BP" FILE="../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Content/Enemy_BP.uasset" SILENT=true
+[2018.10.05-03.02.41:395][968]LogSavePackage: Moving '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Saved/Enemy_BP00C16ED6472833E1A81EB2BE39200DFE.tmp' to '../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Content/Enemy_BP.uasset'
+[2018.10.05-03.02.49:383][617]LogEditorTransaction: Redo Create Actors
+[2018.10.05-03.02.50:078][617]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.50:092][617]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.50:093][617]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.50:094][617]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.50:094][617]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.50:095][617]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.51:653][739]LogEditorTransaction: Redo Move Actors
+[2018.10.05-03.02.52:376][739]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.52:388][739]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.52:388][739]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.52:389][739]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.52:390][739]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.52:390][739]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.52:877][774]LogEditorTransaction: Redo Clicking on Component (tree view)
+[2018.10.05-03.02.53:588][774]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.53:604][774]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.53:605][774]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.53:605][774]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.53:606][774]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.53:607][774]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.53:993][801]LogEditorTransaction: Redo Add Component
+[2018.10.05-03.02.54:710][801]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.54:721][801]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.54:722][801]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.54:722][801]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.54:723][801]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.54:724][801]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.55:059][826]LogEditorTransaction: Redo Replace Actor(s) with blueprint
+[2018.10.05-03.02.55:834][826]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.55:848][826]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.55:849][826]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.55:849][826]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.55:850][826]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.55:851][826]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.56:233][854]LogEditorTransaction: Redo Remove Components
+[2018.10.05-03.02.57:052][854]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.57:064][854]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.57:065][854]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.57:066][854]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.57:066][854]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.57:068][854]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.57:351][868]LogEditorTransaction: Redo Edit Mobility
+[2018.10.05-03.02.58:246][868]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.58:261][868]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.58:262][868]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.58:263][868]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.58:264][868]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.02.58:264][868]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.10.05-03.03.56:571][865]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-03.04.56:866][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-03.05.16:177][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-03.05.25:667][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-03.05.51:446][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-03.06.05:392][930]LogDirectoryWatcher: Warning: Failed to begin reading directory changes for ../../../../../../Users/GOTOS/Desktop/FYP_Prototype/Plugins/. Error: The system cannot find the file specified. (0x00000002)
+[2018.10.05-03.06.16:113][599]LogLinker: Warning: Can't find file '/Game/Models/Slug_Animation.Slug_Animation'
+[2018.10.05-03.06.16:113][599]LogLinker: Warning: Can't find file '/Game/Models/Bat_animation.Bat_animation'
+[2018.10.05-03.06.16:113][599]LogLinker: Warning: Can't find file '/Game/Models/Snake_animation.Snake_animation'
+[2018.10.05-03.06.16:113][599]LogLinker: Warning: Can't find file '/Game/Models/Mudskipper_animation.Mudskipper_animation'
+[2018.10.05-03.06.54:415][835]LogDirectoryWatcher: A directory notification for 'C:/Users/GOTOS/Desktop/FYP_Prototype/Content/' was aborted.
+[2018.10.05-03.06.54:458][835]LogFileCache: Scanning file cache for directory 'C:/Users/GOTOS/Desktop/FYP_Prototype/Content/' took 0.03s
+[2018.10.05-03.06.54:486][835]LogSlate: Window 'New Plugin' being destroyed
+[2018.10.05-03.06.59:556][ 81]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/GOTOS/Desktop/FYP_Prototype/Content/' took 5.03s
+[2018.10.05-03.07.01:209][183]LogSlate: Window 'Plugins' being destroyed
+[2018.10.05-03.07.01:215][183]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2018.10.05-03.07.07:484][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-03.07.07:594][610]LogSlate: Window 'Color Picker' being destroyed
+[2018.10.05-03.07.09:363][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-03.07.47:521][174]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-03.08.05:780][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-03.08.22:648][485]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-03.08.22:758][493]BlueprintLog: New page: Compile Enemy_BP
+[2018.10.05-03.08.40:339][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.05-03.09.18:456][651]LogSlate: Window 'Delete Assets' being destroyed
