@@ -1,0 +1,8 @@
+Could you change the conflict in the room?
+The collison in the room is now "Simple Collison".
+If we use this, the navigation mesh and 
+plug-in you use will be unusable and AI will not move.
+Therefore, I want you to discard the current collision and change
+ "Collison Complexity" to "Use Complex Collison As Simple".
+
+
