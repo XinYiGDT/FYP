@@ -2334,3 +2334,14 @@ LogInit: Object subsystem initialized
 [2018.11.01-08.09.11:377][258]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/MotionControllerMapB99985514081B82E12CDF6A36E35A764.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
 [2018.11.01-08.09.11:680][258]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/MotionControllerMap_BuiltData0C40A7BA4C95D139274B40BE2FC1688F.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
 [2018.11.01-08.09.17:408][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.01-08.22.53:501][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.01-08.22.57:921][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.01-08.24.25:900][241]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.01-08.24.26:962][241]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/MotionControllerMap_Auto2696B97564C0EE5B57A8BD8AACBE75314.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto2.umap'
+[2018.11.01-08.24.26:968][241]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 1.054
+[2018.11.01-08.24.26:968][241]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.054
+[2018.11.01-08.24.50:719][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.01-08.25.25:759][798]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.01-09.09.46:274][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.01-09.09.46:481][334]LogSlate: Took 0.033201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.11.01-10.22.02:657][265]LogSlate: FSceneViewport::OnFocusLost() reason 0
