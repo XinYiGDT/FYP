@@ -1,0 +1,603 @@
+﻿Log file open, 11/09/18 15:24:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FYP_Prototype
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 83 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.948223
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin DonAINavigation
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.095s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Xeon(R) CPU E5-2630 v4 @ 2.20GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Epic Games/UE_4.20/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.09-07.24.43:852][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.09-07.24.43:852][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.09-07.24.43:868][  0]LogHAL: Display: Platform has ~ 128 GB [137350422528 / 137438953472 / 128], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.09-07.24.43:868][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.09-07.24.43:868][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.09-07.24.43:868][  0]LogInit: Computer: M625GB01
+[2018.11.09-07.24.43:868][  0]LogInit: User: SIDM
+[2018.11.09-07.24.43:868][  0]LogInit: CPU Page size=4096, Cores=20
+[2018.11.09-07.24.43:868][  0]LogInit: High frequency timer resolution =2.143478 MHz
+[2018.11.09-07.24.43:868][  0]LogMemory: Memory total: Physical=127.9GB (128GB approx)
+[2018.11.09-07.24.43:868][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.09-07.24.43:868][  0]LogMemory: Process Physical Memory: 110.15 MB used, 110.15 MB peak
+[2018.11.09-07.24.43:868][  0]LogMemory: Process Virtual Memory: 100.27 MB used, 100.27 MB peak
+[2018.11.09-07.24.43:869][  0]LogMemory: Physical Memory: 8061.60 MB used,  122925.97 MB free, 130987.57 MB total
+[2018.11.09-07.24.43:869][  0]LogMemory: Virtual Memory: 4751.58 MB used,  122925.97 MB free, 134217728.00 MB total
+[2018.11.09-07.24.43:890][  0]LogInit: Using OS detected language (en-US).
+[2018.11.09-07.24.43:890][  0]LogInit: Using OS detected locale (en-SG).
+[2018.11.09-07.24.43:890][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.09-07.24.44:362][  0]LogStreaming: Display: Took  0.472s to InitEngineTextLocalization.
+[2018.11.09-07.24.44:362][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.09-07.24.44:405][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.09-07.24.44:405][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.09-07.24.44:640][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.09-07.24.44:698][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.11.09-07.24.44:698][  0]LogD3D11RHI:       8079/0/65493 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.09-07.24.44:700][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.09-07.24.44:700][  0]LogD3D11RHI:       0/0/65493 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.09-07.24.44:700][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.09-07.24.44:709][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.09-07.24.44:709][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.09-07.24.44:709][  0]LogWindows: EnumDisplayDevices:
+[2018.11.09-07.24.44:709][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.11.09-07.24.44:710][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.11.09-07.24.44:710][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.11.09-07.24.44:710][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.11.09-07.24.44:710][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.11.09-07.24.44:710][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.11.09-07.24.44:710][  0]LogD3D11RHI:   Driver Version: 390.77 (internal:23.21.13.9077, unified:390.77)
+[2018.11.09-07.24.44:710][  0]LogD3D11RHI:      Driver Date: 1-23-2018
+[2018.11.09-07.24.44:710][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.11.09-07.24.44:741][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.09-07.24.44:759][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.09-07.24.44:802][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Intermediate/Shaders/WorkingDirectory/24100/).
+[2018.11.09-07.24.44:802][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/impixel/AppData/Local/Temp/UnrealShaderWorkingDir/6AA178B24E5F861F8484199B5BC0DB7D/'.
+[2018.11.09-07.24.45:129][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.09-07.24.45:146][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.09-07.24.45:162][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.09-07.24.45:178][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.09-07.24.45:195][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.09-07.24.45:210][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.09-07.24.45:226][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.09-07.24.45:242][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.09-07.24.45:249][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.09-07.24.45:351][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.09-07.24.45:351][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.09-07.24.45:351][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.09-07.24.45:351][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.09-07.24.45:351][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.09-07.24.45:351][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.09-07.24.45:351][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.09-07.24.45:351][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.09-07.24.45:351][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.09-07.24.45:351][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.09-07.24.45:351][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.09-07.24.45:351][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.09-07.24.45:351][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.09-07.24.45:351][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.09-07.24.45:351][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.09-07.24.45:351][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.09-07.24.45:351][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.09-07.24.45:351][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.09-07.24.45:352][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.09-07.24.45:421][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.09-07.24.45:421][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.09-07.24.45:452][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.09-07.24.45:452][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.09-07.24.45:468][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.09-07.24.45:485][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.09-07.24.45:501][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.09-07.24.45:517][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.09-07.24.45:528][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.09-07.24.45:528][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.09-07.24.45:585][  0]LogXGEController: Cleaning working directory: C:/Users/impixel/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.09-07.24.45:585][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.09-07.24.45:585][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.09-07.24.45:585][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.09-07.24.46:507][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.09-07.24.46:615][  0]LogDerivedDataCache: Loaded boot cache 0.11s 86MB C:/Users/impixel/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.09-07.24.46:615][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/impixel/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.09-07.24.46:615][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.09-07.24.46:615][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.09-07.24.46:615][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.09-07.24.46:615][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.09-07.24.46:632][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.09-07.24.46:645][  0]LogDerivedDataCache: Using Local data cache path C:/Users/impixel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.09-07.24.46:645][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.09-07.24.46:645][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.09-07.24.46:671][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.09-07.24.46:673][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.09-07.24.46:674][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.09-07.24.46:769][  0]LogAssetRegistry: FAssetRegistry took 0.0276 seconds to start up
+[2018.11.09-07.24.47:229][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.09-07.24.47:407][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.09-07.24.47:411][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.09-07.24.47:411][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.09-07.24.47:411][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.09-07.24.47:411][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.09-07.24.47:432][  0]LogNetVersion: FYP_Prototype 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1129731653)
+[2018.11.09-07.24.48:034][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.090468 seconds
+[2018.11.09-07.24.48:041][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.09-07.24.48:041][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.11.09-07.24.48:041][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.09-07.24.49:131][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.09-07.24.49:143][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.09-07.24.49:306][  0]SourceControl: Source control is disabled
+[2018.11.09-07.24.49:306][  0]SourceControl: Source control is disabled
+[2018.11.09-07.24.49:308][  0]SourceControl: Source control is disabled
+[2018.11.09-07.24.49:309][  0]SourceControl: Source control is disabled
+[2018.11.09-07.24.49:475][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.09-07.24.49:556][  0]LogOcInput: OculusInput pre-init called
+[2018.11.09-07.24.49:625][  0]LogEngine: Initializing Engine...
+[2018.11.09-07.24.49:626][  0]LogHMD: Oculus plugin initialized. Version: 4.20.3-4369336+++UE4+Release-4.20, OVRPlugin: 1.25.0
+[2018.11.09-07.24.49:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.09-07.24.49:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.09-07.24.49:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.09-07.24.49:627][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.09-07.24.49:915][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.09-07.24.49:928][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.09-07.24.49:955][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.09-07.24.50:001][  0]LogInit: FAudioDevice initialized.
+[2018.11.09-07.24.50:001][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.09-07.24.50:070][  0]LogDerivedDataCache: Saved boot cache 0.07s 86MB C:/Users/impixel/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.09-07.24.50:087][  0]LogInit: Texture streaming: Enabled
+[2018.11.09-07.24.50:103][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.09-07.24.50:116][  0]LogInit: Transaction tracking system initialized
+[2018.11.09-07.24.50:135][  0]BlueprintLog: New page: Editor Load
+[2018.11.09-07.24.50:204][  0]LocalizationService: Localization service is disabled
+[2018.11.09-07.24.50:472][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.09-07.24.50:472][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.09-07.24.50:472][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.09-07.24.50:472][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.09-07.24.50:472][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.09-07.24.50:472][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.09-07.24.50:472][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.09-07.24.50:595][  0]LogFileCache: Scanning file cache for directory 'D:/163935T/FYP/FYP/Main/FYP_Prototype/Content/' took 0.02s
+[2018.11.09-07.24.50:595][  0]SourceControl: Source control is disabled
+[2018.11.09-07.24.50:595][  0]Cmd: MAP LOAD FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.09-07.24.50:596][  0]LightingResults: New page: Lighting Build
+[2018.11.09-07.24.50:598][  0]MapCheck: New page: Map Check
+[2018.11.09-07.24.50:598][  0]LightingResults: New page: Lighting Build
+[2018.11.09-07.24.50:784][  0]LogAIModule: Creating AISystem for world StartupMap
+[2018.11.09-07.24.50:792][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.09-07.24.50:869][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.09-07.24.50:938][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68.273ms to complete.
+[2018.11.09-07.24.50:938][  0]LogFileHelpers: Loading map 'StartupMap' took 0.343
+[2018.11.09-07.24.51:056][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.09-07.24.51:066][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.09-07.24.51:075][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.09-07.24.51:086][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.09-07.24.51:092][  0]LogCollectionManager: Loaded 0 collections in 0.001159 seconds
+[2018.11.09-07.24.51:136][  0]LogFileCache: Scanning file cache for directory 'D:/163935T/FYP/FYP/Main/FYP_Prototype/Saved/Collections/' took 0.01s
+[2018.11.09-07.24.51:137][  0]LogFileCache: Scanning file cache for directory 'D:/163935T/FYP/FYP/Main/FYP_Prototype/Content/Developers/SIDM/Collections/' took 0.01s
+[2018.11.09-07.24.51:137][  0]LogFileCache: Scanning file cache for directory 'D:/163935T/FYP/FYP/Main/FYP_Prototype/Content/Collections/' took 0.01s
+[2018.11.09-07.24.51:137][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.09-07.24.51:150][  0]LogContentBrowser: Native class hierarchy populated in 0.0134 seconds. Added 2578 classes and 609 folders.
+[2018.11.09-07.24.51:156][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.09-07.24.51:210][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.09-07.24.51:217][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.09-07.24.51:301][  0]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.09-07.24.51:303][  0]LogSlate: Took 0.000246 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.09-07.24.51:310][  0]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.09-07.24.51:407][  0]LogRenderer: Reallocating scene render targets to support 964x660 Format 10 NumSamples 1 (Frame:1).
+[2018.11.09-07.24.51:542][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.09-07.24.51:542][  0]LogLoad: (Engine Initialization) Total time: 10.59 seconds
+[2018.11.09-07.24.51:542][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.09-07.24.51:558][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2018.11.09-07.24.51:563][  0]LogOcInput: OculusInput is initialized
+[2018.11.09-07.24.51:602][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.11.09-07.24.51:618][  0]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.09-07.24.51:689][  2]LogAssetRegistry: Asset discovery search completed in 4.9426 seconds
+[2018.11.09-07.24.51:691][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.11.09-07.24.51:691][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000126 seconds (updated 0 objects)
+[2018.11.09-07.24.53:519][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.09-07.24.56:398][530]LogSlate: Took 0.000487 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.09-07.24.58:408][530]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.11.09-07.24.58:522][530]LogAssetEditorManager: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2018.11.09-07.24.58:590][530]Cmd: MAP LOAD FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.09-07.24.58:590][530]LightingResults: New page: Lighting Build
+[2018.11.09-07.24.58:591][530]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2018.11.09-07.24.58:592][530]MapCheck: New page: Map Check
+[2018.11.09-07.24.58:592][530]LightingResults: New page: Lighting Build
+[2018.11.09-07.24.58:892][530]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.09-07.24.59:014][530]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.09-07.24.59:149][530]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 135.593ms to complete.
+[2018.11.09-07.24.59:149][530]LogFileHelpers: Loading map 'MotionControllerMap' took 0.560
+[2018.11.09-07.24.59:182][530]LogFileCache: Retrieving MD5 hashes for directory 'D:/163935T/FYP/FYP/Main/FYP_Prototype/Content/' took 7.61s
+[2018.11.09-07.25.08:157][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.09-07.25.15:423][451]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.11.09-07.25.15:423][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.09-07.25.15:423][451]LogHMD: Initializing OVRPlugin session
+[2018.11.09-07.25.15:529][451]PIE: New page: PIE session: MotionControllerMap (9 Nov 2018 11:25:15 pm)
+[2018.11.09-07.25.15:529][451]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.11.09-07.25.15:584][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054455s)
+[2018.11.09-07.25.15:585][451]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.11.09-07.25.15:585][451]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2018.11.09-07.25.15:585][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.055680s)
+[2018.11.09-07.25.15:650][451]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.09-07.25.15:665][451]LogInit: FAudioDevice initialized.
+[2018.11.09-07.25.15:676][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.09-07.25.15:758][451]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.11.09-07.25.15:795][451]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.11.09-07.25.15:795][451]LogLoad: Game class is 'GameModeBase'
+[2018.11.09-07.25.15:808][451]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.11.09-15.25.15
+[2018.11.09-07.25.15:809][451]LogWorld: Bringing up level for play took: 0.012477
+[2018.11.09-07.25.15:825][451]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.11.09-07.25.17:439][451]DoNNavigationLog: Time spent generating 15625000 NAV volumes: 1.613000 seconds
+[2018.11.09-07.25.17:457][451]DoNNavigationLog: FDonNavigationWorker thread started
+[2018.11.09-07.25.17:457][451]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.632
+[2018.11.09-07.25.17:458][451]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.11.09-07.25.17:459][451]LogEngine: Changing dynamic resolution state.
+[2018.11.09-07.25.17:467][451]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.11.09-07.25.17:469][451]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.11.09-07.25.17:469][451]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.11.09-07.25.17:473][451]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.11.09-07.25.17:473][451]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.11.09-07.25.17:475][451]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.11.09-07.25.17:485][451]LogRenderer: Reallocating scene render targets to support 2720x1600 Format 10 NumSamples 1 (Frame:1).
+[2018.11.09-07.25.17:485][451]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.11.09-07.25.50:021][552]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.11.09-07.25.50:091][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.09-07.25.50:147][552]LogSlate: Window 'FYP_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.09-07.25.50:182][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.09-07.25.50:182][552]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.11.09-07.25.50:455][553]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2018.11.09-07.25.50:456][553]LogEngine: Changing dynamic resolution state.
+[2018.11.09-07.25.55:020][ 91]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.11.09-07.25.55:020][ 91]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.11.09-07.25.56:181][227]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.11.09-07.25.56:181][227]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.11.09-07.26.00:095][694]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap
+[2018.11.09-07.26.00:677][694]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.11.09-07.26.01:618][694]LogSlate: Took 0.000286 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.09-07.26.01:847][695]LogSlate: Took 0.000383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.09-07.26.09:535][329]BlueprintLog: New page: Compile MotionControllerMap
+[2018.11.09-07.26.11:469][449]LogTemp: Repeating last play command: VR Preview
+[2018.11.09-07.26.11:489][449]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.11.09-07.26.11:490][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.09-07.26.11:490][449]LogHMD: Initializing OVRPlugin session
+[2018.11.09-07.26.11:575][449]PIE: New page: PIE session: MotionControllerMap (9 Nov 2018 11:26:11 pm)
+[2018.11.09-07.26.11:575][449]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.11.09-07.26.11:632][449]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057218s)
+[2018.11.09-07.26.11:633][449]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.11.09-07.26.11:633][449]LogPlayLevel: PIE: World Init took: (0.001024s)
+[2018.11.09-07.26.11:633][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.058530s)
+[2018.11.09-07.26.11:702][449]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.09-07.26.11:715][449]LogInit: FAudioDevice initialized.
+[2018.11.09-07.26.11:726][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.09-07.26.11:833][449]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.11.09-07.26.11:869][449]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.11.09-07.26.11:869][449]LogLoad: Game class is 'GameModeBase'
+[2018.11.09-07.26.11:881][449]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.11.09-15.26.11
+[2018.11.09-07.26.11:882][449]LogWorld: Bringing up level for play took: 0.012609
+[2018.11.09-07.26.13:715][449]DoNNavigationLog: Time spent generating 15625000 NAV volumes: 1.819000 seconds
+[2018.11.09-07.26.13:739][449]DoNNavigationLog: FDonNavigationWorker thread started
+[2018.11.09-07.26.13:739][449]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.913
+[2018.11.09-07.26.13:740][449]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.11.09-07.26.13:741][449]LogEngine: Changing dynamic resolution state.
+[2018.11.09-07.26.13:750][449]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.11.09-07.26.13:751][449]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.11.09-07.26.31:326][ 20]LogScript: Warning: Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue1
+	MotionControllerMap_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap_C_0
+	Function /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C:ExecuteUbergraph_MotionControllerMap:085B
+[2018.11.09-07.26.31:326][ 20]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_K2_GetRootComponent_ReturnValue1". Blueprint:  MotionControllerMap Function:  Execute Ubergraph Motion Controller Map Graph:  EventGraph Node:  Play World Camera Shake
+[2018.11.09-07.26.35:856][422]PIE: Warning: Projectile_C_3.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.36:179][451]PIE: Warning: Projectile_C_4.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.36:190][452]PIE: Warning: Projectile_C_4.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.36:936][519]PIE: Warning: Projectile_C_6.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.36:947][520]PIE: Warning: Projectile_C_6.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.38:802][682]PIE: Warning: Projectile_C_11.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.39:559][750]PIE: Warning: Projectile_C_13.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.40:781][860]PIE: Warning: Projectile_C_16.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.40:814][863]PIE: Warning: Projectile_C_16.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.41:837][955]PIE: Warning: Projectile_C_19.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.41:881][959]PIE: Warning: Projectile_C_19.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.43:293][ 86]PIE: Warning: Projectile_C_23.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.43:536][108]PIE: Warning: Projectile_C_24.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.43:848][136]PIE: Warning: Projectile_C_25.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.44:515][196]PIE: Warning: Projectile_C_27.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.44:804][222]PIE: Warning: Projectile_C_28.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.44:815][223]PIE: Warning: Projectile_C_28.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.44:827][224]PIE: Warning: Projectile_C_28.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.44:837][225]PIE: Warning: Projectile_C_28.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.45:927][323]PIE: Warning: Projectile_C_31.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.46:248][352]PIE: Warning: Projectile_C_32.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.46:260][353]PIE: Warning: Projectile_C_32.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.46:559][380]PIE: Warning: Projectile_C_33.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.46:881][409]PIE: Warning: Projectile_C_34.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.46:893][410]PIE: Warning: Projectile_C_34.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.47:170][435]PIE: Warning: Projectile_C_35.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.47:182][436]PIE: Warning: Projectile_C_35.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.48:036][513]PIE: Warning: Projectile_C_38.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.49:637][657]PIE: Warning: Projectile_C_42.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.49:726][665]PIE: Warning: Projectile_C_42.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.49:726][665]PIE: Warning: Projectile_C_42.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.49:726][665]PIE: Warning: Projectile_C_42.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.50:026][692]PIE: Warning: Projectile_C_43.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.50:026][692]PIE: Warning: Projectile_C_43.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.50:036][693]PIE: Warning: Projectile_C_43.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.50:316][718]PIE: Warning: Projectile_C_44.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.50:348][721]PIE: Warning: Projectile_C_45.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.50:359][722]LogCharacterMovement: Sulg_BP_C_4 is stuck and failed to move! Velocity: X=0.01 Y=146.73 Z=0.00 Location: X=-13347.25 Y=-10284.77 Z=7567.08 Normal: X=-0.42 Y=-0.91 Z=-0.00 PenetrationDepth:19.715 Actor:Projectile_C_45 Component:StaticMesh BoneName:None (0 other events since notify)
+[2018.11.09-07.26.50:359][722]PIE: Warning: Projectile_C_45.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.50:359][722]PIE: Warning: Projectile_C_45.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.50:359][722]PIE: Warning: Projectile_C_45.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.50:370][723]PIE: Warning: Projectile_C_45.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.51:403][816]PIE: Warning: Projectile_C_48.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.53:337][990]PIE: Warning: Projectile_C_54.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.53:349][991]PIE: Warning: Projectile_C_54.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.53:972][ 47]PIE: Warning: Projectile_C_56.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.54:615][105]PIE: Warning: Projectile_C_58.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.54:937][134]PIE: Warning: Projectile_C_59.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.54:937][134]PIE: Warning: Projectile_C_59.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.54:937][134]PIE: Warning: Projectile_C_59.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.54:948][135]LogCharacterMovement: Sulg_BP_C_2 is stuck and failed to move! Velocity: X=12.35 Y=24.69 Z=0.00 Location: X=-13727.90 Y=-10273.18 Z=7604.61 Normal: X=-0.81 Y=0.15 Z=0.56 PenetrationDepth:18.688 Actor:Projectile_C_59 Component:StaticMesh BoneName:None (0 other events since notify)
+[2018.11.09-07.26.55:270][164]PIE: Warning: Projectile_C_60.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.56:504][275]PIE: Warning: Projectile_C_63.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.26.58:648][468]PIE: Warning: Projectile_C_70.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.27.02:659][829]PIE: Warning: Projectile_C_80.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.27.02:671][830]PIE: Warning: Projectile_C_80.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.27.02:682][831]PIE: Warning: Projectile_C_80.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.27.02:738][836]PIE: Warning: Projectile_C_80.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.27.02:750][837]PIE: Warning: Projectile_C_80.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.27.02:761][838]PIE: Warning: Projectile_C_80.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.27.03:537][908]PIE: Warning: Projectile_C_82.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.27.03:970][947]PIE: Warning: Projectile_C_83.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.27.07:695][282]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-13369.748 Y=-10278.743 Z=7802.613] for [Sulg_BP_C]
+[2018.11.09-07.27.11:965][665]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.11.09-07.27.12:050][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.09-07.27.12:117][665]LogSlate: Window 'FYP_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.09-07.27.12:165][665]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.09-07.27.12:165][665]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.11.09-07.27.12:638][666]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.11.09-07.27.12:638][666]LogEngine: Changing dynamic resolution state.
+[2018.11.09-07.27.20:791][499]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.11.09-07.27.20:792][499]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.11.09-07.28.40:004][ 28]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP/Pipe_BP.Pipe_BP
+[2018.11.09-07.28.58:149][610]BlueprintLog: New page: Compile Pipe_BP
+[2018.11.09-07.28.58:701][610]BlueprintLog: New page: Compile Pipe_BP
+[2018.11.09-07.29.09:216][347]BlueprintLog: New page: Compile MotionControllerMap
+[2018.11.09-07.29.11:820][504]BlueprintLog: New page: Compile Pipe_BP
+[2018.11.09-07.29.13:490][585]LogTemp: Repeating last play command: VR Preview
+[2018.11.09-07.29.13:522][585]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.11.09-07.29.13:522][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.09-07.29.13:522][585]LogHMD: Initializing OVRPlugin session
+[2018.11.09-07.29.13:612][585]PIE: New page: PIE session: MotionControllerMap (9 Nov 2018 11:29:13 pm)
+[2018.11.09-07.29.13:612][585]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.11.09-07.29.13:670][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058035s)
+[2018.11.09-07.29.13:671][585]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.11.09-07.29.13:671][585]LogPlayLevel: PIE: World Init took: (0.000999s)
+[2018.11.09-07.29.13:671][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.059304s)
+[2018.11.09-07.29.13:744][585]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.09-07.29.13:757][585]LogInit: FAudioDevice initialized.
+[2018.11.09-07.29.13:767][585]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.09-07.29.13:855][585]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.11.09-07.29.13:885][585]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.11.09-07.29.13:885][585]LogLoad: Game class is 'GameModeBase'
+[2018.11.09-07.29.13:898][585]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.11.09-15.29.13
+[2018.11.09-07.29.13:899][585]LogWorld: Bringing up level for play took: 0.013207
+[2018.11.09-07.29.15:812][585]DoNNavigationLog: Time spent generating 15625000 NAV volumes: 1.900000 seconds
+[2018.11.09-07.29.15:832][585]DoNNavigationLog: FDonNavigationWorker thread started
+[2018.11.09-07.29.15:832][585]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 2.005
+[2018.11.09-07.29.15:832][585]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.11.09-07.29.15:833][585]LogEngine: Changing dynamic resolution state.
+[2018.11.09-07.29.15:959][585]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.11.09-07.29.15:959][585]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.11.09-07.29.42:931][  1]PIE: Warning: Projectile_C_9.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.29.43:332][ 37]PIE: Warning: Projectile_C_9.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.29.50:922][720]PIE: Warning: Projectile_C_14.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.29.51:510][773]PIE: Warning: Projectile_C_15.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.29.51:510][773]PIE: Warning: Projectile_C_15.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.30.06:101][ 86]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-13334.095 Y=-10249.832 Z=7814.352] for [Sulg_BP_C]
+[2018.11.09-07.30.14:992][885]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-13334.095 Y=-10249.832 Z=7814.352] for [Sulg_BP_C]
+[2018.11.09-07.30.21:604][480]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-13334.095 Y=-10249.832 Z=7814.352] for [Sulg_BP_C]
+[2018.11.09-07.30.26:959][962]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-13334.095 Y=-10249.832 Z=7814.352] for [Sulg_BP_C]
+[2018.11.09-07.30.34:836][669]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-13334.095 Y=-10249.832 Z=7814.352] for [Sulg_BP_C]
+[2018.11.09-07.30.40:748][200]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-13334.095 Y=-10249.832 Z=7814.352] for [Sulg_BP_C]
+[2018.11.09-07.30.47:039][761]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-13334.095 Y=-10249.832 Z=7814.352] for [Sulg_BP_C]
+[2018.11.09-07.30.52:773][277]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-13334.095 Y=-10249.832 Z=7814.352] for [Sulg_BP_C]
+[2018.11.09-07.31.01:886][ 97]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-13334.095 Y=-10249.832 Z=7814.352] for [Sulg_BP_C]
+[2018.11.09-07.31.10:186][844]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-13334.095 Y=-10249.832 Z=7814.352] for [Sulg_BP_C]
+[2018.11.09-07.31.18:709][611]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-13334.095 Y=-10249.832 Z=7814.352] for [Sulg_BP_C]
+[2018.11.09-07.31.28:687][509]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-13334.095 Y=-10249.832 Z=7814.352] for [Sulg_BP_C]
+[2018.11.09-07.31.33:799][969]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-13334.095 Y=-10249.832 Z=7814.352] for [Sulg_BP_C]
+[2018.11.09-07.31.33:935][981]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.11.09-07.31.34:013][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.09-07.31.34:093][981]LogSlate: Window 'FYP_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.09-07.31.34:138][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.09-07.31.34:138][981]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.11.09-07.31.34:612][982]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.11.09-07.31.34:613][982]LogEngine: Changing dynamic resolution state.
+[2018.11.09-07.31.49:337][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Pipe_BP" FILE="../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/BP/Pipe_BP.uasset" SILENT=true
+[2018.11.09-07.31.49:410][205]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/Pipe_BP8B6D463A476E450E4E8A7098F5AC5E34.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/BP/Pipe_BP.uasset'
+[2018.11.09-07.32.03:648][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Room1)
+[2018.11.09-07.32.05:092][658]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.11.09-07.32.05:092][658]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.11.09-07.32.05:114][658]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.09-07.32.08:335][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.09-07.32.17:795][429]BlueprintLog: New page: Compile MotionControllerMap
+[2018.11.09-07.33.32:557][883]LogTemp: Repeating last play command: VR Preview
+[2018.11.09-07.33.32:578][883]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.11.09-07.33.32:578][883]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.11.09-07.33.32:617][883]LogPlayLevel: [PlayLevel] Compiling Pipe_BP before play...
+[2018.11.09-07.33.33:150][883]LogPlayLevel: PlayLevel: Blueprint regeneration took 571 ms (1 blueprints)
+[2018.11.09-07.33.33:150][883]LogHMD: Initializing OVRPlugin session
+[2018.11.09-07.33.33:246][883]PIE: New page: PIE session: MotionControllerMap (9 Nov 2018 11:33:33 pm)
+[2018.11.09-07.33.33:246][883]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.11.09-07.33.33:303][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056892s)
+[2018.11.09-07.33.33:304][883]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.11.09-07.33.33:304][883]LogPlayLevel: PIE: World Init took: (0.001063s)
+[2018.11.09-07.33.33:304][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.058270s)
+[2018.11.09-07.33.33:377][883]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.11.09-07.33.33:389][883]LogInit: FAudioDevice initialized.
+[2018.11.09-07.33.33:400][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.09-07.33.33:493][883]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.11.09-07.33.33:524][883]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.11.09-07.33.33:524][883]LogLoad: Game class is 'GameModeBase'
+[2018.11.09-07.33.33:537][883]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.11.09-15.33.33
+[2018.11.09-07.33.33:538][883]LogWorld: Bringing up level for play took: 0.012845
+[2018.11.09-07.33.35:411][883]DoNNavigationLog: Time spent generating 15625000 NAV volumes: 1.860000 seconds
+[2018.11.09-07.33.35:431][883]DoNNavigationLog: FDonNavigationWorker thread started
+[2018.11.09-07.33.35:431][883]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 3.605
+[2018.11.09-07.33.35:432][883]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.11.09-07.33.35:433][883]LogEngine: Changing dynamic resolution state.
+[2018.11.09-07.33.35:644][883]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.11.09-07.33.35:644][883]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.11.09-07.33.56:032][708]PIE: Warning: Projectile_C_3.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.33.56:033][708]PIE: Warning: Projectile_C_3.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.33.56:033][708]PIE: Warning: Projectile_C_3.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.33.56:033][708]PIE: Warning: Projectile_C_3.Sphere has to have 'Simulate Physics' enabled if you'd like to AddImpulseAtLocation. 
+[2018.11.09-07.34.10:477][773]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.11.09-07.34.10:564][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.09-07.34.10:643][773]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.09-07.34.10:648][773]LogSlate: Window 'FYP_Prototype Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.11.09-07.34.10:700][773]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.09-07.34.10:700][773]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.11.09-07.34.11:108][774]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2018.11.09-07.34.11:109][774]LogEngine: Changing dynamic resolution state.
+[2018.11.09-07.34.17:390][318]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.09-07.34.18:877][326]LogSavePackage: Moving '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Saved/MotionControllerMapF6324F2B45777B8DFA64ADB2F12C935C.tmp' to '../../../../../../163935T/FYP/FYP/Main/FYP_Prototype/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2018.11.09-07.34.18:911][326]LogFileHelpers: Saving map 'MotionControllerMap' took 1.403
